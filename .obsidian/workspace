@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9) Templates/Daily.md",
+            "file": "3) Daily/2022-09-06.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9) Templates/Daily.md",
+                "file": "3) Daily/2022-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9) Templates/Daily.md",
+                "file": "3) Daily/2022-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9) Templates/Daily.md"
+                "file": "3) Daily/2022-09-06.md"
               }
             }
           }
@@ -139,8 +139,8 @@
   },
   "active": "a26e354ced4822a0",
   "lastOpenFiles": [
-    "3) Daily/2022-09-02.md",
     "9) Templates/Daily.md",
+    "3) Daily/2022-09-02.md",
     "3) Daily/2022-09-07.md",
     "3) Daily/2022-09-05.md",
     "4) References/SoWell/Clients/ABH.md",
