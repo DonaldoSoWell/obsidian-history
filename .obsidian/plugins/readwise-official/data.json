@@ -1,0 +1,25 @@
+{
+  "token": "upMFrzSQLoWooim4xfwxlMjzv23FhjTKexauF4BCEfG1mZL11S",
+  "readwiseDir": "4) References/Articles",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 5441056,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "18094667",
+    "18089421",
+    "17617809",
+    "18094466",
+    "18077281",
+    "18075920",
+    "18505553"
+  ],
+  "booksIDsMap": {
+    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md": "18506758",
+    "4) References/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md": "18539566"
+  },
+  "reimportShowConfirmation": true
+}

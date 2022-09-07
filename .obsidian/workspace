@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "e061e9c89e86e813",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26e354ced4822a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3) Daily/2022-09-07.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5348c8f09d2730a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "88939ae9607cf1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756885b020fa44e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e32c3b3cf217e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa2042652ab6033e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77f8f113a06087d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "88300fb3046b5fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "423caaabd725315b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "33890891a8bc8ab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3) Daily/2022-09-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b46c974a8a8ee1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3) Daily/2022-09-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03254f852e0ae141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4be05c055fd4262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3) Daily/2022-09-07.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a26e354ced4822a0",
+  "lastOpenFiles": [
+    "3) Daily/2022-09-07.md",
+    "3) Daily/2022-09-05.md",
+    "9) Templates/Daily.md",
+    "4) References/SoWell/Clients/ABH.md",
+    "3) Daily/2022-09-06.md",
+    "4) References/4) References.md",
+    "4) References/Obsidian/Test.md",
+    "4) References/Obsidian/Obsidian.md",
+    "test.md",
+    "4) References/Obsidian/atomic-thinking.md"
+  ]
+}

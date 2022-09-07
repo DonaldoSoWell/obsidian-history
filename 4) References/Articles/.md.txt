@@ -1,0 +1,47 @@
+---
+title: 
+author: Getscreen.me
+url: https://hackernoon.com/12-great-free-tools-for-developers-in-2022
+---
+# 
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271200%27%20height=%27600%27/%3e)
+
+Free developer tools** are the best option for small teams and startups that are on a tight budget. Developers often need additional services and applications to speed up development and reduce the time and cost of creating and maintaining software. Here are some of the best free developer tools we've chosen at Free-for-dev: Bitbucket, currency conversion, log management and log management. Free for-development tools include tools for teams, source code repositories, remote access and CI/CD integration tools.
+
+Developers often need additional services and applications to speed up development and reduce the time and cost of creating and maintaining software. Source code repositories, tools for teams, services for continuous integration and deployment (CI/CD), remote access, log management and localization are all services every developer will need regardless of their grade.
+
+Free developer tools are the best option for small teams and startups that are on a tight budget. There is a lot of free or inexpensive software, which can speed up the development process and reduce the time and cost of maintaining the software. But often because of the large availability of such programs, it is difficult to choose the best service for development.
+
+It is not enough to take the first program you see and start working in it. First you need to understand what tasks you need this or that service. Maybe even do some research or testing and find out if it's compatible with other software you use and how good it is according to other developers' reviews.
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27480%27%20height=%27270%27/%3e)![image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+## **Useful services for web development**
+
+But it takes time, and it often happens that this or that program is needed urgently and preferably for free. If you don't have time to search for reliable solutions, here are some of the best free developer tools we've chosen at **[free-for.dev](https://free-for.dev/?ref=hackernoon.com#/):**
+
+**[Bitbucket](https://bitbucket.org/?ref=hackernoon.com)** — is more than just managing Git code. Provides teams with a single place to plan projects, collaborate on code, test and deploy. Unlimited public and private Git repositories for up to 5 users with Pipelines for CI/CD.
+
+**[Abstract API](https://www.abstractapi.com/?ref=hackernoon.com)** — a set of APIs for various uses, including IP address geolocation, gender detection, or even email verification.
+
+— remote access via browser. An indispensable thing when working remotely. There are integrations with popular services and an extension in the Chrome browser. Works on Windows, Linux, Mac, Android. Free for two devices. With promocode PLUSONEDEVICE you can get one more computer on free rate.
+
+**[HeySpace](https://hey.space/?ref=hackernoon.com)** — is a task management tool with chat, calendar, timeline and video calls. Free for 5 users.
+
+**[Directus](https://directus.io/?ref=hackernoon.com)** — is an open data platform for instantly turning any SQL database into an API and beautiful application without code. Completely free, no restrictions. No migration required.
+
+**[codacy.com](http://codacy.com/?ref=hackernoon.com)** — automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for unlimited public and private data stores.
+
+**[Namae](https://namae.dev/?ref=hackernoon.com)** — not sure how to name your project? Search various sites such as Github, Gitlab, Heroku, Twitter, Netlify, and many others for project name availability. It also allows you to analyze domain availability.
+
+**[Bird Eats Bug](https://www.birdeatsbug.com/?ref=hackernoon.com)** — is an indispensable service for any developer (after all, everybody has bugs). Thanks to Bird you will get more information about the problems and detailed steps to fix them (including screenshots and screen recordings), which will save time and resources when making bug reports.
+
+**[Authress](https://authress.io/?ref=hackernoon.com)** — login authentication and access control, unlimited identity providers for any project. Facebook, Google, Twitter and others. The first 1000 API calls are free.
+
+**[pubnub.com](http://pubnub.com/?ref=hackernoon.com)** — is a developer API platform that provides real-time infrastructure in applications. It serves as the basis for online chat, live events, geolocation, remote IoT management and real-time updates at thousands of organizations (including Adobe, Atlassian, Peloton and others).
+
+**[Localeum](https://localeum.com/?ref=hackernoon.com)** — localization platform for product teams, CI/CD integration. Allows you to do translations and development at the same time.
+
+**[CurrencyApi](https://currencyapi.net/?ref=hackernoon.com)** — currency exchange and conversion API for 152 currencies (including cryptocurrencies). Allows you to integrate currency conversion into your mobile app, website, e-commerce platform and more.
+

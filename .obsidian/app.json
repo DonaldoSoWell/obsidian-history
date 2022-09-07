@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "communityPluginSortOrder": "download",
+  "vimMode": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "relative"
+}

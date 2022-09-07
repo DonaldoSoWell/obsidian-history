@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "priority-tags"
+  ]
+}
