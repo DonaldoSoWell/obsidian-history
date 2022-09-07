@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-07.md",
+            "file": "9) Templates/Daily.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Daily/2022-09-07.md",
+                "file": "9) Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Daily/2022-09-07.md",
+                "file": "9) Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Daily/2022-09-07.md"
+                "file": "9) Templates/Daily.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "a26e354ced4822a0",
   "lastOpenFiles": [
+    "3) Daily/2022-09-02.md",
+    "9) Templates/Daily.md",
     "3) Daily/2022-09-07.md",
     "3) Daily/2022-09-05.md",
-    "9) Templates/Daily.md",
     "4) References/SoWell/Clients/ABH.md",
     "3) Daily/2022-09-06.md",
     "4) References/4) References.md",
     "4) References/Obsidian/Test.md",
     "4) References/Obsidian/Obsidian.md",
-    "test.md",
-    "4) References/Obsidian/atomic-thinking.md"
+    "test.md"
   ]
 }
