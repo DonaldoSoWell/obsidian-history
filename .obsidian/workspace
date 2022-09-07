@@ -7,8 +7,13 @@
         "id": "3cc4e12dd5aab4b3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9) Templates/Daily.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9) Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9) Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9) Templates/Daily.md"
+              }
             }
           }
         ]
@@ -128,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756885b020fa44e4",
+  "active": "3cc4e12dd5aab4b3",
   "lastOpenFiles": [
-    "2) Projets/2) Projets.md",
-    "3) Daily/2022-09-07.md",
-    "9) Templates/Daily.md",
     "3) Daily/2022-09-06.md",
-    "3) Daily/2022-09-02.md",
-    "3) Daily/2022-09-05.md",
     "4) References/SoWell/Clients/ABH.md",
     "4) References/4) References.md",
-    "4) References/Obsidian/Test.md",
-    "4) References/Obsidian/Obsidian.md"
+    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
+    "3) Daily/2022-09-07.md",
+    "2) Projets/Application mobile clean.md",
+    "2) Projets/2) Projets.md",
+    "3) Daily/Untitled Kanban.md",
+    "9) Templates/Daily.md",
+    "3) Daily/2022-09-02.md"
   ]
 }
