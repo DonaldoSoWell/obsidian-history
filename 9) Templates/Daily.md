@@ -2,7 +2,6 @@
 
 ## TODOs
 
-- [x] test ✅ 2022-09-07
 - [ ] 
 
 ## Tasks Due Today
