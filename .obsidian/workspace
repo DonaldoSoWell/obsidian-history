@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2) Projets/2) Projets.md",
+            "file": "3) Daily/2022-09-08.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,128 +20,105 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5348c8f09d2730a4",
-    "type": "split",
+    "id": "0061a581af625ae5",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "88939ae9607cf1fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "756885b020fa44e4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e32c3b3cf217e64",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "aa2042652ab6033e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "edc432ad30543b27",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "68a370ba2cf7d905",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "aa0d4ae520de2c29",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "db145fb7647c28e9",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "77f8f113a06087d3",
-    "type": "split",
+    "id": "cb992d375fdfa9c7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "88300fb3046b5fcd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "423caaabd725315b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "33890891a8bc8ab0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2) Projets/2) Projets.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b46c974a8a8ee1c8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2) Projets/2) Projets.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "03254f852e0ae141",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a4be05c055fd4262",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2) Projets/2) Projets.md"
-              }
-            }
+        "id": "e42a5293aec16bc0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3) Daily/2022-09-08.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "d76ca41c3515355f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "3) Daily/2022-09-08.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8395993d5130e1b2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "3) Daily/2022-09-08.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "3cc4e12dd5aab4b3",
   "lastOpenFiles": [
+    "2) Projets/2) Projets.md",
     "4) References/Perso/Liens.md",
     "4) References/4) References.md",
-    "2) Projets/2) Projets.md",
     "9) Templates/Daily.md",
     "3) Daily/2022-09-06.md",
     "4) References/SoWell/Clients/ABH.md",
