@@ -11,5 +11,5 @@
   "vimMode": false,
   "livePreview": true,
   "showFrontmatter": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "shortest"
 }
