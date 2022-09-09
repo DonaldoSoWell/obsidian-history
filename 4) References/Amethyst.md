@@ -26,4 +26,5 @@
 	- Choose a default layout for each display https://github.com/ianyh/Amethyst/issues/1098 
 	- 
 - Allow Nord/East/West/South window focus instead of cycle only
+	- Directional focus https://github.com/ianyh/Amethyst/issues/521
 - Allow Nord/East/West/South window swap instead of main only
