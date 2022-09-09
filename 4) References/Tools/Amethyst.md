@@ -6,6 +6,8 @@
 - Actions
 	- Layout
 		- `mod1 + space` Cycle layout forward
+		- `mod1 + a` Select tall layout
+		- `mod1 + d` Select fullscreen layout
 	- Focus
 		- `mod1 + j` Move focus counter clockwise
 		- `mod1 + k` Move focus clockwise
