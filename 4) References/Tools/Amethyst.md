@@ -6,7 +6,7 @@
 - Actions
 	- Layout
 		- `mod1 + t` Select Tall-right layout
-		- `mod1 + s` Select Two-pane layout
+		- `mod1 + s` Select Row layout
 		- `mod1 + r` Select Fullscreen layout
 	- Windows
 		- Focus
