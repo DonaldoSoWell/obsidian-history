@@ -24,6 +24,10 @@
 - Allow to switch to specific layout
 - Allow per screen layout config (eg Screen 1 : Full screen+row ; Screen 2 Full screen+Tall)
 	- Choose a default layout for each display https://github.com/ianyh/Amethyst/issues/1098 
+	- Add option to specify initial layout for each virtual desktop https://github.com/ianyh/Amethyst/issues/302
+	- Persistent Application State https://github.com/ianyh/Amethyst/issues/151
+	- Configure default layout based on screen dimensions https://github.com/ianyh/Amethyst/issues/293
+	- Assign a default layout to a space https://github.com/ianyh/Amethyst/issues/150
 - Allow Nord/East/West/South window focus instead of cycle only
 	- Directional focus https://github.com/ianyh/Amethyst/issues/521
 - Allow Nord/East/West/South window swap instead of main only
