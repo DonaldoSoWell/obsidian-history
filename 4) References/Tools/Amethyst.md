@@ -1,26 +1,32 @@
 ## Config
 
 - Modifiers
-	- `mod1` = `option + shift + command`
-	- `mod2` = `ctrl + option + shift + command`
+	- `mod1` => `option + shift + command`
+	- `mod2` => `ctrl + option + shift + command`
 - Actions
 	- Layout
 		- `mod1 + t` Select Tall-right layout
 		- `mod1 + s` Select Two-pane layout
 		- `mod1 + r` Select Fullscreen layout
-	- Focus
-		- `mod1 + j` Move focus counter clockwise
-		- `mod1 + k` Move focus clockwise
-		- `mod1 + w` Focus Screen 1
-		- `mod1 + e` Focus Screen 2
-	- Swap
-		- `mod1 + enter` Swap focused window with main window
+	- Windows
+		- Focus
+			- `mod1 + j` Move focus counter clockwise
+			- `mod1 + k` Move focus clockwise 
+		- Swap
+			- `mod1 + enter` Swap focused window with main window
+		- Throw
+			- `mod2 + w` Throw focused window to screen 1
+			- `mod2 + e` Throw focused window to screen 2
+		- Toggle float
+			- `mod1 + a` 
+	- Screen
+		- Focus
+			- `mod1 + w` Focus Screen 1
+			- `mod1 + e` Focus Screen 2
 	- Misc
 		- `mod1 + z` Force windows to be reevaluated
-		- `mod2 + z` Relaunch Amethyst
-	- Throw
-		- `mod2 + w` Throw focused window to screen 1
-		- `mod2 + e` Throw focused window to screen 2
+		- `mod2 + x` Relaunch Amethyst
+		- `mod1 + i` Display current layout
 
 ## Needs
 - Allow to switch to specific layout
