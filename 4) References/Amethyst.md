@@ -12,8 +12,6 @@
 		- `mod1 + w` Focus Screen 1
 		- `mod1 + e` Focus Screen 2
 	- Swap
-		- `mod2 + j` Swap focused window counter clockwise
-		- `mod2 + k` Swap focused window clockwise
 		- `mod1 + enter` Swap focused window with main window
 	- Misc
 		- `mod1 + z` Force windows to be reevaluated
