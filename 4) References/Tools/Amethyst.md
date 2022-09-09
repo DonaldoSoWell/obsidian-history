@@ -5,9 +5,9 @@
 	- `mod2` = `ctrl + option + shift + command`
 - Actions
 	- Layout
-		- `mod1 + space` Cycle layout forward
-		- `mod1 + a` Select tall layout
-		- `mod1 + d` Select fullscreen layout
+		- `mod1 + t` Select Tall-right layout
+		- `mod1 + s` Select Two-pane layout
+		- `mod1 + r` Select Fullscreen layout
 	- Focus
 		- `mod1 + j` Move focus counter clockwise
 		- `mod1 + k` Move focus clockwise
