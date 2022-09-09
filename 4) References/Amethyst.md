@@ -19,3 +19,9 @@
 	- Throw
 		- `mod2 + w` Throw focused window to screen 1
 		- `mod2 + e` Throw focused window to screen 2
+
+## Needs
+- Allow to switch to specific layout
+- Allow per screen layout config (eg Screen 1 : Full screen+row ; Screen 2 Full screen+Tall)
+- Allow Nord/East/West/South window focus instead of cycle only
+- Allow Nord/East/West/South window swap instead of main only
