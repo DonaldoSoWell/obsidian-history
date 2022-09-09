@@ -22,6 +22,7 @@
 
 ## Needs
 - Allow to switch to specific layout
+	- Already implemented https://github.com/ianyh/Amethyst#keyboard-shortcuts
 - Allow per screen layout config (eg Screen 1 : Full screen+row ; Screen 2 Full screen+Tall)
 	- Choose a default layout for each display https://github.com/ianyh/Amethyst/issues/1098 
 	- Add option to specify initial layout for each virtual desktop https://github.com/ianyh/Amethyst/issues/302
