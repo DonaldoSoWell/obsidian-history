@@ -1,6 +1,4 @@
-# 2022-09-09 Friday
-
-## Amethyst config
+## Config
 
 - Modifiers
 	- `mod1` = `option + shift + command`
@@ -23,29 +21,3 @@
 	- Throw
 		- `mod2 + w` Throw focused window to screen 1
 		- `mod2 + e` Throw focused window to screen 2
-
-## TODOs
-
-- [ ] 
-
-## Tasks Due Today
-
-```dataview
-
-TASK WHERE !completed AND due = date("2022-09-09") AND text != ""
-
-```
-
-## Tasks Overdue
-
-```dataview
-
-TASK WHERE !completed AND due < date("2022-09-09") AND text != ""
-
-```
-
-## Tasks Completed Today
-
-```dataview
-TASK WHERE completion = date("2022-09-09") AND due != date("2022-09-09")
-```
