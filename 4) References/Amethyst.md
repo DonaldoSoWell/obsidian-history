@@ -24,7 +24,6 @@
 - Allow to switch to specific layout
 - Allow per screen layout config (eg Screen 1 : Full screen+row ; Screen 2 Full screen+Tall)
 	- Choose a default layout for each display https://github.com/ianyh/Amethyst/issues/1098 
-	- 
 - Allow Nord/East/West/South window focus instead of cycle only
 	- Directional focus https://github.com/ianyh/Amethyst/issues/521
 - Allow Nord/East/West/South window swap instead of main only
