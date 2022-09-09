@@ -10,10 +10,13 @@
 		- `mod1 + r` Select Fullscreen layout
 	- Windows
 		- Focus
+			- `mod1 + m` Move focus to main window
 			- `mod1 + j` Move focus counter clockwise
 			- `mod1 + k` Move focus clockwise 
 		- Swap
 			- `mod1 + enter` Swap focused window with main window
+			- `mod2 + j` Swap focused window counter clockwise
+			-  `mod2 + k` Swap focused window clockwise
 		- Throw
 			- `mod2 + w` Throw focused window to screen 1
 			- `mod2 + e` Throw focused window to screen 2
