@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-09.md",
+            "file": "3) Daily/2022-09-06.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Daily/2022-09-09.md",
+                "file": "3) Daily/2022-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Daily/2022-09-09.md",
+                "file": "3) Daily/2022-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Daily/2022-09-09.md"
+                "file": "3) Daily/2022-09-06.md"
               }
             }
           }
@@ -139,8 +139,8 @@
   },
   "active": "5abc7983d7cbfc11",
   "lastOpenFiles": [
-    "3) Daily/2022-09-06.md",
     "3) Daily/2022-09-09.md",
+    "3) Daily/2022-09-06.md",
     "4) References/Tools/Amethyst.md",
     "4) References/Tools/Untitled.md",
     "4) References/Tools/Obsidian/Obsidian.md",
