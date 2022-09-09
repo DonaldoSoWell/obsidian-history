@@ -14,5 +14,6 @@
 - **Tools**
 	- [[Amethyst]]
 	- **[[Obsidian]]**
+	- [[Untitled]]
 
 %% End Waypoint %%

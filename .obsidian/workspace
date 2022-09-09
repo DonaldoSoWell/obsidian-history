@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc4e12dd5aab4b3",
+        "id": "5abc7983d7cbfc11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4) References/Tools/Amethyst.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4) References/Tools/Amethyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4) References/Tools/Amethyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4) References/Tools/Amethyst.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756885b020fa44e4",
+  "active": "5abc7983d7cbfc11",
   "lastOpenFiles": [
-    "4) References/Tools/Obsidian/Obsidian.md",
+    "4) References/Tools/Untitled.md",
     "4) References/Tools/Amethyst.md",
+    "4) References/Tools/Obsidian/Obsidian.md",
     "3) Daily/2022-09-09.md",
     "3) Daily/2022-09-08.md",
     "3) Daily/2022-09-07.md",
     "3) Daily/2022-09-05.md",
     "9) Templates/Daily.md",
     "3) Daily/2022-09-06.md",
-    "4) References/Perso/Liens.md",
-    "2) Projets/2) Projets.md"
+    "4) References/Perso/Liens.md"
   ]
 }
