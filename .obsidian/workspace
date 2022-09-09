@@ -7,8 +7,13 @@
         "id": "5abc7983d7cbfc11",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "4) References/Tools/Amethyst.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4) References/Tools/Amethyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4) References/Tools/Amethyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4) References/Tools/Amethyst.md"
+              }
             }
           }
         ]
