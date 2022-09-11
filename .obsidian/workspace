@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-10.md",
+            "file": "2) Projets/Reporter V2.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3) Daily/2022-09-10.md",
+            "file": "2) Projets/Reporter V2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3) Daily/2022-09-10.md",
+            "file": "2) Projets/Reporter V2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3) Daily/2022-09-10.md"
+            "file": "2) Projets/Reporter V2.md"
           }
         }
       },
@@ -124,15 +124,15 @@
   },
   "active": "5abc7983d7cbfc11",
   "lastOpenFiles": [
+    "2) Projets/Application mobile clean.md",
+    "2) Projets/2) Projets.md",
+    "3) Daily/2022-09-11.md",
     "4) References/SoWell/Hébergements.md",
     "3) Daily/2022-09-06.md",
     "3) Daily/2022-09-09.md",
     "4) References/SoWell/Clients/Ozanam.md",
     "4) References/Tools/Amethyst.md",
     "4) References/Tools/Untitled.md",
-    "4) References/Tools/Obsidian/Obsidian.md",
-    "3) Daily/2022-09-08.md",
-    "3) Daily/2022-09-07.md",
-    "3) Daily/2022-09-05.md"
+    "4) References/Tools/Obsidian/Obsidian.md"
   ]
 }
