@@ -14,7 +14,7 @@ TASK WHERE !completed AND due = date("{{date:YYYY-MM-DD}}") AND text != ""
 
 ```
 
-##  Tasks Overdue
+## ⚠️ Tasks Overdue
 
 ```dataview
 
