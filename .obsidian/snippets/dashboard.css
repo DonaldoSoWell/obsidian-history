@@ -6,7 +6,11 @@
   padding-top: 20px !important;
 }
 
-.dashboard > .markdown-embed-title {
+.dashboard
+  .markdown-preview-section
+  .internal-embed
+  .markdown-embed
+  .markdown-embed-title {
   display: none;
 }
 
