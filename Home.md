@@ -33,6 +33,13 @@ short mode
 ```dataview
 TASK WHERE !completed AND due > date(today) AND text != "" SORT due ASC 
 ```
+
+```tasks
+
+due after date(today)
+not done  
+
+```
 ## ⏳ Pending
 ```dataview
 TASK WHERE !completed AND status = "I" OR status = "/" OR status = ">"
