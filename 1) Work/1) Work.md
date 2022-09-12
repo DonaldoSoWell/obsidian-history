@@ -7,8 +7,11 @@
 	- [[Application mobile clean]]
 	- [[Reporter V2]]
 - **Tools**
-	- [[Amethyst]]
-	- [[Hébergements]]
-	- **[[Obsidian]]**
+	- **Productivity**
+		- [[Amethyst]]
+		- **[[Obsidian]]**
+	- **SoWell**
+		- [[Hébergements]]
+		- [[Teams]]
 
 %% End Waypoint %%

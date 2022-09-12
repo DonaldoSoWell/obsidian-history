@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1) Work/1) Work.md",
+            "file": "3) Daily/2022-09-12.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1) Work/1) Work.md",
+                "file": "3) Daily/2022-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1) Work/1) Work.md",
+                "file": "3) Daily/2022-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1) Work/1) Work.md"
+                "file": "3) Daily/2022-09-12.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "04824c0e56541236",
   "lastOpenFiles": [
+    "1) Work/Tools/SoWell/Teams.md",
     "3) Daily/2022-09-12.md",
     "Home.md",
-    "2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md",
-    "2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
-    "2) Personal/2) Personal.md",
-    "0) Inbox/4 Essential ES2015 Features for Vue.js Development.md",
-    "4) Templates/Daily.md",
-    "3) Daily/2022-09-10.md",
-    "3) Daily/2022-09-05.md",
-    "3) Daily/2022-09-04.md"
+    "1) Work/Tools/SoWell/Hébergements.md",
+    "1) Work/Tools/Productivity/Obsidian/Zettelkasten.md",
+    "1) Work/Tools/Productivity/Obsidian/GTD.md",
+    "1) Work/Tools/Productivity/Obsidian/atomic-thinking.md",
+    "1) Work/Tools/Productivity/Obsidian/Obsidian.md",
+    "1) Work/1) Work.md",
+    "2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md"
   ]
 }
