@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "9) Templates",
+  "templates_folder": "4) Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "3) Daily",
+      "template": "4) Templates/Daily.md"
     }
   ],
   "syntax_highlighting": true,

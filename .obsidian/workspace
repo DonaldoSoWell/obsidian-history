@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
+            "file": "1) Work/1) Work.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232
   },
   "right": {
     "id": "77f8f113a06087d3",
@@ -73,20 +73,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "423caaabd725315b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "33890891a8bc8ab0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1) Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1) Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "1) Work/1) Work.md"
               }
             }
           }
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756885b020fa44e4",
+  "active": "04824c0e56541236",
   "lastOpenFiles": [
-    "0) Inbox/4 Essential ES2015 Features for Vue.js Development.md",
-    "Home.md",
     "3) Daily/2022-09-12.md",
+    "Home.md",
+    "2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md",
+    "2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
+    "2) Personal/2) Personal.md",
+    "0) Inbox/4 Essential ES2015 Features for Vue.js Development.md",
     "4) Templates/Daily.md",
     "3) Daily/2022-09-10.md",
     "3) Daily/2022-09-05.md",
-    "3) Daily/2022-09-04.md",
-    "3) Daily/2022-09-03.md",
-    "3) Daily/2022-09-02.md",
-    "3) Daily/2022-09-01.md"
+    "3) Daily/2022-09-04.md"
   ]
 }
