@@ -15,16 +15,11 @@ color blue
 ^button-nivw
 
 ## 🆘 Overdue
-```dataview
-
-TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND status != "I" AND status != "/" AND status != ">" AND (due != "") AND (due < date(yesterday)) AND text != ""
-
-```
-
 ```tasks
 
 due before date(today)
 not done  
+short mode
 
 ```
 ## 🔔 Due Today
@@ -36,14 +31,11 @@ short mode
 
 ```
 ## 🔜 Upcomming
-```dataview
-TASK WHERE !completed AND due > date(today) AND text != "" SORT due ASC 
-```
-
 ```tasks
 
 due after date(today)
 not done  
+short mode
 
 ```
 ## ⏳ Pending
