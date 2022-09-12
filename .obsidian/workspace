@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "60f661bef86f04bc",
+        "id": "04824c0e56541236",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Home.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -137,16 +137,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60f661bef86f04bc",
+  "active": "04824c0e56541236",
   "lastOpenFiles": [
-    "2) Projets.md",
-    "Home.md",
     "1) Work/1) Work.md",
+    "Home.md",
+    "2) Projets.md",
     "4) References/4) References.md",
     "3) Daily/2022-09-12.md",
     "images/work-banner.jpg.jpg",
-    "1) Work/Application mobile clean.md",
-    "1) Work/Reporter V2.md",
+    "1) Work/Projets/Application mobile clean.md",
+    "1) Work/Projets/Reporter V2.md",
     "3) Daily/2022-09-11.md",
     "3) Daily/2022-09-04.md"
   ]

@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
-- [[Application mobile clean]]
-- [[Reporter V2]]
+- **Projets**
+	- [[Application mobile clean]]
+	- [[Reporter V2]]
 
 %% End Waypoint %%
