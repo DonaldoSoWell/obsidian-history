@@ -44,3 +44,7 @@
 .dashboard div > ul > li {
   min-width: 250px;
 }
+
+.obsidian-banner-wrapper .frontmatter {
+  display: none;
+}
