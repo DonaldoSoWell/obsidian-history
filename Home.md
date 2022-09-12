@@ -24,7 +24,7 @@ TASK WHERE !completed AND due = date("{{date:YYYY-MM-DD}}") AND text != ""
 ## 🆘 Overdue
 ```dataview
 
-TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND (due < date(yesterday)) AND text != ""
+TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND (due != "") AND (due < date(yesterday)) AND text != ""
 
 ```
 
