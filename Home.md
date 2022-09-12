@@ -8,7 +8,7 @@ banner_y: 0.75
 
 # Daily note 
 ```dataview
-="[[" + dateformat(date(today), "yyyy-MM-dd") + "]]"
+list from ="[[" + dateformat(date(today), "yyyy-MM-dd") + "|DAILY NOTE ]]"
 ```
 # Work
 - ![[1) Work]]
