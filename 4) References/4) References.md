@@ -1,5 +1,3 @@
-# References 
-
 %% Begin Waypoint %%
 - **Articles**
 	- [[A Guide to Obsidian Local, Markdown-Powered Networked Notes]]

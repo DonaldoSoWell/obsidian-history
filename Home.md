@@ -8,4 +8,6 @@ banner_y: 0.75
 
 # Work
 - ![[2) Projets]]
-- 
+
+# References
+![[4) References]]
