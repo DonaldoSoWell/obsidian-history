@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 5486811,
+  "lastSavedStatusID": 5489688,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -19,7 +19,16 @@
   ],
   "booksIDsMap": {
     "2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md": "18506758",
-    "2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md": "18539566"
+    "2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md": "18539566",
+    "4) References/Articles/Managing VACUUM on Heroku Postgres.md": "18075920",
+    "4) References/Articles/httpslink.medium.comMI7ocwniHsb.md": "18077281",
+    "4) References/Articles/How to Write Detailed Product Requirements Without Killing Creativity.md": "18094466",
+    "4) References/Articles/4 Essential ES2015 Features for Vue.js Development.md": "18094667",
+    "4) References/Articles/12 Great Free Tools for Developers in 2022.md": "18089421",
+    "4) References/Articles/12 Great Free Tools for Developers in 2022-2.md": "17617809",
+    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md": "18506758",
+    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md": "18505553",
+    "4) References/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md": "18539566"
   },
   "reimportShowConfirmation": true
 }

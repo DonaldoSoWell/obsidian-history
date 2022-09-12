@@ -20,11 +20,7 @@
 
 /* Title at top of the document */
 .dashboard .markdown-preview-section .title {
-  top: 60px;
-  position: absolute;
-  font-size: 26pt !important;
-  font-weight: bolder;
-  letter-spacing: 8px;
+  display: none !important;
 }
 
 .dashboard h1 {
