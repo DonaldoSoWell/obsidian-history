@@ -28,9 +28,8 @@ TASK WHERE !completed AND due = date(today) AND text != ""
 ```
 ## ⏳ Upcomming
 ```dataview
-TASK WHERE !completed AND due < date(tomorrow) AND text != ""
+TASK WHERE !completed AND due > date(tomorrow) AND text != "" SORT due ASC
 ```
-
 
 # Work
 - ![[1) Work]]
