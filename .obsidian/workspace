@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-12.md",
+            "file": "2) Projets/2) Projets.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Daily/2022-09-12.md",
+                "file": "2) Projets/2) Projets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Daily/2022-09-12.md",
+                "file": "2) Projets/2) Projets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Daily/2022-09-12.md"
+                "file": "2) Projets/2) Projets.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "5abc7983d7cbfc11",
   "lastOpenFiles": [
-    "3) Daily/2022-09-12.md",
-    "3) Daily/2022-09-10.md",
+    "2) Projets/Application mobile clean.md",
     "2) Projets/Reporter V2.md",
-    "4) References/SoWell/Hébergements.md",
-    "3) Daily/2022-09-09.md",
-    "3) Daily/2022-09-06.md",
-    "4) References/SoWell/Clients/Ozanam.md",
-    "4) References/Tools/Amethyst.md",
-    "4) References/Tools/Untitled.md",
-    "4) References/Tools/Obsidian/Obsidian.md"
+    "3) Daily/2022-09-12.md",
+    "3) Daily/2022-09-11.md",
+    "3) Daily/2022-09-04.md",
+    "3) Daily/2022-09-03.md",
+    "3) Daily/2022-09-02.md",
+    "3) Daily/2022-09-01.md",
+    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
+    "4) References/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md"
   ]
 }
