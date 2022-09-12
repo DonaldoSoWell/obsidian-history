@@ -20,119 +20,134 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "94856ac8e2fd5b7a",
-    "type": "mobile-drawer",
+    "id": "5348c8f09d2730a4",
+    "type": "split",
     "children": [
       {
-        "id": "e9a29efc2a5917ac",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7495486855fa72f8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "88939ae9607cf1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756885b020fa44e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e32c3b3cf217e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa2042652ab6033e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "9e59cc78d3f640d3",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "0ba65a66313a2df1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "0832c3be4f71808c",
-    "type": "mobile-drawer",
+    "id": "77f8f113a06087d3",
+    "type": "split",
     "children": [
       {
-        "id": "03b1db0c0ac09638",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "2) Projets/Reporter V2.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "88300fb3046b5fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "423caaabd725315b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "33890891a8bc8ab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2) Projets/Reporter V2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b46c974a8a8ee1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2) Projets/Reporter V2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03254f852e0ae141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4be05c055fd4262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2) Projets/Reporter V2.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "ccc313cba4cec697",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "2) Projets/Reporter V2.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d2e172faaa9bbf66",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "2) Projets/Reporter V2.md"
-          }
-        }
-      },
-      {
-        "id": "99b4a58c9ae58b1b",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "5abc7983d7cbfc11",
   "lastOpenFiles": [
-    "2) Projets/Application mobile clean.md",
-    "2) Projets/2) Projets.md",
-    "3) Daily/2022-09-11.md",
     "4) References/SoWell/Hébergements.md",
-    "3) Daily/2022-09-06.md",
+    "3) Daily/2022-09-12.md",
     "3) Daily/2022-09-09.md",
+    "3) Daily/2022-09-06.md",
     "4) References/SoWell/Clients/Ozanam.md",
     "4) References/Tools/Amethyst.md",
     "4) References/Tools/Untitled.md",
-    "4) References/Tools/Obsidian/Obsidian.md"
+    "4) References/Tools/Obsidian/Obsidian.md",
+    "3) Daily/2022-09-08.md",
+    "3) Daily/2022-09-07.md"
   ]
 }
