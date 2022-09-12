@@ -4,22 +4,6 @@ cssclass: dashboard
 banner_x: 0.5
 banner_y: 0.75
 ---
-<div class="title" style="color:Sienna">HOME</div>
-
-
-```dataviewjs
-const myTasks = dv.taskList(dv.pages().file.tasks.where(t => !t.completed));
-
-dv.header(2,"Overdue");
-dv.taskList(myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date));
-
-dv.header(2,"Today");
-dv.taskList(myTasks.filter(t=> moment(t.date).isSame(moment(),"day")).sort(t=>t.date));
-
-dv.header(2,"Upcoming");
-dv.taskList(myTasks.filter(t=> moment(t.date).isAfter(moment(),"day")).sort(t=>t.date));
-```
-
 # Tasks
 
 ```button
@@ -40,7 +24,7 @@ TASK WHERE !completed AND due = date("{{date:YYYY-MM-DD}}") AND text != ""
 ## 🆘 Overdue
 ```dataview
 
-TASK WHERE !completed AND due < date("{{date:YYYY-MM-DD}}") AND text != ""
+TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND (due < date(yesterday)) AND text != ""
 
 ```
 
