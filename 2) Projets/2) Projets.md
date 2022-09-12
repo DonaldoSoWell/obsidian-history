@@ -1,5 +1,3 @@
-# 2) Projets 
-
 %% Begin Waypoint %%
 - [[Application mobile clean]]
 - [[Reporter V2]]
