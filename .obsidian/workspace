@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5abc7983d7cbfc11",
+        "id": "60f661bef86f04bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2) Projets/2) Projets.md",
+            "file": "Home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Projets/2) Projets.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) Projets/2) Projets.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) Projets/2) Projets.md"
+                "file": "Home.md"
               }
             }
           }
@@ -137,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5abc7983d7cbfc11",
+  "active": "60f661bef86f04bc",
   "lastOpenFiles": [
+    "2) Projets/2) Projets.md",
+    "Home.md",
     "2) Projets/Application mobile clean.md",
     "2) Projets/Reporter V2.md",
     "3) Daily/2022-09-12.md",
@@ -146,8 +148,6 @@
     "3) Daily/2022-09-04.md",
     "3) Daily/2022-09-03.md",
     "3) Daily/2022-09-02.md",
-    "3) Daily/2022-09-01.md",
-    "4) References/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
-    "4) References/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md"
+    "3) Daily/2022-09-01.md"
   ]
 }
