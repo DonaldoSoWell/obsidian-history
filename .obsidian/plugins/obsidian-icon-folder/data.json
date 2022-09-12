@@ -20,9 +20,8 @@
       "left": 2
     }
   },
-  "1) Inbox": "FasInbox",
-  "2) Projets": "FasRoad",
   "3) Daily": "FasCalendarDay",
   "4) References": "FasBriefcase",
-  "9) Templates": "FasStamp"
+  "9) Templates": "FasStamp",
+  "1) Work": "FasRoad"
 }

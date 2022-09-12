@@ -7,7 +7,7 @@ banner_y: 0.75
 <div class="title" style="color:Sienna">HOME</div>
 
 # Work
-- ![[2) Projets]]
+- ![[1) Work]]
 
 # References
 ![[4) References]]
