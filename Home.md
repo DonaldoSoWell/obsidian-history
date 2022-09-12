@@ -13,21 +13,11 @@ action Daily notes: Open today's daily note
 color blue
 ```
 ^button-nivw
-
-## 🆘 Overdue
+## 🔔 Due
 ```tasks
 
-due before date(today)
+due before date(tomorrow)
 not done  
-short mode
-
-```
-## 🔔 Due Today
-```tasks
-
-due on date(today)
-not done  
-short mode
 
 ```
 ## 🔜 Upcomming
