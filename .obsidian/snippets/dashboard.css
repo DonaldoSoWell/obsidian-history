@@ -48,3 +48,7 @@
 .obsidian-banner-wrapper .frontmatter {
   display: none;
 }
+
+.contains-task-list {
+  display: inline-block !important ;
+}
