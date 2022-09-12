@@ -23,5 +23,6 @@
   "3) Daily": "FasCalendarDay",
   "1) Work": "FasRoad",
   "2) Personal": "FasBriefcase",
-  "4) Templates": "FasStamp"
+  "4) Templates": "FasStamp",
+  "0) Inbox": "FasInbox"
 }
