@@ -17,7 +17,7 @@ color blue
 ## 🆘 Overdue
 ```dataview
 
-TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND (due != "") AND (due < date(yesterday)) AND text != ""
+TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND status != "I" AND status != "/" AND status != ">" AND (due != "") AND (due < date(yesterday)) AND text != ""
 
 ```
 ## 🔔 Due Today
@@ -30,7 +30,10 @@ TASK WHERE !completed AND due = date(today) AND text != ""
 ```dataview
 TASK WHERE !completed AND due > date(today) AND text != "" SORT due ASC
 ```
-
+## ⏳ Pending
+```dataview
+TASK WHERE !completed AND status = "I" OR status = "/" OR status = ">"
+```
 # Work
 - ![[1) Work]]
 
