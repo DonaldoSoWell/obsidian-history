@@ -21,9 +21,12 @@ TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND status !=
 
 ```
 ## 🔔 Due Today
-```dataview
+```tasks
 
-TASK WHERE !completed AND due = date(today) AND text != ""
+due on date(today)
+path includes Daily Notes  
+not done  
+short mode
 
 ```
 ## 🔜 Upcomming
