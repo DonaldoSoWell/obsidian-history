@@ -2,20 +2,17 @@
 
 [[Home]]
 
-## TODO
-
+## 📆 TODO
 - [ ] 
 
-## Tasks Due Today
-
+## 🔔 Tasks Due Today
 ```dataview
 
 TASK WHERE !completed AND due = date("{{date:YYYY-MM-DD}}") AND text != ""
 
 ```
 
-## ⁉️ Tasks Overdue
-
+## 🆘 Tasks Overdue
 ```dataview
 
 TASK WHERE !completed AND due < date("{{date:YYYY-MM-DD}}") AND text != ""
@@ -23,7 +20,6 @@ TASK WHERE !completed AND due < date("{{date:YYYY-MM-DD}}") AND text != ""
 ```
 
 ## ✅ Tasks Completed Today
-
 ```dataview
 TASK WHERE completion = date("{{date:YYYY-MM-DD}}") AND due != date("{{date:YYYY-MM-DD}}")
 ```
