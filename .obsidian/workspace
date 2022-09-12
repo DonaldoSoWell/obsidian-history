@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-10.md",
-            "mode": "source",
+            "file": "Home.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Daily/2022-09-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Daily/2022-09-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Daily/2022-09-10.md"
+                "file": "Home.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "04824c0e56541236",
   "lastOpenFiles": [
-    "3) Daily/2022-09-12.md",
     "4) Templates/Daily.md",
     "Home.md",
+    "3) Daily/2022-09-12.md",
+    "3) Daily/2022-09-10.md",
     "3) Daily/2022-09-05.md",
     "3) Daily/2022-09-04.md",
     "3) Daily/2022-09-03.md",
     "3) Daily/2022-09-02.md",
     "3) Daily/2022-09-01.md",
-    "3) Daily/2022-09-11.md",
-    "3) Daily/2022-09-10.md"
+    "3) Daily/2022-09-11.md"
   ]
 }
