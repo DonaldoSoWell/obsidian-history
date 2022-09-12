@@ -6,34 +6,36 @@ banner_y: 0.75
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
+# Tasks
+
 ```button
-name Daily note
+name Add daily tasks
 type command
 action Daily notes: Open today's daily note
 color blue
 ```
 ^button-nivw
-# Work
-- ![[1) Work]]
 
-# Personal
-![[2) Personal]]
-
-## 🔔 Tasks Due Today
+## 🔔 Due Today
 ```dataview
 
 TASK WHERE !completed AND due = date("{{date:YYYY-MM-DD}}") AND text != ""
 
 ```
 
-## 🆘 Tasks Overdue
+## 🆘 Overdue
 ```dataview
 
 TASK WHERE !completed AND due < date("{{date:YYYY-MM-DD}}") AND text != ""
 
 ```
 
-## ✅ Tasks Completed Today
+## ✅ Completed Today
 ```dataview
 TASK WHERE completion = date("{{date:YYYY-MM-DD}}") AND due != date("{{date:YYYY-MM-DD}}")
 ```
+# Work
+- ![[1) Work]]
+
+# Personal
+![[2) Personal]]
