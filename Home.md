@@ -26,7 +26,11 @@ TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND (due != "
 TASK WHERE !completed AND due = date(today) AND text != ""
 
 ```
-## 🔜 Upcomming
+## ⏳ Upcomming
+```dataview
+TASK WHERE !completed AND due < date(tomorrow) AND text != ""
+```
+
 
 # Work
 - ![[1) Work]]
