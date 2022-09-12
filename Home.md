@@ -8,7 +8,7 @@ banner_y: 0.75
 
 
 ```dataviewjs
-const myTasks = dv.pages().file.tasks .where(t => !t.completed);
+const myTasks = dv.taskList(dv.pages().file.tasks.where(t => !t.completed));
 
 dv.header(2,"Overdue");
 dv.taskList(myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date));
