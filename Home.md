@@ -28,7 +28,7 @@ not done
 short mode
 
 ```
-## ⏳ Pending
+## ⏳ Unplanned
 ```tasks
 
 no due date
