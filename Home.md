@@ -20,11 +20,17 @@ color blue
 TASK WHERE (status != "x") AND (status != "X") AND (status != "-") AND status != "I" AND status != "/" AND status != ">" AND (due != "") AND (due < date(yesterday)) AND text != ""
 
 ```
+
+```tasks
+
+due before date(today)
+not done  
+
+```
 ## 🔔 Due Today
 ```tasks
 
 due on date(today)
-path includes Daily Notes  
 not done  
 short mode
 
@@ -41,8 +47,12 @@ not done
 
 ```
 ## ⏳ Pending
-```dataview
-TASK WHERE !completed AND status = "I" OR status = "/" OR status = ">"
+```tasks
+
+no due date
+not done 
+short mode
+
 ```
 # Work
 - ![[1) Work]]
