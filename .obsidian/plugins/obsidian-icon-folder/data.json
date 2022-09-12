@@ -21,7 +21,7 @@
     }
   },
   "3) Daily": "FasCalendarDay",
-  "4) References": "FasBriefcase",
-  "9) Templates": "FasStamp",
-  "1) Work": "FasRoad"
+  "1) Work": "FasRoad",
+  "2) Personal": "FasBriefcase",
+  "4) Templates": "FasStamp"
 }

@@ -16,5 +16,5 @@ color blue
 # Work
 - ![[1) Work]]
 
-# References
-![[4) References]]
+# Personal
+![[2) Personal]]

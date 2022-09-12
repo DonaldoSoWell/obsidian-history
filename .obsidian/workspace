@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4) References/4) References.md",
-            "mode": "preview",
+            "file": "3) Daily/2022-09-12.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4) References/4) References.md",
+                "file": "3) Daily/2022-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4) References/4) References.md",
+                "file": "3) Daily/2022-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4) References/4) References.md"
+                "file": "3) Daily/2022-09-12.md"
               }
             }
           }
@@ -140,11 +140,11 @@
   "active": "04824c0e56541236",
   "lastOpenFiles": [
     "Home.md",
-    "9) Templates/Daily.md",
+    "2) Personal/4) References.md",
+    "4) Templates/Daily.md",
     "3) Daily/2022-09-12.md",
     "1) Work/1) Work.md",
     "2) Projets.md",
-    "4) References/4) References.md",
     "images/work-banner.jpg.jpg",
     "1) Work/Projets/Application mobile clean.md",
     "1) Work/Projets/Reporter V2.md",
