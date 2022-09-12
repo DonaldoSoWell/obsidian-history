@@ -6,10 +6,7 @@ banner_y: 0.75
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
-# Daily note 
-```dataview
-list from ="[[" + dateformat(date(today), "yyyy-MM-dd") + "|DAILY NOTE ]]"
-```
+
 # Work
 - ![[1) Work]]
 

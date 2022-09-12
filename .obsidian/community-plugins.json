@@ -14,5 +14,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-banners"
+  "obsidian-banners",
+  "buttons"
 ]
