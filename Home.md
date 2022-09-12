@@ -6,7 +6,13 @@ banner_y: 0.75
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
-
+```button
+name Daily note
+type command
+action Daily notes: Open today's daily note
+color blue
+```
+^button-nivw
 # Work
 - ![[1) Work]]
 
