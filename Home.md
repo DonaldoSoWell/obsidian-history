@@ -21,7 +21,7 @@ const findDated = (task)=>{
 
 }
 
-const myTasks = dv.pages('"3 Projects"').file.tasks.where(t => findDated(t));
+const myTasks = dv.pages().file.tasks.where(t => findDated(t));
 
 dv.header(2,"Overdue");
 dv.taskList(myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date));
