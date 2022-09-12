@@ -6,7 +6,7 @@
   padding-top: 20px !important;
 }
 
-.dashboard .markdown-embed-link {
+.dashboard > .markdown-embed-title {
   display: none;
 }
 
