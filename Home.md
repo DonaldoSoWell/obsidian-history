@@ -1,5 +1,4 @@
 ---
-banner: "![[work-banner.jpg]]"
 cssclass: dashboard
 banner: "![[work-banner.jpg]]"
 banner_x: 0.5
