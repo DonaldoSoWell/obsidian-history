@@ -4,6 +4,11 @@
 ```dataview
 TASK WHERE contains(text, "#misc/hebergement")
 ```
+
+## Permanent notes
+```dataview
+LIST FROM #misc/hebergement 
+```
 ## www.sowell.app
 
 ```
