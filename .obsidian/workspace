@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
+            "file": "2) Personal/Productivity/Obsidian.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2) Personal/Productivity/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2) Personal/Productivity/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2) Personal/Productivity/Obsidian.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "ab9288508aa272e8",
   "lastOpenFiles": [
-    "3) Daily/2022-09-13.md",
-    "Home.md",
-    "1) Work/1) Work.md",
-    "x) Templates/Daily.md",
-    "0) Inbox/GTD.md",
-    "2) Personal/Productivity/Obsidian.md",
-    "y) Permanent/atomic-thinking.md",
+    "2) Personal/Productivity/Amethyst.md",
+    "2) Personal/2) Personal.md",
+    "1) Work/1.x) Misc/Teams.md",
+    "1) Work/1.1) Projets/Reporter V2.md",
+    "1) Work/1.2) Clients/INLI.md",
+    "1) Work/1.2) Clients/ABH.md",
+    "1) Work/1.x) Misc/Hébergements.md",
+    "y) Permanent/Managing VACUUM on Heroku Postgres.md",
     "y) Permanent/Zettelkasten.md",
-    "x) Templates/Topic page.md",
-    "0) Inbox/test.md"
+    "Home.md"
   ]
 }
