@@ -4,10 +4,17 @@
 ```dataview
 TASK WHERE contains(text, "#misc/hebergement")
 ```
-
 ## Permanent notes
 ```dataview
-Table join(tags) AS "Tags" FROM #misc/hebergement AND "y) Permanent"
+Table 
+replace(
+	join(
+		filter(
+			tags, (x) => startswith(x, "topic")
+		)
+	),
+"topics/","")
+AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
 ## www.sowell.app
 
