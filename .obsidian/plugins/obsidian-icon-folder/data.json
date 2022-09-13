@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBoxArchive",
       "FasFlag",
       "FasCircleInfo",
       "FasFileCode",
-      "FasUserGear",
-      "FasCalendarDays"
+      "FasUserGear"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,6 @@
   "2) Personal": "FasUserGear",
   "0) Inbox": "FasInbox",
   "Home.md": "FasFlag",
-  "x) Templates": "FasFileCode"
+  "x) Templates": "FasFileCode",
+  "y) Permanent": "FasBoxArchive"
 }
