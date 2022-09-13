@@ -9,7 +9,7 @@ TASK WHERE contains(text, "#misc/hebergement")
 Table 
 	map(
 		filter(
-			tags, (x) => startswith(x, "topic")
+			tags, (x) => startswith(x, "perm")
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
