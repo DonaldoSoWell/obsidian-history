@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a40b19cc2ca24c0e",
+        "id": "4ec29890081721b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2) Personal/2) Personal.md",
+            "file": "1) Work/1.1) Projets/test.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Personal/2) Personal.md",
+                "file": "1) Work/1.1) Projets/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) Personal/2) Personal.md",
+                "file": "1) Work/1.1) Projets/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) Personal/2) Personal.md"
+                "file": "1) Work/1.1) Projets/test.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756885b020fa44e4",
+  "active": "4ec29890081721b5",
   "lastOpenFiles": [
-    "x) Templates/Daily.md",
+    "1) Work/1.1) Projets/Reporter V2.md",
+    "1) Work/1.1) Projets/test.md",
     "x) Templates/Topic page.md",
-    "2) Personal/Misc/Travaux.md",
+    "x) Templates/Daily.md",
+    "2) Personal/test.md",
+    "1) Work/1) Work.md",
     "2) Personal/2) Personal.md",
+    "2) Personal/Misc/Travaux.md",
     "Home.md",
-    "2) Personal/Productivity/Amethyst.md",
-    "2) Personal/Productivity/Obsidian.md",
-    "2) Personal/Productivity/Obsidian/Obsidian.md",
-    "y) Permanent/Zettelkasten.md",
-    "y) Permanent/GTD.md"
+    "2) Personal/Productivity/Amethyst.md"
   ]
 }
