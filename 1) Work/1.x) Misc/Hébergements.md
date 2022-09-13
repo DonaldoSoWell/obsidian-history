@@ -7,7 +7,7 @@ TASK WHERE contains(text, "#misc/hebergement")
 
 ## Permanent notes
 ```dataview
-LIST FROM #misc/hebergement 
+Table FROM #misc/hebergement AND "y) Permanent"
 ```
 ## www.sowell.app
 
