@@ -4,7 +4,7 @@
 	- [[INLI]]
 	- [[Ozanam]]
 - **Projets**
-	- [[Application mobile clean]]
+	- [[Mobile clean]]
 	- [[Reporter V2]]
 - **Tools**
 	- **Productivity**

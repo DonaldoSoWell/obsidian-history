@@ -1,8 +1,6 @@
----
-Tags: #clients/abh
----
 # ABH
 
+## Tasks
 ```dataview
-TASK FROM #clients/abh
+TASK WHERE contains(text, "#clients/abh")
 ```
