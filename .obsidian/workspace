@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
+            "file": "1) Work/1.x) Misc/Teams.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1.x) Misc/Teams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1.x) Misc/Teams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "1) Work/1.x) Misc/Teams.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "69be7a47f6b72ebe",
   "lastOpenFiles": [
-    "3) Daily/2022-09-13.md",
-    "Home.md",
-    "1) Work/1) Work.md",
-    "1) Work/1.1) Projets/Mobile clean.md",
-    "x) Templates/Topic page.md",
     "1) Work/1.x) Misc/Hébergements.md",
-    "x) Templates/Daily.md",
+    "1) Work/1.x) Misc/Adminisratif.md",
+    "1) Work/1.2) Clients/Perigord.md",
+    "1) Work/1.2) Clients/Ozanam.md",
+    "1) Work/1.2) Clients/INLI.md",
+    "1) Work/1.2) Clients/ABH.md",
     "y) Permanent/Managing VACUUM on Heroku Postgres.md",
-    "y) Permanent/Zettelkasten.md",
-    "y) Permanent/atomic-thinking.md"
+    "Home.md",
+    "3) Daily/2022-09-13.md",
+    "1) Work/1) Work.md"
   ]
 }
