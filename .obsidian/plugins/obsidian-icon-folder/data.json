@@ -23,7 +23,7 @@
   "3) Daily": "FasBoxArchive",
   "1) Work": "FasBriefcase",
   "2) Personal": "FasUser",
-  "4) Templates": "FasStamp",
   "0) Inbox": "FasInbox",
-  "Home.md": "FasHouseChimneyUser"
+  "Home.md": "FasHouseChimneyUser",
+  "x) Templates": "FasStamp"
 }

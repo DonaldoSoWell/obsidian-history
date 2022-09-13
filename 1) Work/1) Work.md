@@ -1,17 +1,14 @@
 %% Begin Waypoint %%
-- **Clients**
+- **1.1) Projets**
+	- [[Mobile clean]]
+	- [[Reporter V2]]
+- **1.2) Clients**
 	- [[ABH]]
 	- [[INLI]]
 	- [[Ozanam]]
-- **Projets**
-	- [[Mobile clean]]
-	- [[Reporter V2]]
-- **Tools**
-	- **Productivity**
-		- [[Amethyst]]
-		- **[[Obsidian]]**
-	- **SoWell**
-		- [[Hébergements]]
-		- [[Teams]]
+- **1.x) Misc**
+	- [[Adminisratif]]
+	- [[Hébergements]]
+	- [[Teams]]
 
 %% End Waypoint %%
