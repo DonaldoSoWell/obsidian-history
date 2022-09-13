@@ -37,11 +37,11 @@ short mode
 
 ```
 
-## Inbox
+# Inbox
 ```dataview
 LIST FROM "0) Inbox"
-
 ```
+
 # Work
 - ![[1) Work]]
 
