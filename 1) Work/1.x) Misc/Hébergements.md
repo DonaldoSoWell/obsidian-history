@@ -18,7 +18,7 @@ Table
 		filter(
 			tags, (x) => startswith(x, "topic")
 		),
-		(item) => "[[#" + item + "]]"
+		(item) => "[" + item + "](obsidian://search?vault=notes&query='tag:%23'" + item
 	)
 AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
