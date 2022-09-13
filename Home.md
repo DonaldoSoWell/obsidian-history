@@ -17,7 +17,8 @@ color blue
 ```tasks
 
 due before date(tomorrow)
-not done  
+not done
+short mode
 
 ```
 ## 🔜 Upcomming
