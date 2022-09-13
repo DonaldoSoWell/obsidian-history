@@ -33,6 +33,7 @@ short mode
 
 no due date
 not done 
+not empty
 short mode
 
 ```
