@@ -1,6 +1,8 @@
 ---
 tags:
 - misc/hebergement
+- topics/postgres
+- topics/heroku
 ---
 # Managing VACUUM on Heroku Postgres
 
