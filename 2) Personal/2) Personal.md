@@ -6,6 +6,6 @@
 	- [[Travaux]]
 - **Productivity**
 	- [[Amethyst]]
-	- **[[Obsidian]]**
+	- [[Obsidian]]
 
 %% End Waypoint %%
