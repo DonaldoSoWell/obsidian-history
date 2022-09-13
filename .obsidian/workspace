@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3) Daily/2022-09-13.md",
+            "file": "1) Work/Clients/ABH.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3) Daily/2022-09-13.md",
+                "file": "1) Work/Clients/ABH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3) Daily/2022-09-13.md",
+                "file": "1) Work/Clients/ABH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3) Daily/2022-09-13.md"
+                "file": "1) Work/Clients/ABH.md"
               }
             }
           }
@@ -132,15 +131,15 @@
   },
   "active": "a40b19cc2ca24c0e",
   "lastOpenFiles": [
-    "Home.md",
-    "3) Daily/2022-09-12.md",
     "3) Daily/2022-09-06.md",
+    "1) Work/Clients/ABH.md",
+    "1) Work/1) Work.md",
+    "Home.md",
+    "3) Daily/2022-09-13.md",
+    "3) Daily/2022-09-12.md",
     "3) Daily/2022-09-09.md",
     "3) Daily/2022-09-11.md",
     "3) Daily/2022-09-10.md",
-    "3) Daily/PR1P264MB2174D878485FD3172F04509BCC459@PR1P264MB2174.FRAP264.PROD.OUTLOOK.COM.md",
-    "3) Daily/2022-09-08.md",
-    "3) Daily/2022-09-07.md",
-    "3) Daily/2022-09-05.md"
+    "3) Daily/PR1P264MB2174D878485FD3172F04509BCC459@PR1P264MB2174.FRAP264.PROD.OUTLOOK.COM.md"
   ]
 }
