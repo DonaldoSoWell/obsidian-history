@@ -1,12 +1,5 @@
 # Hébergement
 
-replace(
-	join(
-		filter(
-			tags, (x) => startswith(x, "topic")
-		)
-	),
-"topics/","")
 ## Tasks
 ```dataview
 TASK WHERE contains(text, "#misc/hebergement")
@@ -18,7 +11,7 @@ Table
 		filter(
 			tags, (x) => startswith(x, "topic")
 		),
-		(item) => "[" + item + "](obsidian://search?vault=notes&query='tag:%23'" + item
+		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
 AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
