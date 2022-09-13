@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "x) Templates/Topic page.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -131,15 +131,15 @@
   },
   "active": "4ec29890081721b5",
   "lastOpenFiles": [
-    "1) Work/1.1) Projets/test.md",
-    "1) Work/1.1) Projets/Reporter V2.md",
+    "1) Work/1.2) Clients/test.md",
     "x) Templates/Topic page.md",
     "x) Templates/Daily.md",
+    "1) Work/1.1) Projets/test.md",
+    "1) Work/1.1) Projets/Reporter V2.md",
     "2) Personal/test.md",
     "1) Work/1) Work.md",
     "2) Personal/2) Personal.md",
     "2) Personal/Misc/Travaux.md",
-    "Home.md",
-    "2) Personal/Productivity/Amethyst.md"
+    "Home.md"
   ]
 }
