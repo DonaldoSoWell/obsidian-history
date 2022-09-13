@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "1) Work/1.2) Clients/ABH.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1.2) Clients/ABH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1) Work/1.2) Clients/ABH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "1) Work/1.2) Clients/ABH.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a40b19cc2ca24c0e",
   "lastOpenFiles": [
+    "2) Personal/Productivity/Obsidian/Obsidian.md",
+    "2) Personal/Productivity/Amethyst.md",
+    "2) Personal/Misc/Travaux.md",
     "1) Work/1.x) Misc/Adminisratif.md",
-    "Home.md",
-    "1) Work/1.2) Clients/ABH.md",
     "1) Work/1.x) Misc/Hébergements.md",
-    "1) Work/1) Work.md",
-    "1) Work/1.1) Projets/Reporter V2.md",
-    "1) Work/1.1) Projets/Mobile clean.md",
-    "3) Daily/2022-09-02.md",
-    "1) Work/1.2) Clients/INLI.md",
-    "1) Work/1.2) Clients/Ozanam.md"
+    "1) Work/1.x) Misc/Teams.md",
+    "Home.md",
+    "3) Daily/2022-09-01.md",
+    "1) Work/1.2) Clients/ABH.md",
+    "2) Personal/2) Personal.md"
   ]
 }

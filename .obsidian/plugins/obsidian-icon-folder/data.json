@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasUser",
-      "FasBoxArchive",
-      "FasHouseChimneyUser",
-      "FasStamp",
-      "FasBriefcase"
+      "FasFlag",
+      "FasCircleInfo",
+      "FasFileCode",
+      "FasUserGear",
+      "FasCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,10 +20,10 @@
       "left": 2
     }
   },
-  "3) Daily": "FasBoxArchive",
+  "3) Daily": "FasCalendarDays",
   "1) Work": "FasBriefcase",
-  "2) Personal": "FasUser",
+  "2) Personal": "FasUserGear",
   "0) Inbox": "FasInbox",
-  "Home.md": "FasHouseChimneyUser",
-  "x) Templates": "FasStamp"
+  "Home.md": "FasFlag",
+  "x) Templates": "FasFileCode"
 }
