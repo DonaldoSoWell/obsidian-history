@@ -33,7 +33,7 @@ short mode
 
 no due date
 not done 
-description regex matches /^[A-Za-z]([A-Za-z]{2}|[A-Za-z][0-9]|[0-9]{2})[0-9]{0,6}$/
+description regex matches /(?!^$)([^\s])/
 short mode
 
 ```
