@@ -1,12 +1,5 @@
 # Hébergement
 
-## Tasks
-```dataview
-TASK WHERE contains(text, "#misc/hebergement")
-```
-## Permanent notes
-```dataview
-Table 
 replace(
 	join(
 		filter(
@@ -14,6 +7,16 @@ replace(
 		)
 	),
 "topics/","")
+## Tasks
+```dataview
+TASK WHERE contains(text, "#misc/hebergement")
+```
+## Permanent notes
+```dataview
+Table 
+		filter(
+			tags, (x) => startswith(x, "topic")
+		)
 AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
 ## www.sowell.app
