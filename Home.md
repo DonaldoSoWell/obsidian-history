@@ -36,6 +36,12 @@ not done
 short mode
 
 ```
+
+## Inbox
+```dataview
+LIST FROM "0) Inbox"
+
+```
 # Work
 - ![[1) Work]]
 

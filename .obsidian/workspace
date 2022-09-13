@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0) Inbox/GTD.md",
+            "file": "Home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0) Inbox/GTD.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0) Inbox/GTD.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0) Inbox/GTD.md"
+                "file": "Home.md"
               }
             }
           }
@@ -131,11 +131,11 @@
   },
   "active": "ab9288508aa272e8",
   "lastOpenFiles": [
+    "0) Inbox/GTD.md",
     "2) Personal/Productivity/Obsidian.md",
     "Home.md",
     "y) Permanent/atomic-thinking.md",
     "y) Permanent/Zettelkasten.md",
-    "0) Inbox/GTD.md",
     "x) Templates/Topic page.md",
     "1) Work/1) Work.md",
     "0) Inbox/test.md",
