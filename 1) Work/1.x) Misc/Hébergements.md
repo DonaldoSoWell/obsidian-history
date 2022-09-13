@@ -14,9 +14,12 @@ TASK WHERE contains(text, "#misc/hebergement")
 ## Permanent notes
 ```dataview
 Table 
+	map(
 		filter(
 			tags, (x) => startswith(x, "topic")
-		)
+		),
+		(item) => "[[" + item + "]]"
+	)
 AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
 ## www.sowell.app
