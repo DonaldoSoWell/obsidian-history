@@ -18,7 +18,7 @@ Table
 		filter(
 			tags, (x) => startswith(x, "topic")
 		),
-		(item) => "[[" + item + "]]"
+		(item) => "[[#" + item + "]]"
 	)
 AS "Tags" FROM #misc/hebergement AND "y) Permanent"
 ```
