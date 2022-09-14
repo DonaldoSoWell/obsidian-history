@@ -11,5 +11,6 @@
   "vimMode": false,
   "livePreview": true,
   "showFrontmatter": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "fileSortOrder": "alphabeticalReverse"
 }

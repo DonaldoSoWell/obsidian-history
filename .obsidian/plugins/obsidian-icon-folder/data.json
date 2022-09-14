@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBook",
       "FasBoxArchive",
       "FasFlag",
       "FasCircleInfo",
-      "FasFileCode"
+      "FasFileCode",
+      "FasUserGear"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,12 +20,5 @@
       "left": 2
     }
   },
-  "Home.md": "FasFlag",
-  "Files/1) Work": "FasBriefcase",
-  "Files/2) Personal": "FasUserGear",
-  "Files/3) Daily": "FasCalendarDays",
-  "Files/x) Templates": "FasFileCode",
-  "Files/y) Permanent": "FasBoxArchive",
-  "Inbox": "FasInbox",
-  "Files": "FasBook"
+  "Home.md": "FasFlag"
 }
