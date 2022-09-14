@@ -18,7 +18,10 @@
     "18505553",
     "18506758",
     "18539566",
-    "18075920"
+    "18075920",
+    "18077281",
+    "18089421",
+    "18094667"
   ],
   "booksIDsMap": {
     "0) Inbox/12 Great Free Tools for Developers in 2022-2.md": "17617809",
@@ -26,9 +29,6 @@
     "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md": "18505553",
     "Inbox/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md": "18539566",
     "Inbox/How to Write Detailed Product Requirements Without Killing Creativity.md": "18094466",
-    "Inbox/httpslink.medium.comMI7ocwniHsb.md": "18077281",
-    "Inbox/12 Great Free Tools for Developers in 2022.md": "18089421",
-    "Inbox/4 Essential ES2015 Features for Vue.js Development.md": "18094667",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md": "18780394"
   },
   "reimportShowConfirmation": true
