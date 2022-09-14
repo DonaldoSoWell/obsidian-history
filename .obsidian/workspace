@@ -7,8 +7,13 @@
         "id": "cf02176775c0a62b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/httpslink.medium.comMI7ocwniHsb.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/httpslink.medium.comMI7ocwniHsb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/httpslink.medium.comMI7ocwniHsb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/httpslink.medium.comMI7ocwniHsb.md"
+              }
             }
           }
         ]
@@ -122,15 +131,15 @@
   },
   "active": "cf02176775c0a62b",
   "lastOpenFiles": [
-    "Files/Daily/2022-09-14.md",
     "Home.md",
+    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
+    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md",
+    "Files/Daily/2022-09-14.md",
     "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
     "Inbox/httpslink.medium.comMI7ocwniHsb.md",
     "Inbox/Managing VACUUM on Heroku Postgres.md",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
-    "Files/Permanent/Zettelkasten.md",
-    "Files/Daily/2022-09-13.md",
-    "Inbox/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md"
+    "Files/Permanent/Zettelkasten.md"
   ]
 }

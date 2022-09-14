@@ -41,7 +41,7 @@ short mode
 
 # Inbox
 ```dataview
-LIST FROM "0) Inbox"
+LIST FROM "Inbox"
 ```
 
 # Work
