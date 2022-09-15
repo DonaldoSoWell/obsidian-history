@@ -34,6 +34,7 @@ short mode
 
 no due date
 not done 
+exclude sub-items
 description regex matches /(?!^$)([^\s])/
 short mode
 

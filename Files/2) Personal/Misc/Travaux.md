@@ -1,3 +1,7 @@
+---
+tags:
+- #misc/travaux 
+---
 # Travaux
 
 ## Tasks
