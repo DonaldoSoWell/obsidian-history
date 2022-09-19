@@ -6,7 +6,7 @@ banner_y: 0.75
 ---
 # Actions
 
-`button-create-daily`  `button-create-meeting`
+<div style='text-align:center'> `button-create-daily`  `button-create-meeting` </div>
 
 ## 🔔 Due
 ```tasks
