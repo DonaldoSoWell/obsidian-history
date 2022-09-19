@@ -1,8 +1,8 @@
 ---
 tags:
-- #misc/obsidian 
-- #perm/mail
-- #perm/shortcuts
+- misc/obsidian 
+- perm/mail
+- perm/shortcuts
 ---
 
 # Generating Markdown Links to Mail Messages With Shortcuts and AppleScript
