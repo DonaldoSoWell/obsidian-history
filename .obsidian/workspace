@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Daily/2022-09-16.md",
-            "mode": "source",
+            "file": "Home.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -20,111 +20,126 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e07a7378eb43c37",
-    "type": "mobile-drawer",
+    "id": "23d463d5ccda89cc",
+    "type": "split",
     "children": [
       {
-        "id": "bc35a5560c11146d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "b93417f5b71934ab",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "tag:#misc/travaux",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d9668f599289017b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb5642dd93cba55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03d7e4bc9067e324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b903db93bcf85803",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "8e4b80921ba6e20d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "8da27c757266df22",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "73485b05a0c23c7f",
-    "type": "mobile-drawer",
+    "id": "ec3dc306899e60a9",
+    "type": "split",
     "children": [
       {
-        "id": "e6ee810edc204917",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Files/Daily/2022-09-16.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "106406f122bb9ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f31fcd33691263",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d120b32163660c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38604d699ebe377f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "104b22f4286b86e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "958ec09c5097abca",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Files/Daily/2022-09-16.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "8b2e020be8b7e0ea",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Files/Daily/2022-09-16.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "f93121d5b8eb687c",
   "lastOpenFiles": [
+    "Files/Daily/2022-09-19.md",
     "Home.md",
+    "Files/Daily/2022-09-16.md",
     "Files/Daily/2022-09-14.md",
     "Files/Daily/2022-09-13.md",
-    "Files/Daily/2022-09-16.md",
     "Files/2) Personal/2) Personal.md",
     "Files/2) Personal/Misc/Travaux.md",
     "Files/Daily/2022-09-06.md",
     "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
-    "Inbox/httpslink.medium.comMI7ocwniHsb.md",
-    "Inbox/Managing VACUUM on Heroku Postgres.md"
+    "Inbox/httpslink.medium.comMI7ocwniHsb.md"
   ]
 }
