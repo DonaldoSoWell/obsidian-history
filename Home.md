@@ -4,10 +4,25 @@ cssclass: dashboard
 banner_x: 0.5
 banner_y: 0.75
 ---
-# Actions
 
-`button-create-daily`  `button-create-meeting`
 
+```button
+name Daily
+type command
+action Daily notes: Open today's daily note
+color blue
+```
+^button-create-daily
+
+```button
+name Meeting
+type note(function(){return this.inputEl.value}) template
+action Meeting
+templater true
+color purple
+```
+^button-create-meeting
+# Tasks
 ## 🔔 Due
 ```tasks
 

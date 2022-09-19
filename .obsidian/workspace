@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Home.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -133,13 +133,13 @@
   "lastOpenFiles": [
     "Files/Templates/Buttons.md",
     "Home.md",
+    "Files/Daily/2022-09-19.md",
     "Files/Templates/Meeting.md",
     "Files/Templates/Daily.md",
     "Files/Meetings/2022-09-19 | Trstas.md",
     "Files/Meetings/2022-09-19 | function(.md",
     "Files/Templates/Topic page.md",
     "Files/Meetings/2022-09-19 | test 1.md",
-    "Files/Meetings/2022-09-19 | couco.md",
-    "Files/Meetings/2022-09-19 | test.md"
+    "Files/Meetings/2022-09-19 | couco.md"
   ]
 }
