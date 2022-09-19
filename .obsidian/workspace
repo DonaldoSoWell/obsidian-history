@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Daily.md",
+            "file": "Files/Templates/Meeting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Daily.md",
+                "file": "Files/Templates/Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Daily.md",
+                "file": "Files/Templates/Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Daily.md"
+                "file": "Files/Templates/Meeting.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "f93121d5b8eb687c",
   "lastOpenFiles": [
+    "Files/Templates/Daily.md",
+    "Files/Templates/Meeting.md",
     "Files/Templates/Topic page.md",
     "Files/Permanent/Zettelkasten.md",
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
@@ -138,8 +140,6 @@
     "Files/Permanent/atomic-thinking.md",
     "Files/1) Work/1.x) Misc/Adminisratif.md",
     "Files/1) Work/1.x) Misc/Hébergements.md",
-    "Files/1) Work/1.x) Misc/Teams.md",
-    "Files/Daily/2022-09-15.md",
-    "Files/Daily/2022-09-16.md"
+    "Files/1) Work/1.x) Misc/Teams.md"
   ]
 }
