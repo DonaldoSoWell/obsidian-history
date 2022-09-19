@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Meeting.md",
+            "file": "function(.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "function(.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "function(.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Meeting.md"
+                "file": "function(.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6e29977a0334abcd",
   "lastOpenFiles": [
-    "Files/Meetings/2022-09-19 | test.md",
     "Home.md",
-    "Untitled.md",
     "Files/Templates/Meeting.md",
-    "Files/Templates/Topic page.md",
-    "Files/Templates/Daily.md",
     "Files/Meetings/2022-09-19 | test 1.md",
+    "Files/Meetings/2022-09-19 | couco.md",
+    "Files/Templates/Daily.md",
+    "Files/Meetings/2022-09-19 | test.md",
+    "Untitled.md",
+    "Files/Templates/Topic page.md",
     "Files/1) Work/1.2) Clients/Perigord.md",
-    "Files/Meetings/2022-09-19 | test 2.md",
-    "Files/Meetings/2022-09-19 | test note.md"
+    "Files/Meetings/2022-09-19 | test 2.md"
   ]
 }

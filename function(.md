@@ -1,5 +1,6 @@
 <%-*
-tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + ( const subject = await tp.system.prompt("Subject")));
+const subject = await tp.system.prompt("Subject");
+tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + (subject));
 -%>
 # <%* tR += subject %>
 - **Date:**  <% tp.date.now() %>
