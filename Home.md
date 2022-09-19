@@ -4,7 +4,16 @@ cssclass: dashboard
 banner_x: 0.5
 banner_y: 0.75
 ---
-# Tasks
+# Actions
+
+<div class="row">
+  <div class="col-md-6" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-6" markdown="1">
+   Other text
+  </div>
+</div>
 
 ```button
 name Add daily tasks
