@@ -14,7 +14,14 @@ color blue
 ```
 ^button-nivw
 
-
+```button
+name Meeting
+type note(function(){return this.inputEl.value}) template
+action Meeting
+templater true
+color purple
+```
+^button-6xsk
 ## 🔔 Due
 ```tasks
 

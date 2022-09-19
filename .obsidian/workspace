@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Files/Templates/Meeting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Files/Templates/Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Files/Templates/Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Files/Templates/Meeting.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "f93121d5b8eb687c",
   "lastOpenFiles": [
+    "Files/Meetings/2022-09-19-un call.md",
+    "Home.md",
     "Files/Templates/Daily.md",
     "Files/Templates/Meeting.md",
     "Files/Templates/Topic page.md",
@@ -138,8 +140,6 @@
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
     "Files/Permanent/atomic-thinking.md",
-    "Files/1) Work/1.x) Misc/Adminisratif.md",
-    "Files/1) Work/1.x) Misc/Hébergements.md",
-    "Files/1) Work/1.x) Misc/Teams.md"
+    "Files/1) Work/1.x) Misc/Adminisratif.md"
   ]
 }
