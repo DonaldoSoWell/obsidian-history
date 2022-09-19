@@ -1,7 +1,4 @@
-<%-*
-tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + ( const subject = await tp.system.prompt("Subject")));
--%>
-# <%* tR += subject %>
+# <% (await tp.system.prompt('Sujets:','',false)) %>
 - **Date:**  <% tp.date.now() %>
 - **Attendees:** 
 	- 
@@ -21,3 +18,5 @@ tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + ( const subject = await
 ---
 **Tags :**
 - <% (await tp.system.prompt('Tags:','#clients/',false)) %>
+
+<% tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + tp.file.title) %>
