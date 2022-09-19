@@ -2,7 +2,7 @@
 let title = await tp.system.prompt("Title");
 await tp.file.rename(title);
 -%>
-# <% tp.file.title %>
+# <%* tR += title %>
 - **Date:**  <% tp.date.now() %>
 - **Attendees:** 
 	- 
@@ -23,4 +23,4 @@ await tp.file.rename(title);
 **Tags :**
 - <% (await tp.system.prompt('Tags:','#clients/',false)) %>
 
-<% tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + tp.file.title) %>
+<% tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + title) %>

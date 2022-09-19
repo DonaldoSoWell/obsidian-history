@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Meeting.md",
+            "file": "Home.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Meeting.md"
+                "file": "Home.md"
               }
             }
           }
@@ -131,13 +131,14 @@
   },
   "active": "2d2bae043bd31bbe",
   "lastOpenFiles": [
+    "Files/Templates/Meeting.md",
+    "Files/Templates/Daily.md",
+    "Files/Meetings/2022-09-19 | Trstas.md",
     "Files/Meetings/2022-09-19 | function(.md",
     "Home.md",
-    "Files/Templates/Meeting.md",
     "Files/Templates/Topic page.md",
     "Files/Meetings/2022-09-19 | test 1.md",
     "Files/Meetings/2022-09-19 | couco.md",
-    "Files/Templates/Daily.md",
     "Files/Meetings/2022-09-19 | test.md",
     "Untitled.md"
   ]
