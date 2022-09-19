@@ -6,6 +6,8 @@
 	- [[ABH]]
 	- [[INLI]]
 	- [[Ozanam]]
+	- [[Perigord]]
+	- [[Sequens]]
 - **1.x) Misc**
 	- [[Adminisratif]]
 	- [[Hébergements]]
