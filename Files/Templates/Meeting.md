@@ -1,1 +1,1 @@
-<% tp.file.move( ‘Files/Meetings/’ + (mytitle = await tp.system.prompt( ‘Subject:’, ‘test name’, false) )) %>
+<% tp.file.move('Files/Meetings/' + tp.date.now() + '-' + (await tp.system.prompt('Subject:','test name',false))) %>
