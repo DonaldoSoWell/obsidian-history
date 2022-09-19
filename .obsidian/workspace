@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Daily/2022-09-13.md",
-            "mode": "preview",
+            "file": "Files/Daily/2022-09-16.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -37,7 +37,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#misc/travaux",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Files/Daily/2022-09-13.md",
+            "file": "Files/Daily/2022-09-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Files/Daily/2022-09-13.md",
+            "file": "Files/Daily/2022-09-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Files/Daily/2022-09-13.md"
+            "file": "Files/Daily/2022-09-16.md"
           }
         }
       }
@@ -117,14 +117,14 @@
   "active": "f93121d5b8eb687c",
   "lastOpenFiles": [
     "Home.md",
-    "Files/Daily/2022-09-16.md",
     "Files/Daily/2022-09-14.md",
+    "Files/Daily/2022-09-13.md",
+    "Files/Daily/2022-09-16.md",
     "Files/2) Personal/2) Personal.md",
     "Files/2) Personal/Misc/Travaux.md",
     "Files/Daily/2022-09-06.md",
     "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
     "Inbox/httpslink.medium.comMI7ocwniHsb.md",
-    "Inbox/Managing VACUUM on Heroku Postgres.md",
-    "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md"
+    "Inbox/Managing VACUUM on Heroku Postgres.md"
   ]
 }
