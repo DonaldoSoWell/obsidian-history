@@ -6,22 +6,8 @@ banner_y: 0.75
 ---
 # Actions
 
-```button
-name Add daily tasks
-type command
-action Daily notes: Open today's daily note
-color blue
-```
+`button-create-daily`  `button-create-meeting`
 
-```button
-name Meeting
-type note(function(){return this.inputEl.value}) template
-action Meeting
-templater true
-color purple
-```
-
-`button-nivw` `button-6xsk`
 ## 🔔 Due
 ```tasks
 
