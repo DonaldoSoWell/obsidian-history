@@ -1,4 +1,8 @@
-# <% (await tp.system.prompt('Sujets:','',false)) %>
+<%-* 
+let title = await tp.system.prompt("Title");
+await tp.file.rename(title);
+-%>
+# <% tp.file.title %>
 - **Date:**  <% tp.date.now() %>
 - **Attendees:** 
 	- 

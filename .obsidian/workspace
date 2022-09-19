@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6e29977a0334abcd",
+        "id": "2d2bae043bd31bbe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Files/Templates/Meeting.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -129,17 +129,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e29977a0334abcd",
+  "active": "2d2bae043bd31bbe",
   "lastOpenFiles": [
-    "Home.md",
-    "Files/Meetings/2022-09-19 | function(.md",
+    "Files/Templates/Topic page.md",
     "Files/Templates/Meeting.md",
+    "Files/Meetings/2022-09-19 | function(.md",
+    "Home.md",
     "Files/Meetings/2022-09-19 | test 1.md",
     "Files/Meetings/2022-09-19 | couco.md",
     "Files/Templates/Daily.md",
     "Files/Meetings/2022-09-19 | test.md",
-    "Untitled.md",
-    "Files/Templates/Topic page.md",
-    "Files/1) Work/1.2) Clients/Perigord.md"
+    "Untitled.md"
   ]
 }
