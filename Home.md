@@ -6,22 +6,20 @@ banner_y: 0.75
 ---
 # Actions
 
-<div class="row">
-  <div class="col-md-6" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-6" markdown="1">
-   Other text
-  </div>
-</div>
-
 ```button
 name Add daily tasks
 type command
 action Daily notes: Open today's daily note
 color blue
 ```
+<div style="width: 100%;">
+<!-- THE LEFT COLUMN --> <div style="width: 48%; float: left; margin-right: 4%;">
 ^button-nivw
+</div> <!-- END THE LEFT COLUMN --> 
+<!-- THE RIGHT COLUMN --> <div style="width: 48%; float: left;"> +++ </div> <!-- END THE RIGHT COLUMN --> 
+</div>
+
+
 
 ```button
 name Meeting
