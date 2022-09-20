@@ -15,5 +15,5 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM "#<% tag %>" AND "y) Permanent"
+AS "Tags" FROM #misc/travaux AND "y) Permanent"
 ```
