@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Topic page.md",
+            "file": "Inbox/misc-travaux.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Topic page.md",
+                "file": "Inbox/misc-travaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Topic page.md",
+                "file": "Inbox/misc-travaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Topic page.md"
+                "file": "Inbox/misc-travaux.md"
               }
             }
           }
@@ -131,14 +131,14 @@
   },
   "active": "b262b59c62d1fcce",
   "lastOpenFiles": [
+    "Files/Templates/Topic page.md",
     "Files/Permanent/test.md",
     "Files/Templates/Meeting.md",
-    "Files/Templates/Topic page.md",
     "Inbox/Untitled 1.md",
     "Inbox/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md",
     "Files/Templates/Buttons.md",
     "Files/Templates/Daily.md",
-    "Inbox/Untitled.md",
+    "Inbox/misc-travaux.md",
     "Files/2) Personal/Misc/Travaux.md",
     "Files/Permanent/Zettelkasten.md"
   ]

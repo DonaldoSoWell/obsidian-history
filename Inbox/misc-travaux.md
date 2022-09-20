@@ -1,10 +1,6 @@
-
-<%-*  
-let title = await tp.system.prompt("Title");  
--%>
 ## Tasks 
 ```dataview
-TASK WHERE contains(text, "#<%* tR += title %>")
+TASK WHERE contains(text, "#misc/travaux")
 ```
 ## Permanent notes
 
@@ -16,7 +12,6 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #<%* tR += title %> AND "Files/Permanent"
+AS "Tags" FROM #misc/travaux AND "Files/Permanent"
 ```
 
-<% await tp.file.rename(title.replace("/","-")) %>
