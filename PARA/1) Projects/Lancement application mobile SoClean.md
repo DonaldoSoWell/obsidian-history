@@ -4,5 +4,5 @@ tags:
 ---
 
 ```dataview
-tasks from 
+task from [[Lancement application mobile SoClean]]
 ```

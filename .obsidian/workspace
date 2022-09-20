@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PARA/1) Projects/Lancement application mobile SoClean.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#apps/soclean/mobile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
     "direction": "horizontal",
     "width": 224.5
   },
-  "active": "bf101c996bb1a301",
+  "active": "38604d699ebe377f",
   "lastOpenFiles": [
     "Files/Templates/Meeting.md",
     "Files/Templates/Daily.md",
