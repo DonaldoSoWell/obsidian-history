@@ -13,7 +13,6 @@ action Daily notes: Open today's daily note
 color blue
 ```
 ^button-daily
-
 ```button
 name Meeting
 type note(function(){return this.inputEl.value}) template
