@@ -1,6 +1,6 @@
 ---
 tags:
-- misc/obsidian
+- tools/obsidian
 - perm/zettelkasten
 ---
 

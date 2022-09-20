@@ -1,8 +1,8 @@
 ---
 tags:
 - misc/hebergement
-- perm/postgres
-- perm/heroku
+- tools/postgres
+- tools/heroku
 ---
 # Managing VACUUM on Heroku Postgres
 

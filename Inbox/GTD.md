@@ -1,4 +1,4 @@
 ---
 tags:
-- misc/obsidian
+- tools/obsidian
 ---
