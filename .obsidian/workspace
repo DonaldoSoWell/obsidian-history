@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Reporter V2.md",
-            "mode": "source",
+            "file": "Files/Daily/2022-09-02.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#apps/soclean-mobile",
+                "query": "tag:#apps/soclean/mobile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Reporter V2.md",
+                "file": "Files/Daily/2022-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Reporter V2.md",
+                "file": "Files/Daily/2022-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,12 +118,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Reporter V2.md"
+                "file": "Files/Daily/2022-09-02.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,15 +130,15 @@
   },
   "active": "bf101c996bb1a301",
   "lastOpenFiles": [
-    "Files/Permanent/Hébergements.md",
+    "PARA/1) Projects/Lancement application mobile SoClean.md",
     "Files/Hierarchy/tools-heroku.md",
     "Inbox/Reporter V2.md",
+    "Files/Permanent/Hébergements.md",
     "Inbox/perm-hosting.md",
     "Files/Daily/2022-09-02.md",
     "Files/Daily/2022-09-06.md",
     "Files/Daily/2022-09-09.md",
     "Home.md",
-    "Files/1) Work/1) Work.md",
-    "Files/1) Work/1.x) Misc/Adminisratif.md"
+    "Files/1) Work/1) Work.md"
   ]
 }
