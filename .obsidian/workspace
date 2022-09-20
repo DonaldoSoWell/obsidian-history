@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/misc-obsidian.md",
+            "file": "Files/1) Work/1) Work.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#misc/travaux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/misc-obsidian.md",
+                "file": "Files/1) Work/1) Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/misc-obsidian.md",
+                "file": "Files/1) Work/1) Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,28 +119,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/misc-obsidian.md"
+                "file": "Files/1) Work/1) Work.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 1200.5
   },
-  "active": "b262b59c62d1fcce",
+  "active": "03d7e4bc9067e324",
   "lastOpenFiles": [
-    "Files/2) Personal/Productivity/Obsidian.md",
+    "Files/2) Personal/2) Personal.md",
+    "Inbox/misc-travaux.md",
     "Inbox/misc-obsidian.md",
+    "Files/2) Personal/Productivity/Obsidian.md",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
     "Files/Permanent/Zettelkasten.md",
     "Files/Templates/Topic page.md",
-    "Inbox/misc-travaux.md",
     "Files/Permanent/test.md",
-    "Files/Templates/Meeting.md",
-    "Inbox/Untitled 1.md"
+    "Files/Templates/Meeting.md"
   ]
 }
