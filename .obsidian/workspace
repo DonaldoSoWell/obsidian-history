@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Files/Daily/2022-09-16.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Files/Daily/2022-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Files/Daily/2022-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Files/Daily/2022-09-16.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "ab56175f65c1ef4e",
   "lastOpenFiles": [
-    "Files/Meetings/2022-09-20 | null.md",
     "Home.md",
+    "Files/Daily/2022-09-14.md",
+    "Files/2) Personal/Misc/Travaux.md",
+    "Files/Daily/2022-09-16.md",
     "Files/Templates/Buttons.md",
     "Files/Daily/2022-09-20.md",
+    "Files/Meetings/2022-09-20 | null.md",
     "Files/Templates/Meeting.md",
     "Files/Meetings/2022-09-20 | test.md",
-    "Files/Templates/Daily.md",
-    "Untitled.md",
-    "Files/Meetings/2022-09-19 | a test meeting.md",
-    "Files/Daily/2022-09-19.md"
+    "Files/Templates/Daily.md"
   ]
 }
