@@ -1,6 +1,6 @@
 ## Tasks 
 ```dataview
-TASK WHERE contains(text, "#perm/hosting")
+TASK WHERE contains(text, "#tools/heroku")
 ```
 ## Permanent notes
 
@@ -12,6 +12,6 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #perm/hosting AND "Files/Permanent"
+AS "Tags" FROM #tools/heroku AND "Files/Permanent"
 ```
 
