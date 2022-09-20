@@ -2,6 +2,12 @@
 
 [[Home]]
 
-
+```button
+name Home
+type link
+action [[Home]]
+color blue
+```
+^button-7dfv
 ## 📆 TODO
 - [ ] 
