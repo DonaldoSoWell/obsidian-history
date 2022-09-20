@@ -1,9 +1,12 @@
 
-## Tasks  (Replace topic-tag by current topic tag)
+<%-*  
+let tag = await tp.system.prompt("Tag");  
+-%>
+## Tasks 
 ```dataview
-TASK WHERE contains(text, "#topic-tag")
+TASK WHERE contains(text, "#<% tag %>")
 ```
-## Permanent notes (Replace topic-tag by current topic tag)
+## Permanent notes
 ```dataview
 Table 
 	map(
@@ -12,5 +15,5 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #topic-tag AND "y) Permanent"
+AS "Tags" FROM "#<% tag %>" AND "y) Permanent"
 ```
