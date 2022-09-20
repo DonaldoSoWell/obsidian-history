@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2bae043bd31bbe",
+        "id": "ab56175f65c1ef4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d2bae043bd31bbe",
+  "active": "ab56175f65c1ef4e",
   "lastOpenFiles": [
-    "Files/Daily/2022-09-20.md",
     "Home.md",
-    "Files/Meetings/2022-09-19 | a test meeting.md",
-    "Files/Templates/Buttons.md",
-    "Files/Daily/2022-09-19.md",
-    "Files/Templates/Meeting.md",
     "Files/Templates/Daily.md",
+    "Files/Templates/Meeting.md",
+    "Untitled.md",
+    "Files/Templates/Buttons.md",
+    "Files/Daily/2022-09-20.md",
+    "Files/Meetings/2022-09-19 | a test meeting.md",
+    "Files/Daily/2022-09-19.md",
     "Files/Meetings/2022-09-19 | Trstas.md",
-    "Files/Meetings/2022-09-19 | function(.md",
-    "Files/Templates/Topic page.md"
+    "Files/Meetings/2022-09-19 | function(.md"
   ]
 }
