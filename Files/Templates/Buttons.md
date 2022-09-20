@@ -2,7 +2,7 @@
 ```button
 name Home
 type link
-action obsidian://open?vault=Donaldo&file=Home
+action obsidian://advanced-uri?vault=Donaldo&file=Home
 color blue
 ```
 ^button-home
