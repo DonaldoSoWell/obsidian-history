@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b262b59c62d1fcce",
+        "id": "50c29ee16f20da61",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tools/teams",
+                "query": "tag:#tools/amethyst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,17 +129,17 @@
     "direction": "horizontal",
     "width": 1200.5
   },
-  "active": "9fb5642dd93cba55",
+  "active": "50c29ee16f20da61",
   "lastOpenFiles": [
-    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md",
     "Inbox/Amethyst.md",
+    "Inbox/tools amethyst.md",
+    "Files/1) Work/1.2) Clients/Sequens.md",
+    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md",
     "Files/Productivity/Obsidian.md",
     "Files/Permanent/atomic-thinking.md",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
     "Inbox/GTD.md",
-    "Files/Permanent/Zettelkasten.md",
-    "Files/Private/Private.md",
-    "Files/1) Work/1.x) Misc/Teams.md"
+    "Files/Permanent/Zettelkasten.md"
   ]
 }
