@@ -5,7 +5,7 @@
 ```button
 name Home
 type link
-action [[Home]]
+action obsidian://Home
 color blue
 ```
 ^button-7dfv
