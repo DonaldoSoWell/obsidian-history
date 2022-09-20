@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/1) Work/1.1) Projets/Mobile clean.md",
-            "mode": "preview",
+            "file": "Home.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -36,21 +36,6 @@
             }
           },
           {
-            "id": "03d7e4bc9067e324",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#projets/mobile-clean",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "b903db93bcf85803",
             "type": "leaf",
             "state": {
@@ -58,12 +43,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 793
+    "width": 204
   },
   "right": {
     "id": "ec3dc306899e60a9",
@@ -74,12 +58,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "03d7e4bc9067e324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#private/travaux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38604d699ebe377f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "f3f31fcd33691263",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/1) Work/1.1) Projets/Mobile clean.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +106,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/1) Work/1.1) Projets/Mobile clean.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "38604d699ebe377f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -119,28 +118,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/1) Work/1.1) Projets/Mobile clean.md"
+                "file": "Home.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 1200.5
+    "width": 224.5
   },
-  "active": "03d7e4bc9067e324",
+  "active": "50c29ee16f20da61",
   "lastOpenFiles": [
-    "Files/1) Work/1.1) Projets/Reporter V2.md",
+    "Files/1) Work/1) Work.md",
+    "Files/1) Work/1.x) Misc/Adminisratif.md",
+    "Inbox/Hébergements.md",
+    "Files/1) Work/1.x) Misc/Teams.md",
+    "Inbox/Reporter V2.md",
+    "Files/1) Work/1.1) Projets/Mobile clean.md",
+    "Files/Private/Private.md",
+    "Files/Daily/2022-09-02.md",
     "Files/1) Work/1.2) Clients/Sequens.md",
-    "Files/1) Work/1.2) Clients/Perigord.md",
-    "Files/1) Work/1.2) Clients/Ozanam.md",
-    "Files/1) Work/1.2) Clients/INLI.md",
-    "Files/1) Work/1.2) Clients/ABH.md",
-    "Home.md",
-    "Inbox/Amethyst.md",
-    "Inbox/tools amethyst.md",
-    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md"
+    "Files/1) Work/1.2) Clients/Perigord.md"
   ]
 }
