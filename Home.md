@@ -6,6 +6,9 @@ banner_y: 0.75
 obsidianUIMode: preview
 ---
 
+
+<div style='width:100%; text-align:center'>
+
 ```button
 name Daily
 type command
@@ -24,6 +27,9 @@ color purple
 class inline-button
 ```
 ^button-meeting
+
+</div>
+
 
 ## 🔔 Due
 ```tasks
