@@ -6,6 +6,6 @@ type link
 action obsidian://open?vault=Donaldo&file=Home
 color blue
 ```
-^button-7dfv
+^button-home
 ## 📆 TODO
 - [ ] 

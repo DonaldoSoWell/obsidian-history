@@ -12,7 +12,7 @@ type command
 action Daily notes: Open today's daily note
 color blue
 ```
-^button-create-daily
+^button-daily
 
 ```button
 name Meeting
@@ -21,7 +21,7 @@ action Meeting
 templater true
 color purple
 ```
-^button-create-meeting
+^button-meeting
 
 
 # Tasks
