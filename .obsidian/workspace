@@ -7,8 +7,13 @@
         "id": "e9f4650d02dbd9b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Files/Templates/Meeting.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Templates/Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Templates/Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Templates/Meeting.md"
+              }
             }
           }
         ]
@@ -122,15 +131,15 @@
   },
   "active": "e9f4650d02dbd9b4",
   "lastOpenFiles": [
+    "Inbox/Untitled 1.md",
     "Inbox/Untitled.md",
+    "Files/2) Personal/Misc/Travaux.md",
     "Files/Templates/Meeting.md",
     "Files/Templates/Topic page.md",
     "Files/Permanent/test.md",
     "Files/Permanent/Zettelkasten.md",
     "Files/2) Personal/Productivity/Amethyst.md",
     "Files/2) Personal/Productivity/Obsidian.md",
-    "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md",
-    "Files/2) Personal/Articles/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md",
-    "Files/1) Work/1) Work.md"
+    "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md"
   ]
 }
