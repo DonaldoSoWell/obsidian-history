@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Daily/2022-09-02.md",
-            "mode": "preview",
+            "file": "Files/Templates/Topic page.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Daily/2022-09-02.md",
+                "file": "Files/Templates/Topic page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Daily/2022-09-02.md",
+                "file": "Files/Templates/Topic page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +118,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Daily/2022-09-02.md"
+                "file": "Files/Templates/Topic page.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,11 +132,11 @@
   "active": "bf101c996bb1a301",
   "lastOpenFiles": [
     "PARA/1) Projects/Lancement application mobile SoClean.md",
+    "Files/Daily/2022-09-02.md",
     "Files/Hierarchy/tools-heroku.md",
     "Inbox/Reporter V2.md",
     "Files/Permanent/Hébergements.md",
     "Inbox/perm-hosting.md",
-    "Files/Daily/2022-09-02.md",
     "Files/Daily/2022-09-06.md",
     "Files/Daily/2022-09-09.md",
     "Home.md",
