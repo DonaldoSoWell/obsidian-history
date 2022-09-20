@@ -19,4 +19,4 @@ Table
 AS "Tags" FROM #<%* tR += title %> AND "Files/Permanent"
 ```
 
-<% await tp.file.move(title) %>
+<% await tp.file.move("Inbox/" + title) %>

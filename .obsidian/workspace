@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f4650d02dbd9b4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Untitled 1.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b262b59c62d1fcce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Meeting.md",
+            "file": "Files/Templates/Topic page.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Files/Templates/Topic page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Files/Templates/Topic page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 1.md"
+                "file": "Files/Templates/Topic page.md"
               }
             }
           }
@@ -142,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9f4650d02dbd9b4",
+  "active": "b262b59c62d1fcce",
   "lastOpenFiles": [
+    "Files/Permanent/test.md",
+    "Files/Templates/Meeting.md",
     "Files/Templates/Topic page.md",
     "Inbox/Untitled 1.md",
+    "Inbox/I Tried 40 ProjectNote Management Apps… What I Chose, and My Top 10 List.md",
     "Files/Templates/Buttons.md",
     "Files/Templates/Daily.md",
-    "Files/Templates/Meeting.md",
     "Inbox/Untitled.md",
     "Files/2) Personal/Misc/Travaux.md",
-    "Files/Permanent/test.md",
-    "Files/Permanent/Zettelkasten.md",
-    "Files/2) Personal/Productivity/Amethyst.md"
+    "Files/Permanent/Zettelkasten.md"
   ]
 }
