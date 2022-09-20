@@ -1,6 +1,5 @@
 <%-* 
 let title = await tp.system.prompt("Title");
-await tp.file.rename(title);
 -%>
 # <%* tR += title %>
 - **Date:**  <% tp.date.now() %>
