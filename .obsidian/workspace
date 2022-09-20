@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Daily/2022-09-09.md",
-            "mode": "source",
+            "file": "Inbox/Hébergements.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Daily/2022-09-09.md",
+                "file": "Inbox/Hébergements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Daily/2022-09-09.md",
+                "file": "Inbox/Hébergements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +118,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Daily/2022-09-09.md"
+                "file": "Inbox/Hébergements.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,6 +131,7 @@
   },
   "active": "50c29ee16f20da61",
   "lastOpenFiles": [
+    "Files/Daily/2022-09-09.md",
     "Home.md",
     "Files/1) Work/1) Work.md",
     "Files/1) Work/1.x) Misc/Adminisratif.md",
@@ -138,7 +140,6 @@
     "Inbox/Reporter V2.md",
     "Files/1) Work/1.1) Projets/Mobile clean.md",
     "Files/Private/Private.md",
-    "Files/Daily/2022-09-02.md",
-    "Files/1) Work/1.2) Clients/Sequens.md"
+    "Files/Daily/2022-09-02.md"
   ]
 }
