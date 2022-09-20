@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Inbox/Untitled 1.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b262b59c62d1fcce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Files/Templates/Meeting.md",
             "mode": "preview",
             "backlinks": true,
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Meeting.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Meeting.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -131,15 +144,15 @@
   },
   "active": "e9f4650d02dbd9b4",
   "lastOpenFiles": [
+    "Files/Templates/Buttons.md",
+    "Files/Templates/Daily.md",
+    "Files/Templates/Meeting.md",
+    "Files/Templates/Topic page.md",
     "Inbox/Untitled 1.md",
     "Inbox/Untitled.md",
     "Files/2) Personal/Misc/Travaux.md",
-    "Files/Templates/Meeting.md",
-    "Files/Templates/Topic page.md",
     "Files/Permanent/test.md",
     "Files/Permanent/Zettelkasten.md",
-    "Files/2) Personal/Productivity/Amethyst.md",
-    "Files/2) Personal/Productivity/Obsidian.md",
-    "Files/2) Personal/Articles/A Guide to Obsidian Local, Markdown-Powered Networked Notes.md"
+    "Files/2) Personal/Productivity/Amethyst.md"
   ]
 }
