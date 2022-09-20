@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/1) Work/1) Work.md",
+            "file": "Files/2) Personal/2) Personal.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#misc/travaux",
+                "query": "tag:#perso/travaux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/1) Work/1) Work.md",
+                "file": "Files/2) Personal/2) Personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/1) Work/1) Work.md",
+                "file": "Files/2) Personal/2) Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/1) Work/1) Work.md"
+                "file": "Files/2) Personal/2) Personal.md"
               }
             }
           }
@@ -130,8 +129,9 @@
     "direction": "horizontal",
     "width": 1200.5
   },
-  "active": "03d7e4bc9067e324",
+  "active": "b262b59c62d1fcce",
   "lastOpenFiles": [
+    "Files/1) Work/1) Work.md",
     "Files/2) Personal/2) Personal.md",
     "Inbox/misc-travaux.md",
     "Inbox/misc-obsidian.md",
@@ -140,7 +140,6 @@
     "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
     "Files/Permanent/Zettelkasten.md",
     "Files/Templates/Topic page.md",
-    "Files/Permanent/test.md",
-    "Files/Templates/Meeting.md"
+    "Files/Permanent/test.md"
   ]
 }
