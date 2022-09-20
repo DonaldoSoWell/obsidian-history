@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Daily/2022-09-06.md",
-            "mode": "preview",
+            "file": "Files/Daily/2022-09-02.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sorting",
+                "query": "tag:#apps/soclean-mobile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Daily/2022-09-06.md",
+                "file": "Files/Daily/2022-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Daily/2022-09-06.md",
+                "file": "Files/Daily/2022-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,20 +118,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Daily/2022-09-06.md"
+                "file": "Files/Daily/2022-09-02.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 224.5
   },
-  "active": "38604d699ebe377f",
+  "active": "50c29ee16f20da61",
   "lastOpenFiles": [
     "Inbox/Hébergements.md",
+    "Files/Daily/2022-09-06.md",
     "Files/Daily/2022-09-09.md",
     "Home.md",
     "Files/1) Work/1) Work.md",
@@ -139,7 +139,6 @@
     "Files/1) Work/1.x) Misc/Teams.md",
     "Inbox/Reporter V2.md",
     "Files/1) Work/1.1) Projets/Mobile clean.md",
-    "Files/Private/Private.md",
-    "Files/Daily/2022-09-02.md"
+    "Files/Private/Private.md"
   ]
 }
