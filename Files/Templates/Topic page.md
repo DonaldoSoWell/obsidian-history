@@ -19,4 +19,4 @@ Table
 AS "Tags" FROM #<%* tR += title %> AND "Files/Permanent"
 ```
 
-<% await tp.file.rename(title.replace("/","-")) %>
+<% await tp.file.rename(title.replaceAll("/","-")) %>
