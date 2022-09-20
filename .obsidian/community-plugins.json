@@ -3,8 +3,6 @@
   "folder-note-plugin",
   "waypoint",
   "obsidian-icon-folder",
-  "auto-note-mover",
-  "readwise-official",
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-style-settings",
@@ -14,5 +12,6 @@
   "obsidian-git",
   "obsidian-banners",
   "buttons",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-view-mode-by-frontmatter"
 ]

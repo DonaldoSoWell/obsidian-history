@@ -3,9 +3,26 @@ banner: "https://images.unsplash.com/photo-1553484771-cc0d9b8c2b33?ixlib=rb-1.2.
 cssclass: dashboard
 banner_x: 0.5
 banner_y: 0.75
+obsidianUIMode: preview
 ---
 
-`button-daily` `button-meeting` 
+
+```button
+name Daily
+type command
+action Daily notes: Open today's daily note
+color blue
+```
+^button-daily
+
+```button
+name Meeting
+type note(function(){return this.inputEl.value}) template
+action Meeting
+templater true
+color purple
+```
+^button-meeting
 
 ## 🔔 Due
 ```tasks

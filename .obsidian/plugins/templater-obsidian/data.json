@@ -17,6 +17,10 @@
     {
       "folder": "Files/Daily",
       "template": "Files/Templates/Daily.md"
+    },
+    {
+      "folder": "Files/Meetings",
+      "template": "Files/Templates/Meeting.md"
     }
   ],
   "syntax_highlighting": true,
