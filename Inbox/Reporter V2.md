@@ -1,7 +1,7 @@
-## Tasks
-```dataview
-TASK WHERE contains(text, "#projets/reporter-v2")
-```
+---
+tags:
+- projets/sowell/mobile
+---
 
 Rapport d'incivilité != Signalement de pbl sur patrimoine 
 Rapport d'incivilité == Report associé à une check-list et une place/spot
