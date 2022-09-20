@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab56175f65c1ef4e",
+        "id": "751a9478f61789e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Templates/Topic page.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c45f8599b60fad8d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Files/Templates/Topic page.md",
+            "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Topic page.md",
+                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Topic page.md",
+                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Topic page.md"
+                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md"
               }
             }
           }
@@ -142,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab56175f65c1ef4e",
+  "active": "751a9478f61789e7",
   "lastOpenFiles": [
+    "Files/Permanent/atomic-thinking.md",
     "Files/Templates/Meeting.md",
+    "Files/Permanent/test.md",
+    "Inbox/Untitled.md",
     "Files/Templates/Topic page.md",
     "Files/2) Personal/Misc/Travaux.md",
     "Files/Daily/2022-09-16.md",
     "Home.md",
     "Files/Daily/2022-09-14.md",
-    "Files/Templates/Buttons.md",
-    "Files/Daily/2022-09-20.md",
-    "Files/Meetings/2022-09-20 | null.md",
-    "Files/Meetings/2022-09-20 | test.md"
+    "Files/Templates/Buttons.md"
   ]
 }
