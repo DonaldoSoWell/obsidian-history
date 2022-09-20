@@ -9,7 +9,7 @@
   "attachmentFolderPath": "Attachments",
   "communityPluginSortOrder": "download",
   "vimMode": false,
-  "livePreview": true,
+  "livePreview": false,
   "showFrontmatter": false,
   "newLinkFormat": "shortest",
   "fileSortOrder": "alphabeticalReverse"

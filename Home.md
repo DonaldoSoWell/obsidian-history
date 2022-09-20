@@ -5,25 +5,7 @@ banner_x: 0.5
 banner_y: 0.75
 ---
 
-
-```button
-name Daily
-type command
-action Daily notes: Open today's daily note
-color blue
-```
-^button-daily
-
-```button
-name Meeting
-type note(function(){return this.inputEl.value}) template
-action Meeting
-templater true
-color purple
-```
-^button-meeting
-
-
+`button-daily` `button-meeting` 
 # Tasks
 ## 🔔 Due
 ```tasks
