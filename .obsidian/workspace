@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
+            "file": "Inbox/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "751a9478f61789e7",
   "lastOpenFiles": [
-    "Files/Permanent/atomic-thinking.md",
-    "Files/Templates/Meeting.md",
-    "Files/Permanent/test.md",
-    "Inbox/Untitled.md",
+    "Files/Templates/Buttons.md",
+    "Files/Templates/Daily.md",
     "Files/Templates/Topic page.md",
+    "Files/Templates/Meeting.md",
+    "Files/Meetings/2022-09-20 | test.md",
+    "Files/Meetings/2022-09-20 | null.md",
     "Files/2) Personal/Misc/Travaux.md",
-    "Files/Daily/2022-09-16.md",
-    "Home.md",
-    "Files/Daily/2022-09-14.md",
-    "Files/Templates/Buttons.md"
+    "Files/Permanent/Zettelkasten.md",
+    "Files/Permanent/test.md",
+    "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md"
   ]
 }
