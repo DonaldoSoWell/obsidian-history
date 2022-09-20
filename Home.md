@@ -11,7 +11,6 @@ name Daily
 type command
 action Daily notes: Open today's daily note
 color blue
-class inline-button
 ```
 ^button-daily
 
@@ -21,7 +20,6 @@ type note(function(){return this.inputEl.value}) template
 action Meeting
 templater true
 color purple
-class inline-button
 ```
 ^button-meeting
 
