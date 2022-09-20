@@ -1,22 +1,12 @@
 
 <%-*  
-let tag = await tp.system.prompt("Tag");  
+let title = await tp.system.prompt("Title");  
 -%>
 ## Tasks 
 ```dataview
-TASK WHERE contains(text, "#<% tag %>")
+TASK WHERE contains(text, "#<%* tR += title %>")
 ```
 ## Permanent notes
-```dataview
-Table 
-	map(
-		filter(
-			tags, (x) => startswith(x, "perm")
-		),
-		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
-	)
-AS "Tags" FROM #misc/travaux AND "y) Permanent"
-```
 
 ```dataview
 Table 
@@ -26,5 +16,5 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #<%tag%> AND "Files/Permanent"
+AS "Tags" FROM #<%* tR += title %> AND "Files/Permanent"
 ```
