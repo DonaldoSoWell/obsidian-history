@@ -7,8 +7,13 @@
         "id": "2d2bae043bd31bbe",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Files/Daily/2022-09-20.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Daily/2022-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Daily/2022-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Daily/2022-09-20.md"
+              }
             }
           }
         ]
@@ -122,8 +131,8 @@
   },
   "active": "2d2bae043bd31bbe",
   "lastOpenFiles": [
-    "Files/Meetings/2022-09-19 | a test meeting.md",
     "Home.md",
+    "Files/Meetings/2022-09-19 | a test meeting.md",
     "Files/Templates/Buttons.md",
     "Files/Daily/2022-09-19.md",
     "Files/Templates/Meeting.md",
