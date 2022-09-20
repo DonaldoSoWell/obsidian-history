@@ -21,7 +21,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #apps/soclean-mobile AND "PARA/2) Ressources"
+AS "Tags" FROM #apps/soclean-mobile AND "PARA/3) Ressources"
 ```
 
 ## Archives
@@ -34,5 +34,5 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #apps/soclean-mobile AND "PARA/3) Archives"
+AS "Tags" FROM #apps/soclean-mobile AND "PARA/4) Archives"
 ```

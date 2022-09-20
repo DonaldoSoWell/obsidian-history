@@ -3,6 +3,7 @@ tags:
 - tools/heroku
 - tools/netlify
 - tools/namecheap
+- apps/soclean-mobile
 ---
 ## www.sowell.app
 
