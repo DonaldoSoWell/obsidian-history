@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
+            "file": "Inbox/Amethyst.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tools/obsidian",
+                "query": "tag:#tools/teams",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
+                "file": "Inbox/Amethyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
+                "file": "Inbox/Amethyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md"
+                "file": "Inbox/Amethyst.md"
               }
             }
           }
@@ -130,17 +129,17 @@
     "direction": "horizontal",
     "width": 1200.5
   },
-  "active": "03d7e4bc9067e324",
+  "active": "9fb5642dd93cba55",
   "lastOpenFiles": [
-    "Files/Permanent/Zettelkasten.md",
+    "Inbox/A Guide to Obsidian Local, Markdown-Powered Networked Notes - SitePoint.md",
+    "Inbox/Amethyst.md",
     "Files/Productivity/Obsidian.md",
-    "Files/Productivity/Amethyst.md",
-    "Files/Private/Private.md",
-    "Files/1) Work/1.x) Misc/Teams.md",
-    "Files/1) Work/1) Work.md",
-    "Inbox/misc-travaux.md",
-    "Inbox/misc-obsidian.md",
+    "Files/Permanent/atomic-thinking.md",
     "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md",
-    "Files/Permanent/Managing VACUUM on Heroku Postgres.md"
+    "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
+    "Inbox/GTD.md",
+    "Files/Permanent/Zettelkasten.md",
+    "Files/Private/Private.md",
+    "Files/1) Work/1.x) Misc/Teams.md"
   ]
 }
