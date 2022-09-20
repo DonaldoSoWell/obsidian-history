@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Untitled.md",
+            "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Files/Permanent/Managing VACUUM on Heroku Postgres.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "751a9478f61789e7",
   "lastOpenFiles": [
+    "Files/Permanent/test.md",
+    "Inbox/Untitled.md",
     "Files/Templates/Buttons.md",
     "Files/Templates/Daily.md",
     "Files/Templates/Topic page.md",
@@ -138,8 +140,6 @@
     "Files/Meetings/2022-09-20 | test.md",
     "Files/Meetings/2022-09-20 | null.md",
     "Files/2) Personal/Misc/Travaux.md",
-    "Files/Permanent/Zettelkasten.md",
-    "Files/Permanent/test.md",
-    "Files/Permanent/Generating Markdown Links to Mail Messages With Shortcuts and AppleScript.md"
+    "Files/Permanent/Zettelkasten.md"
   ]
 }
