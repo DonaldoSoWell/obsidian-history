@@ -8,7 +8,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
   "communityPluginSortOrder": "download",
-  "vimMode": false,
+  "vimMode": true,
   "livePreview": false,
   "showFrontmatter": false,
   "newLinkFormat": "shortest",

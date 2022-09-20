@@ -6,7 +6,7 @@ banner_y: 0.75
 ---
 
 `button-daily` `button-meeting` 
-# Tasks
+
 ## 🔔 Due
 ```tasks
 
