@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "PARA/2. Areas/work/customers/ABH.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/2. Areas/work/customers/ABH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/2. Areas/work/customers/ABH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PARA/2. Areas/work/customers/ABH.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "ab7b3127ce237c93",
   "lastOpenFiles": [
+    "PARA/2. Areas/work/customers/sequens.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
     "Home.md",
+    "PARA/4. Archives/Daily/2022-09-13.md",
+    "PARA/4. Archives/Daily/2022-09-16.md",
     "PARA/4. Archives/Daily/2022-09-21.md",
+    "PARA/3. Ressources/Templates/Daily.md",
     "PARA/4. Archives/Daily/2022-09-14.md",
     "PARA/1. Projects/Contrat ABH.md",
-    "PARA/4. Archives/Daily/2022-09-02.md",
-    "PARA/1. Projects/Lancement application mobile SoClean.md",
-    "PARA/2. Areas/work/customers/sequens.md",
-    "PARA/2. Areas/work/customers/ABH.md",
-    "PARA/4. Archives/Daily/2022-09-06.md"
+    "PARA/4. Archives/Daily/2022-09-02.md"
   ]
 }
