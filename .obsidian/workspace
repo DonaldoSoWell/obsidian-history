@@ -7,8 +7,13 @@
         "id": "63ffe3a9b081ff21",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Files/Templates/Area page.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Templates/Area page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Templates/Area page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Templates/Area page.md"
+              }
             }
           }
         ],
@@ -122,7 +131,7 @@
   },
   "active": "63ffe3a9b081ff21",
   "lastOpenFiles": [
-    "PARA/2. Areas/Work/Apps/SoClean mobile.md",
+    "PARA/2. Areas/work/apps/SoClean mobile.md",
     "Files/Templates/Area page.md",
     "Files/Templates/Topic page.md",
     "Files/Templates/Meeting.md",
