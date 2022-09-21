@@ -2,7 +2,7 @@
 - [[1. Projects]]  
 - [[2. Areas]]  
 - [[3. Resources]]  
-- [[4. Archive]]
+- [[4. Archives]]
 
 # Next Actions
 ```dataviewjs
