@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2313f9e7e724c90b",
+        "id": "dcce37fe8c44e246",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 596.5
   },
-  "active": "2313f9e7e724c90b",
+  "active": "dcce37fe8c44e246",
   "lastOpenFiles": [
-    "PARA/2. Areas/work/work.md",
     "Home.md",
+    "PARA/2. Areas/2. Areas.md",
+    "PARA/2. Areas/work/work.md",
     "PARA/2. Areas/work/customers/ABH.md",
     "PARA/3. Ressources/Templates/2. Area page.md",
     "PARA/2. Areas/work/customers/Sequens.md",
     "PARA/1. Projects/un prOjet.md",
     "PARA/1. Projects/un super projet.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
-    "PARA/3. Ressources/Templates/1. Project page.md",
-    "PARA/3. Ressources/Templates/Meeting.md"
+    "PARA/3. Ressources/Templates/1. Project page.md"
   ]
 }
