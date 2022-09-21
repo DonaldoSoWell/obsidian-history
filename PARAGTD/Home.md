@@ -21,6 +21,7 @@ const findDated = (task)=>{
 
 const findDated = (task)=>{
  if( !task.completed ) {
+ console.log(task);
   //task.link = " " + "[[" + task.path + "|*]]";
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
