@@ -56,7 +56,7 @@ LIST FROM "Inbox"
 ```
 
 # Work
-- ![[1) Work]]
+- ![[work]]
 
 # Personal
 ![[2) Personal]]
