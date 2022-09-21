@@ -23,7 +23,6 @@ const findDated = (task)=>{
  if( !task.completed ) {
   //task.link = " " + "[[" + task.path + "|*]]";  
   task.date=task.due;
-  console.log(task);
   const found = task.date != null;
   if(found) task.date = moment(found[1]);
   return true;  
