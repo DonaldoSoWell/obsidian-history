@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Area page.md",
+                "file": "Files/Templates/Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Area page.md",
+                "file": "Files/Templates/Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Area page.md"
+                "file": "Files/Templates/Meeting.md"
               }
             }
           }
@@ -142,10 +142,10 @@
     "direction": "horizontal",
     "width": 224.5
   },
-  "active": "bf101c996bb1a301",
+  "active": "7b8c2c1e51d4b68a",
   "lastOpenFiles": [
-    "Files/Templates/Meeting.md",
     "Files/Templates/Area page.md",
+    "Files/Templates/Meeting.md",
     "PARA/2. Areas/Work/Apps/SoClean mobile.md",
     "PARA/1. Projects/Lancement application mobile SoClean.md",
     "Files/Hierarchy/tools-heroku.md",

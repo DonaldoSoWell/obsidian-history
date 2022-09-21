@@ -1,3 +1,9 @@
+<%-*
+let title = await tp.system.prompt("TItle");
+let path = await tp.system.prompt("Path");
+-%>
+
+# <%* tR += title %>
 ## Projects
 
 ```dataview
@@ -36,3 +42,5 @@ Table
 	)
 AS "Tags" FROM #apps/soclean-mobile AND "PARA/4. Archives"
 ```
+
+<% tp.file.move(path + '/' + title) %>
