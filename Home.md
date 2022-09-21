@@ -37,7 +37,7 @@ short mode
 
 due after date(today)
 not done  
-short mode
+group by heading
 
 ```
 ## ⏳ Unplanned
