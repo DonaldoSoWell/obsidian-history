@@ -1,4 +1,4 @@
-# sequens
+# Sequens
 ## Projects
 
 ```dataview
