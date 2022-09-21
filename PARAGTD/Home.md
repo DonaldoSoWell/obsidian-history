@@ -12,7 +12,7 @@ const findDated = (task)=>{
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
   if(found) task.date = moment(found[1]);
-  if('due' in task) task.date = moment(task.due.ts).format('L');
+  if('due' in task) task.date = moment(task.due.ts).format('YYYY-MM-DD');
   return true;  
  }
 }
@@ -20,14 +20,14 @@ const findDated = (task)=>{
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
 
 dv.header(1,"Overdue");
-dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[moment(t.date).format('ll'), t.text, t.link]));
+dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[t.date, t.text, t.link]));
 
 
 dv.header(1,"Today");
 dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isSame(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
 
 dv.header(1,"Upcoming");
-dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.date).isAfter(moment(),"day")).sort(t=>t.date).map(t=>[moment(t.date).format('ll'), t.text, t.link]));
+dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.date).isAfter(moment(),"day")).sort(t=>t.date).map(t=>[t.date, t.text, t.link]));
 
 dv.header(1,"Undated");
 dv.table(["task","link"], myTasks.filter(t=> !t.date).sort(t=>t.text).map(t=>[t.text, t.link]));
