@@ -25,7 +25,7 @@ const findDated = (task)=>{
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
   if(found) task.date = moment(found[1]);
-  if('due' in task) console.log(moment(task.due));
+  if('due' in task) console.log(moment.tz(task.due.ts));
   return true;  
  }
 }
