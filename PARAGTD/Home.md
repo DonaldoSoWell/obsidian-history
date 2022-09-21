@@ -25,19 +25,15 @@ const findDated = (task)=>{
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
   if(found) task.date = moment(found[1]);
-  if('due' in task) console.log(moment.unix(task.due.ts).format("MM/DD/YYYY"));
+  if('due' in task) task.date = moment(task.due.ts).format('L');
   return true;  
  }
 }
 
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
 
-/*
 dv.header(1,"Overdue");
 dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
-*/
-dv.header(1,"Overdue");
-dv.table(["task","link"], myTasks.filter(t=> moment(t.due).isBefore(moment(),"day")).sort(t=>t.due).map(t=>[t.text, t.link]));
 
 
 dv.header(1,"Today");
