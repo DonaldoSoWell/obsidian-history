@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARAGTD/2. Areas/2. Areas.md",
-            "mode": "source",
+            "file": "PARAGTD/4. Archives/4. Archives.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARAGTD/2. Areas/2. Areas.md",
+                "file": "PARAGTD/4. Archives/4. Archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARAGTD/2. Areas/2. Areas.md",
+                "file": "PARAGTD/4. Archives/4. Archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARAGTD/2. Areas/2. Areas.md"
+                "file": "PARAGTD/4. Archives/4. Archives.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "ae29e6e63b9b7d62",
   "lastOpenFiles": [
+    "PARAGTD/Home.md",
+    "PARAGTD/2. Areas/Batigere.md",
+    "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/2. Areas/INLI.md",
     "PARAGTD/2. Areas/Customers/Customers.md",
     "PARAGTD/1. Projects/Une demande INLI.md",
-    "PARAGTD/Home.md",
     "PARAGTD/1. Projects/Un autre projet.md",
-    "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/2. Areas/My App.md",
     "PARAGTD/2. Areas/Home office.md",
-    "PARAGTD/2. Areas/Customers/Batigere.md",
-    "PARAGTD/1. Projects/1. Projects.md"
+    "PARAGTD/2. Areas/Customers/Batigere.md"
   ]
 }
