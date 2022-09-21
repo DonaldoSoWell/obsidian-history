@@ -4,8 +4,6 @@
 - [[3. Resources]]  
 - [[4. Archives]]
 
-# Test
-
 
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]]
@@ -24,8 +22,8 @@ const findDated = (task)=>{
 const findDated = (task)=>{
  if( !task.completed ) {
   task.link = " " + "[[" + task.path + "|*]]";  
-  task.date="";
-  const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
+  task.date=task.due;
+  const found = task.date != null;
   if(found) task.date = moment(found[1]);
   return true;  
  }
