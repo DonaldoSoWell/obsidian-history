@@ -47,6 +47,7 @@ no due date
 not done 
 exclude sub-items
 description regex matches /(?!^$)([^\s])/
+group by heading
 ```
 
 # Inbox
