@@ -1,8 +1,8 @@
 # Home
 - [[1. Projects]]  
-- [[Areas]]  
-- [[Resources]]  
-- [[Archive]]
+- [[2. Areas]]  
+- [[3. Resources]]  
+- [[4. Archive]]
 
 # Next Actions
 ```dataviewjs
@@ -17,7 +17,7 @@ dv.table(['Project', 'Next'], rows)
 ```
 # Stuck projects
 ```dataviewjs
-let projects = dv.pages('outgoing([[Projects]])')  
+let projects = dv.pages('outgoing([[1. Projects]])')  
 let stuck = projects.filter(page =>  
 page.file.tasks.filter(t =>  
 !t.completed && (  
@@ -31,8 +31,8 @@ dv.list(stuck)
 
 # Areas with no projects
 ```dataviewjs
-let areas = dv.pages('outgoing([[Areas]])')  
-let projects = dv.pages('outgoing([[Projects]])')  
+let areas = dv.pages('outgoing([[2. Areas]])')  
+let projects = dv.pages('outgoing([[1. Projects]])')  
 let project_links = projects.map(p => p.file.link)  
 let no_proj = areas.filter(area =>  
 area.file.outlinks.filter(out =>  
