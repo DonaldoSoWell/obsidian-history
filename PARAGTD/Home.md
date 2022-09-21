@@ -32,8 +32,12 @@ const findDated = (task)=>{
 
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
 
+/*
 dv.header(1,"Overdue");
 dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
+*/
+dv.header(1,"Overdue");
+dv.table(["task","link"], myTasks.filter(t=> moment(t.due).isBefore(moment(),"day")).sort(t=>t.due).map(t=>[t.text, t.link]));
 
 
 dv.header(1,"Today");
