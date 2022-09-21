@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARAGTD/Mesh wireless network.md",
-            "mode": "preview",
+            "file": "PARAGTD/My App.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARAGTD/Mesh wireless network.md",
+                "file": "PARAGTD/My App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARAGTD/Mesh wireless network.md",
+                "file": "PARAGTD/My App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARAGTD/Mesh wireless network.md"
+                "file": "PARAGTD/My App.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "7e36bd27e840db06",
   "lastOpenFiles": [
+    "PARAGTD/Mesh wireless network.md",
     "PARAGTD/Projects.md",
     "PARAGTD/Home.md",
-    "PARAGTD/Mesh wireless network.md",
+    "PARAGTD/Areas.md",
+    "PARAGTD/Home office.md",
     "PARA/2. Areas/work/apps/SoClean mobile.md",
     "PARA/2. Areas/work/apps/SoWell mobile.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
     "PARA/1. Projects/test2.md",
-    "PARA/3. Ressources/Templates/1. Project page.md",
-    "PARA/3. Ressources/Templates/Daily.md",
-    "Home.md"
+    "PARA/3. Ressources/Templates/1. Project page.md"
   ]
 }
