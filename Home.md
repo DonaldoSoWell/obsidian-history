@@ -56,7 +56,9 @@ LIST FROM "Inbox"
 ```
 
 # 2. Areas
-- ![[2. Areas]]
+
+## Work
+ ![[work]]
 
 # Personal
 ![[2) Personal]]
