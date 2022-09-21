@@ -20,6 +20,7 @@ const findDated = (task)=>{
 */
 
 const findDated = (task)=>{
+ console.log(task)
  if( !task.completed ) {
   task.link = " " + "[[" + task.path + "|*]]";  
   task.date=task.due;
