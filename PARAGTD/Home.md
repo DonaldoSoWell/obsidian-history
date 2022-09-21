@@ -21,10 +21,10 @@ const findDated = (task)=>{
 
 const findDated = (task)=>{
  if( !task.completed ) {
-  //task.link = " " + "[[" + task.path + "|*]]";  
+  //task.link = " " + "[[" + task.path + "|*]]";
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
-  if(found && task.due == null) task.date = moment(found[1]);
+  if(found) task.date = moment(found[1]);
   console.log(task)
   return true;  
  }
