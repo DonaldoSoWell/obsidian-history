@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Files/Templates",
+  "templates_folder": "PARA/3. Ressources/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Files/Daily",
-      "template": "Files/Templates/Daily.md"
+      "folder": "PARA/4. Archives/Daily",
+      "template": "PARA/3. Ressources/Templates/Daily.md"
     },
     {
-      "folder": "Files/Meetings",
-      "template": "Files/Templates/Meeting.md"
+      "folder": "PARA/4. Archives/Meetings",
+      "template": "PARA/3. Ressources/Templates/Meeting.md"
     }
   ],
   "syntax_highlighting": true,

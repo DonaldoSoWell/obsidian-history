@@ -36,5 +36,6 @@ Table
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
 AS "Tags" FROM #work/customers/ABH AND "PARA/4. Archives"
+WHERE !completed
 ```
 
