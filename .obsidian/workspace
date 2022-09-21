@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARA/2. Areas/2. Areas.md",
-            "mode": "source",
+            "file": "Home.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md"
+                "file": "Home.md"
               }
             }
           }
@@ -130,12 +130,12 @@
   },
   "active": "dcce37fe8c44e246",
   "lastOpenFiles": [
-    "Home.md",
+    "PARA/2. Areas/work/customers/Sequens.md",
     "PARA/2. Areas/2. Areas.md",
+    "Home.md",
     "PARA/2. Areas/work/work.md",
     "PARA/2. Areas/work/customers/ABH.md",
     "PARA/3. Ressources/Templates/2. Area page.md",
-    "PARA/2. Areas/work/customers/Sequens.md",
     "PARA/1. Projects/un prOjet.md",
     "PARA/1. Projects/un super projet.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
