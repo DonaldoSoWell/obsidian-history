@@ -10,7 +10,7 @@ color blue
 ## Projects
 
 ```dataview
-Table 
+Table tags AS "Tags"
 FROM #work/customers/Sequens AND "PARA/1. Projects"
 ```
 
