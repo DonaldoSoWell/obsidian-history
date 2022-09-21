@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARA/2. Areas/work/customers/ABH.md",
+            "file": "PARA/2. Areas/2. Areas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2. Areas/work/customers/ABH.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2. Areas/work/customers/ABH.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2. Areas/work/customers/ABH.md"
+                "file": "PARA/2. Areas/2. Areas.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "2313f9e7e724c90b",
   "lastOpenFiles": [
+    "PARA/2. Areas/work/work.md",
     "Home.md",
     "PARA/2. Areas/work/customers/ABH.md",
     "PARA/3. Ressources/Templates/2. Area page.md",
     "PARA/2. Areas/work/customers/Sequens.md",
-    "PARA/2. Areas/work/work.md",
     "PARA/1. Projects/un prOjet.md",
     "PARA/1. Projects/un super projet.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",

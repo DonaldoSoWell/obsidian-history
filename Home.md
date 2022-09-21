@@ -55,7 +55,7 @@ group by heading
 LIST FROM "Inbox"
 ```
 
-# Work
+# 2. Areas
 - ![[work]]
 
 # Personal
