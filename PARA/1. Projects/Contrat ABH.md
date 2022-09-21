@@ -4,5 +4,5 @@ tags:
 ---
 
 ```dataview
-TASK WHERE contains(text, "[[Contrat ABH]]")
+TASK from [[Contrat ABH]]
 ```
