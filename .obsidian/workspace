@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5dd3e5e5f6ca5a",
+        "id": "8ada976ec5a8bc35",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,10 +120,10 @@
     "direction": "horizontal",
     "width": 224.5
   },
-  "active": "ba5dd3e5e5f6ca5a",
+  "active": "8ada976ec5a8bc35",
   "lastOpenFiles": [
-    "Files/Templates/Topic page.md",
     "Files/Templates/Area page.md",
+    "Files/Templates/Topic page.md",
     "Files/Templates/Meeting.md",
     "PARA/2. Areas/Work/Apps/SoClean mobile.md",
     "PARA/1. Projects/Lancement application mobile SoClean.md",

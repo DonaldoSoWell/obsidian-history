@@ -43,4 +43,4 @@ Table
 AS "Tags" FROM #<%* tR += path %>/<%* tR += title %> AND "PARA/4. Archives"
 ```
 
-<% tp.file.move(path + '/' + title) %>
+<% tp.file.move('/PARA/2. Areas/' + path + '/' + title) %>
