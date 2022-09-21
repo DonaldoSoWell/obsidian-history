@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARAGTD/Home.md",
-            "mode": "source",
+            "file": "PARAGTD/2. Areas/INLI.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARAGTD/Home.md",
+                "file": "PARAGTD/2. Areas/INLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARAGTD/Home.md",
+                "file": "PARAGTD/2. Areas/INLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARAGTD/Home.md"
+                "file": "PARAGTD/2. Areas/INLI.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "72b95a0d21c9fbf4",
   "lastOpenFiles": [
-    "PARAGTD/4. Archives/4. Archives.md",
-    "PARAGTD/Home.md",
-    "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/2. Areas/My App.md",
-    "PARAGTD/3. Resources/3. Resources.md",
-    "PARAGTD/1. Projects/1. Projects.md",
-    "Home.md",
-    "PARAGTD/2. Areas/Home office.md",
+    "PARAGTD/2. Areas/INLI.md",
+    "PARAGTD/2. Areas/2. Areas.md",
+    "PARAGTD/Home.md",
+    "PARAGTD/1. Projects/Une demande INLI.md",
     "PARAGTD/1. Projects/Mesh wireless network.md",
-    "PARAGTD/1. Projects/Demo UI.md"
+    "PARAGTD/2. Areas/Home office.md",
+    "PARAGTD/1. Projects/Demo UI.md",
+    "PARA/2. Areas/work/customers/ABH.md",
+    "PARAGTD/1. Projects/1. Projects.md"
   ]
 }
