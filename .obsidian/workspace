@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARAGTD/Projects/Mesh wireless network.md",
+            "file": "PARAGTD/Areas/Areas.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARAGTD/Projects/Mesh wireless network.md",
+                "file": "PARAGTD/Areas/Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARAGTD/Projects/Mesh wireless network.md",
+                "file": "PARAGTD/Areas/Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARAGTD/Projects/Mesh wireless network.md"
+                "file": "PARAGTD/Areas/Areas.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "7e36bd27e840db06",
   "lastOpenFiles": [
-    "PARAGTD/Projects/Projects.md",
+    "PARAGTD/1. Projects/1. Projects.md",
     "PARAGTD/Home.md",
-    "PARAGTD/Areas.md",
-    "PARAGTD/Projects/Mesh wireless network.md",
-    "PARAGTD/My App.md",
-    "PARAGTD/Home office.md",
+    "PARAGTD/1. Projects/Mesh wireless network.md",
+    "PARAGTD/1. Projects/Demo UI.md",
+    "PARAGTD/Areas/Areas.md",
+    "Home.md",
+    "PARAGTD/Areas/My App.md",
+    "PARAGTD/Areas/Home office.md",
     "PARA/2. Areas/work/apps/SoClean mobile.md",
-    "PARA/2. Areas/work/apps/SoWell mobile.md",
-    "PARA/1. Projects/Connexion SSO Sequens.md",
-    "PARA/1. Projects/test2.md"
+    "PARA/2. Areas/work/apps/SoWell mobile.md"
   ]
 }

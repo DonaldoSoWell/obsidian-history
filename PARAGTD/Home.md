@@ -1,12 +1,12 @@
 # Home
-- [[Projects]]  
+- [[1. Projects]]  
 - [[Areas]]  
 - [[Resources]]  
 - [[Archive]]
 
 # Next Actions
 ```dataviewjs
-let projects = dv.pages('outgoing([[Projects]])')  
+let projects = dv.pages('outgoing([[1. Projects]])')  
 let rows = projects.flatMap(  
 page => page.file.tasks  
 .filter(t => !t.completed && t.text.includes('#next'))  
