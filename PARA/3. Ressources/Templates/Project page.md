@@ -1,7 +1,7 @@
 
 ---
 tags:
-- <% area %>
+- <%* tR += area %>
 ---
 <%-*  
 let title = await tp.system.prompt("Title");  
