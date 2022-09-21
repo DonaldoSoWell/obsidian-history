@@ -1,10 +1,4 @@
-<%-*
-let title = await tp.system.prompt("TItle");
--%>
-<%-*
-let path = await tp.system.prompt("Path");
--%>
-# <%* tR += title %>
+# SoClean mobile
 ## Projects
 
 ```dataview
@@ -15,7 +9,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #<%* tR += path.replaceAll(' ','-') %>/<%* tR += title.replaceAll(' ','-') %> AND "PARA/1. Projects"
+AS "Tags" FROM #work/apps/SoClean-mobile AND "PARA/1. Projects"
 ```
 
 ## Ressources
@@ -28,7 +22,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #<%* tR += path.replaceAll(' ','-') %>/<%* tR += title.replaceAll(' ','-') %> AND "PARA/3. Ressources"
+AS "Tags" FROM #work/apps/SoClean-mobile AND "PARA/3. Ressources"
 ```
 
 ## Archives
@@ -41,7 +35,6 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #<%* tR += path.replaceAll(' ','-') %>/<%* tR += title.replaceAll(' ','-') %> AND "PARA/4. Archives"
+AS "Tags" FROM #work/apps/SoClean-mobile AND "PARA/4. Archives"
 ```
 
-<% tp.file.move('/PARA/2. Areas/' + path + '/' + title) %>

@@ -1,6 +1,6 @@
 ---
 tags:
-- apps/soclean-mobile
+- work/apps/soclean-mobile
 ---
 
 ## Tasks
