@@ -14,7 +14,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #apps/soclean-mobile AND "PARA/1. Projects"
+AS "Tags" FROM #<%* tR += path %>/<%* tR += title %> AND "PARA/1. Projects"
 ```
 
 ## Ressources
@@ -27,7 +27,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #apps/soclean-mobile AND "PARA/3. Ressources"
+AS "Tags" FROM #<%* tR += path %>/<%* tR += title %> AND "PARA/3. Ressources"
 ```
 
 ## Archives
@@ -40,7 +40,7 @@ Table
 		),
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
-AS "Tags" FROM #apps/soclean-mobile AND "PARA/4. Archives"
+AS "Tags" FROM #<%* tR += path %>/<%* tR += title %> AND "PARA/4. Archives"
 ```
 
 <% tp.file.move(path + '/' + title) %>
