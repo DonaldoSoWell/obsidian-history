@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARAGTD/4. Archives/4. Archives.md",
+            "file": "PARAGTD/1. Projects/Connexion SSO Sequens.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARAGTD/4. Archives/4. Archives.md",
+                "file": "PARAGTD/1. Projects/Connexion SSO Sequens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARAGTD/4. Archives/4. Archives.md",
+                "file": "PARAGTD/1. Projects/Connexion SSO Sequens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARAGTD/4. Archives/4. Archives.md"
+                "file": "PARAGTD/1. Projects/Connexion SSO Sequens.md"
               }
             }
           }
@@ -131,14 +131,14 @@
   "active": "ae29e6e63b9b7d62",
   "lastOpenFiles": [
     "PARAGTD/Home.md",
-    "PARAGTD/2. Areas/Batigere.md",
+    "PARAGTD/1. Projects/Connexion SSO Sequens.md",
+    "PARAGTD/2. Areas/Sequens.md",
     "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/2. Areas/INLI.md",
-    "PARAGTD/2. Areas/Customers/Customers.md",
+    "PARA/2. Areas/work/customers/ABH.md",
+    "PARA/2. Areas/work/customers/Sequens.md",
+    "PARAGTD/1. Projects/1. Projects.md",
     "PARAGTD/1. Projects/Une demande INLI.md",
-    "PARAGTD/1. Projects/Un autre projet.md",
-    "PARAGTD/2. Areas/My App.md",
-    "PARAGTD/2. Areas/Home office.md",
-    "PARAGTD/2. Areas/Customers/Batigere.md"
+    "PARAGTD/1. Projects/Un autre projet.md"
   ]
 }
