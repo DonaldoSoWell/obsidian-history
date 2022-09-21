@@ -1,8 +1,9 @@
 <%-*
 let title = await tp.system.prompt("TItle");
+-%>
+<%-*
 let path = await tp.system.prompt("Path");
 -%>
-
 # <%* tR += title %>
 ## Projects
 
