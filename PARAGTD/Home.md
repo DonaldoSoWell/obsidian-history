@@ -4,13 +4,15 @@
 - [[3. Resources]]  
 - [[4. Archives]]
 
-
+3.  fileName: ƒ fileName()
+5.  markdown: ƒ markdown()
+6.  obsidianLink: ƒ obsidianLink()
+10.  toString: ƒ toString()
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]] or on Due date
 const findDated = (task)=>{
  if( !task.completed ) {
- console.log(task.link);
- console.log(task.link.withPath());
+ console.log(task.link.toString());
   //task.link = " " + "[[" + task.path + "|*]]";
   task.date="";
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
