@@ -3,11 +3,6 @@
 - [[2. Areas]]  
 - [[3. Resources]]  
 - [[4. Archives]]
-
-3.  fileName: ƒ fileName()
-5.  markdown: ƒ markdown()
-6.  obsidianLink: ƒ obsidianLink()
-10.  toString: ƒ toString()
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]] or on Due date
 const findDated = (task)=>{
