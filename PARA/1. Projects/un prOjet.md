@@ -1,4 +1,8 @@
-# {{date:YYYY-MM-DD dddd}}
+
+---
+tags:
+- work/customers/abh
+---
 
 ```button
 name Home
@@ -7,5 +11,8 @@ action obsidian://advanced-uri?vault=Donaldo&filename=Home
 color blue
 ```
 ^button-home
-## 📆  TODO
-- [ ] 
+## Tasks 
+```tasks
+heading includes [[un prOjet]]
+```
+

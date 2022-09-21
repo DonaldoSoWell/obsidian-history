@@ -4,6 +4,5 @@
 	- [[SoWell mobile]]
 - **customers**
 	- [[ABH]]
-	- [[Sequens]]
 
 %% End Waypoint %%

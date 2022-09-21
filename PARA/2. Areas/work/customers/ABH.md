@@ -1,4 +1,12 @@
 # ABH
+
+```button
+name Home
+type link
+action obsidian://advanced-uri?vault=Donaldo&filename=Home
+color blue
+```
+^button-home
 ## Projects
 
 ```dataview
@@ -36,6 +44,5 @@ Table
 		(item) => "[" + item + "](obsidian://search?vault=Donaldo&query=tag:%23" + item + ")"
 	)
 AS "Tags" FROM #work/customers/ABH AND "PARA/4. Archives"
-WHERE !completed
 ```
 

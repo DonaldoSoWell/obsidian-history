@@ -2,6 +2,15 @@
 let title = await tp.system.prompt("Title");
 -%>
 # <%* tR += title %>
+
+```button
+name Home
+type link
+action obsidian://advanced-uri?vault=Donaldo&filename=Home
+color blue
+```
+^button-home
+
 - **Date:**  <% tp.date.now() %>
 - **Attendees:** 
 	- 
