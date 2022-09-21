@@ -1,4 +1,4 @@
-**# Home**  
+# Home
 - [[Projects]]  
 - [[Areas]]  
 - [[Resources]]  
