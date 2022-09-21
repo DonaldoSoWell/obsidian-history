@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PARAGTD/2. Areas/2. Areas.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -130,15 +130,15 @@
   },
   "active": "72b95a0d21c9fbf4",
   "lastOpenFiles": [
+    "PARAGTD/2. Areas/My App.md",
     "PARAGTD/Home.md",
-    "PARAGTD/2. Areas/Batigere.md",
-    "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/1. Projects/Un autre projet.md",
     "PARAGTD/2. Areas/INLI.md",
+    "PARAGTD/2. Areas/2. Areas.md",
+    "PARAGTD/2. Areas/Batigere.md",
     "PARAGTD/1. Projects/Une demande INLI.md",
     "PARAGTD/1. Projects/1. Projects.md",
     "PARAGTD/1. Projects/Demo UI.md",
-    "PARAGTD/1. Projects/Mesh wireless network.md",
-    "PARAGTD/2. Areas/My App.md"
+    "PARAGTD/1. Projects/Mesh wireless network.md"
   ]
 }
