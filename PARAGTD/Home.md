@@ -29,8 +29,7 @@ t.text.includes('#wait')
 dv.list(stuck)
 ```
 
-
-# Areas with not projects
+# Areas with no projects
 ```dataviewjs
 let areas = dv.pages('outgoing([[Areas]])')  
 let projects = dv.pages('outgoing([[Projects]])')  
