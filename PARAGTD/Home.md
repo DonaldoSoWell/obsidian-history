@@ -20,7 +20,6 @@ const findDated = (task)=>{
 */
 
 const findDated = (task)=>{
- console.log(task)
  if( !task.completed ) {
   task.link = " " + "[[" + task.path + "|*]]";  
   task.date=task.due;
@@ -31,6 +30,8 @@ const findDated = (task)=>{
 }
 
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
+
+console.log(myTasks);
 
 dv.header(1,"Overdue");
 dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
