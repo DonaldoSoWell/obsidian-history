@@ -4,6 +4,38 @@
 - [[3. Resources]]  
 - [[4. Archives]]
 
+# Test
+
+
+```dataviewjs
+// find dates based on format [[YYYY-MM-DD]]
+const findDated = (task)=>{
+ if( !task.completed ) {
+  task.link = " " + "[[" + task.path + "|*]]";  
+  task.date="";
+  const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
+  if(found) task.date = moment(found[1]);
+  return true;  
+ }
+}
+
+const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
+
+dv.header(1,"Overdue");
+dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isBefore(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
+
+
+dv.header(1,"Today");
+dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isSame(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
+
+dv.header(1,"Upcoming");
+dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isAfter(moment(),"day")).sort(t=>t.date).map(t=>[t.text, t.link]));
+
+dv.header(1,"Undated");
+dv.table(["task","link"], myTasks.filter(t=> !t.date).sort(t=>t.text).map(t=>[t.text, t.link]));
+
+```
+
 # Next Actions
 ```dataviewjs
 let projects = dv.pages('outgoing([[1. Projects]])')  
