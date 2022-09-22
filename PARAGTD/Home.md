@@ -13,17 +13,10 @@ const findDated = (task)=>{
   const found = task.text.match(/\[\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))\]\]/);
   if(found) task.date = moment(found[1]).format('YYYY-MM-DD');
   if('due' in task) task.date = moment(task.due.ts).format('YYYY-MM-DD');
+  console.log(task)
   return true;  
  }
 }
-
-const hideCompletedSubtasks = (t) => ({
-  ...t, 
-  subtasks: t.subtasks.values.filter(st => !st.fullyCompleted).map(hideCompletedSubtasks)
-})
-
-
-myTasks.values = myTasks.values.map(hideCompletedSubtasks)
 
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
 
