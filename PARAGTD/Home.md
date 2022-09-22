@@ -50,10 +50,10 @@ if (upcomingTasks.length) dv.taskList(upcomingTasks);
   ##### Daily
 ```tasks
 due after date(today)
-not done  
-short mode
+not done
 path includes Daily
 ```  
+
 
 
 
