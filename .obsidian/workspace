@@ -7,115 +7,138 @@
         "id": "109e4294115302ee",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PARAGTD/Home.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "75d2b58739866fb5",
-    "type": "mobile-drawer",
+    "id": "23d463d5ccda89cc",
+    "type": "split",
     "children": [
       {
-        "id": "4fa5747aa2abde07",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "38e216e8b78a4bb4",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d9668f599289017b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb5642dd93cba55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b903db93bcf85803",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "0308fe4f7b55994d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "593ae4403f41bc47",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 248
   },
   "right": {
-    "id": "f64ffd70f7dbf73d",
-    "type": "mobile-drawer",
+    "id": "ec3dc306899e60a9",
+    "type": "split",
     "children": [
       {
-        "id": "7457a57acf8c1aae",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "106406f122bb9ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d7e4bc9067e324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38604d699ebe377f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3f31fcd33691263",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PARAGTD/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d120b32163660c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PARAGTD/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "104b22f4286b86e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARAGTD/Home.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "bf1ddf996358350c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "3eb2d4b7a635fabf",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 194.5
   },
   "active": "109e4294115302ee",
   "lastOpenFiles": [
-    "PARAGTD/2. Areas/2. Areas.md",
-    "PARAGTD/Home.md",
-    "PARAGTD/1. Projects/1. Projects.md",
-    "PARAGTD/1. Projects/Achats Castorama.md",
-    "Inbox/Reporter V2.md",
-    "PARAGTD/3. Resources/3. Resources.md",
     "PARAGTD/4. Archives/4. Archives.md",
+    "PARAGTD/3. Resources/3. Resources.md",
+    "PARAGTD/2. Areas/Admin.md",
+    "PARAGTD/2. Areas/Batigere.md",
+    "PARAGTD/2. Areas/Home office.md",
     "PARAGTD/2. Areas/INLI.md",
-    "PARAGTD/1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "PARAGTD/2. Areas/Admin.md"
+    "PARAGTD/2. Areas/My App.md",
+    "PARAGTD/2. Areas/Sequens.md",
+    "PARAGTD/2. Areas/Travaux.md",
+    "PARAGTD/2. Areas/2. Areas.md"
   ]
 }
