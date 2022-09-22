@@ -17,6 +17,14 @@ const findDated = (task)=>{
  }
 }
 
+const hideCompletedSubtasks = (t) => ({
+  ...t, 
+  subtasks: t.subtasks.values.filter(st => !st.fullyCompleted).map(hideCompletedSubtasks)
+})
+
+
+myTasks.values = myTasks.values.map(hideCompletedSubtasks)
+
 const myTasks =  dv.pages("").file.tasks.where(t => findDated(t));
 
 dv.header(1,"Overdue");
