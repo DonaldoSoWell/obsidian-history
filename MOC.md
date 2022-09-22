@@ -1,10 +1,5 @@
-# [[1. Projects|Projects]]
-![[1. Projects]]  
-# [[2. Areas|Areas]]
-![[2. Areas]]  
-
-# Tasks
-## Due
+## Tasks
+### Due
 ```dataviewjs
 const findDated = (task)=>{
 	if( !task.completed) {
@@ -33,7 +28,7 @@ path includes Daily
 
 ```
 
-## Upcoming
+### Upcoming
 ```dataviewjs
 
 // find dates based on due date
@@ -61,7 +56,7 @@ not done
 path includes Daily
 ```  
 
-## Stuck
+### Stuck
 ```dataviewjs
 
 // find dates based on due date
@@ -88,7 +83,21 @@ not done
 exclude sub-items
 description regex matches /(?!^$)([^\s])/
 ```  
-# Areas with no projects
+
+
+## [[1. Projects|🔗 Projects]]
+![[1. Projects]]  
+## [[2. Areas|🔗 Areas]]
+![[2. Areas]]  
+
+
+## [[3. Resources|🔗 Resources]] 
+![[3. Resources]]  
+## [[4. Archives|🔗 Archives]]
+![[4. Archives]]
+
+
+## Areas with no projects
 ```dataviewjs
 let areas = dv.pages('outgoing([[2. Areas]])')  
 let projects = dv.pages('outgoing([[1. Projects]])')  
@@ -100,7 +109,3 @@ project_links.includes(out)
 ).map(x => x.file.link)  
 dv.list(no_proj)
 ```
-# Resources 
-![[3. Resources]]  
-# Archives
-![[4. Archives]]
