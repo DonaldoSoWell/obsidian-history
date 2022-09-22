@@ -3,6 +3,7 @@
 - [[2. Areas]]  
 - [[3. Resources]]  
 - [[4. Archives]]
+
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]] or on Due date
 const findDated = (task)=>{
