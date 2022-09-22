@@ -40,39 +40,8 @@ dv.el('hr','');
 dv.taskList(myTasks.filter(t=> !t.dueDate));
 dv.el('br','');
 
-
-/*
-// Overdue
-dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.dueDate).isBefore(moment(),"day")).sort(t=>t.dueDate).map(t=>[t.dueDate, t.text, t.link]));
-
-// Today
-dv.table(["task","link"], myTasks.filter(t=> moment(t.dueDate).isSame(moment(),"day")).sort(t=>t.dueDate).map(t=>[t.text, t.link]));
-
-// Upcomming
-dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.dueDate).isAfter(moment(),"day")).sort(t=>t.dueDate).map(t=>[t.dueDate, t.text, t.link]));
-
-// Undated
-let groups = myTasks.filter(t=> !t.date).groupBy(t => t.link);
-console.log(groups)
-for (let group of groups) { 
-	dv.header(3, group.key); 
-	dv.table( ["task"],
-	group.rows
-		.sort(k => k.link, 'asc')
-		.map(k => [
-			k.text
-		])) 
-}
-for (let group of groups) { 
-	dv.header(3, group.key); 
-	dv.taskList(group.rows); 
-}
-
-dv.header(1,"Undated");
-dv.table(["task","link"], myTasks.filter(t=> !t.date).sort(t=>t.text).map(t=>[t.text, t.link]));
-*/
-
 ```
+
 
 # Next Actions
 ```dataviewjs
