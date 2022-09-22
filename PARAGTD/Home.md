@@ -17,7 +17,7 @@ const findDated = (task)=>{
 
 // find tasks on projects folder
 
-const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment(),"day")).sort(t=>t.dueDate);
+const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment().add(1,'days'),"day")).sort(t=>t.dueDate);
 
 if (overdueTasks.length) dv.taskList(overdueTasks);
 ```
@@ -29,29 +29,6 @@ not done
 path includes Daily
 
 ```
-
-## Today
-```dataviewjs
-const findDated = (task)=>{
-	if( !task.completed) {
-		task.dueDate="";
-		if('due' in task) task.dueDate = moment(task.due.ts).format('YYYY-MM-DD');
-		if (!('parent' in task) || (task.dueDate != "")) return true;
-	}
-}
-
-// find tasks on projects folder
-
-const todayTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isSame(moment(),"day")).sort(t=>t.dueDate);
-if (todayTasks.length) dv.taskList(todayTasks);
-```
-  ##### Daily
-```tasks
-due after date(today)
-not done  
-short mode
-path includes Daily
-```  
 
 ## Upcoming
 ```dataviewjs
@@ -70,6 +47,13 @@ const upcomingTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => fi
 
 if (upcomingTasks.length) dv.taskList(upcomingTasks);
 ```
+  ##### Daily
+```tasks
+due after date(today)
+not done  
+short mode
+path includes Daily
+```  
 
 
 
