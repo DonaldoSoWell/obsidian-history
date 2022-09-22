@@ -4,6 +4,32 @@
 - [[3. Resources]]  
 - [[4. Archives]]
 
+
+## Overdue
+```dataviewjs
+const findDated = (task)=>{
+	if( !task.completed) {
+		task.dueDate="";
+		if('due' in task) task.dueDate = moment(task.due.ts).format('YYYY-MM-DD');
+		if (!('parent' in task) || (task.dueDate != "")) return true;
+	}
+}
+
+// find tasks on projects folder
+
+const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment(),"day")).sort(t=>t.dueDate);
+
+dv.taskList(overdueTasks);
+```
+  ##### Daily
+```tasks
+
+due before date(tomorrow)
+not done
+short mode
+path includes Daily
+
+```
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]] or on Due date
 const findDated = (task)=>{
