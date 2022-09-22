@@ -27,10 +27,12 @@ dv.header(1,"Today");
 dv.table(["task","link"], myTasks.filter(t=> moment(t.dueDate).isSame(moment(),"day")).sort(t=>t.dueDate).map(t=>[t.text, t.link]));
 
 dv.header(1,"Upcoming");
+dv.el('hr','');
 dv.taskList(myTasks.filter(t=> moment(t.dueDate).isAfter(moment(),"day")).sort(t=>t.dueDate));
-
+dv.el('br','');
 
 dv.header(1,"Undated");
+dv.el('hr','');
 dv.taskList(myTasks.filter(t=> !t.dueDate));
 
 /*
