@@ -1,4 +1,4 @@
-# Projects
+# [[1. Projects|Projects]]
 ![[1. Projects]]  
 # [[2. Areas|Areas]]
 ![[2. Areas]]  
