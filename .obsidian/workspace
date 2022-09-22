@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "797d42728bddc0c4",
+        "id": "bf65566db3362a5c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -20,125 +20,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23d463d5ccda89cc",
-    "type": "split",
+    "id": "0053b5572ee90200",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d9668f599289017b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fb5642dd93cba55",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b903db93bcf85803",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "5b83f20e2fc267fe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8d62c3d10aed1e08",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "ac468c1a6c147e08",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0616f8d7dd0c047e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 248
+    "currentTab": 0
   },
   "right": {
-    "id": "ec3dc306899e60a9",
-    "type": "split",
+    "id": "8a3410863a1a9233",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "106406f122bb9ec8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03d7e4bc9067e324",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "38604d699ebe377f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f3f31fcd33691263",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MOC.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2d120b32163660c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MOC.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "104b22f4286b86e7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MOC.md"
-              }
-            }
+        "id": "bfd8f2308b0c0353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MOC.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "ffee5c9830d103da",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "MOC.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3706a46ca01b95da",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "MOC.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 194.5
+    "currentTab": 0
   },
-  "active": "797d42728bddc0c4",
+  "active": "bf65566db3362a5c",
   "lastOpenFiles": [
-    "PARA/2. Areas/2. Areas.md",
+    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "MOC.md",
+    "PARA/2. Areas/2. Areas.md",
     "PARA/4. Archives/4. Archives.md",
     "Inbox/Home.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/3. Resources/3. Resources.md",
     "Inbox/Lancement application mobile SoClean.md",
     "Inbox/Contrat ABH.md",
-    "PARA/2. Areas/work/apps/SoClean mobile.md",
-    "PARA/2. Areas/work/apps/SoWell mobile.md"
+    "PARA/2. Areas/work/apps/SoClean mobile.md"
   ]
 }
