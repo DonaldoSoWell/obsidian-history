@@ -90,7 +90,6 @@ description regex matches /(?!^$)([^\s])/
 ## [[2. Areas|🔗 Areas]]
 ![[2. Areas]]  
 
-
 ## [[3. Resources|🔗 Resources]] 
 ![[3. Resources]]  
 ## [[4. Archives|🔗 Archives]]
