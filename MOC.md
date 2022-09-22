@@ -80,6 +80,7 @@ if (stuckTasks.length) {
 ```tasks
 no due date
 not done 
+path includes Daily
 exclude sub-items
 description regex matches /(?!^$)([^\s])/
 ```  

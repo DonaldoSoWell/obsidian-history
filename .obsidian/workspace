@@ -37,7 +37,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#next",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -116,15 +116,15 @@
   },
   "active": "bf65566db3362a5c",
   "lastOpenFiles": [
-    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
+    "PARA/1. Projects/Achats Castorama.md",
     "MOC.md",
+    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "PARA/2. Areas/2. Areas.md",
     "PARA/4. Archives/4. Archives.md",
     "Inbox/Home.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/3. Resources/3. Resources.md",
     "Inbox/Lancement application mobile SoClean.md",
-    "Inbox/Contrat ABH.md",
-    "PARA/2. Areas/work/apps/SoClean mobile.md"
+    "Inbox/Contrat ABH.md"
   ]
 }
