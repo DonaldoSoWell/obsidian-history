@@ -28,11 +28,22 @@ dv.table(["task","link"], myTasks.filter(t=> moment(t.date).isSame(moment(),"day
 dv.header(1,"Upcoming");
 dv.table(["due", "task", "link"], myTasks.filter(t=> moment(t.date).isAfter(moment(),"day")).sort(t=>t.date).map(t=>[t.date, t.text, t.link]));
 
+dv.header(1,"Undated");
 let groups = myTasks.filter(t=> !t.date).groupBy(t => t.link);
 console.log(groups)
-
+for (let group of groups) { 
+	dv.header(3, group.key); 
+	dv.table( ["task", "link"],
+	group.rows
+		.sort(k => k.link, 'desc')
+		.map(k => [
+			k.text, k.link
+		])) 
+}
+/*
 dv.header(1,"Undated");
 dv.table(["task","link"], myTasks.filter(t=> !t.date).sort(t=>t.text).map(t=>[t.text, t.link]));
+*/
 
 ```
 
