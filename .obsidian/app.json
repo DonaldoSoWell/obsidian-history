@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "spellcheck": false,
   "newFileFolderPath": "Inbox",
   "showUnsupportedFiles": true,

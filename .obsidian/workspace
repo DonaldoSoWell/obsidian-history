@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "109e4294115302ee",
+        "id": "ea50678d96f6a20a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "PARAGTD/Home.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 194.5
   },
-  "active": "109e4294115302ee",
+  "active": "ea50678d96f6a20a",
   "lastOpenFiles": [
-    "PARAGTD/4. Archives/4. Archives.md",
-    "PARAGTD/3. Resources/3. Resources.md",
-    "PARAGTD/2. Areas/Admin.md",
-    "PARAGTD/2. Areas/Batigere.md",
-    "PARAGTD/2. Areas/Home office.md",
     "PARAGTD/2. Areas/INLI.md",
-    "PARAGTD/2. Areas/My App.md",
-    "PARAGTD/2. Areas/Sequens.md",
+    "PARAGTD/2. Areas/2. Areas.md",
     "PARAGTD/2. Areas/Travaux.md",
-    "PARAGTD/2. Areas/2. Areas.md"
+    "PARAGTD/1. Projects/Rediriger les mails de Laura et Mathieu.md",
+    "PARAGTD/1. Projects/Connexion SSO Sequens.md",
+    "PARAGTD/1. Projects/Check-list fin de chantier ravalement.md",
+    "PARAGTD/1. Projects/Achats Castorama.md",
+    "PARAGTD/1. Projects/1. Projects.md",
+    "PARAGTD/3. Resources/3. Resources.md",
+    "PARAGTD/4. Archives/4. Archives.md"
   ]
 }
