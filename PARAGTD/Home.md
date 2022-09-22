@@ -30,6 +30,27 @@ short mode
 path includes Daily
 
 ```
+
+## Today
+```dataviewjs
+const findDated = (task)=>{
+	if( !task.completed) {
+		task.dueDate="";
+		if('due' in task) task.dueDate = moment(task.due.ts).format('YYYY-MM-DD');
+		if (!('parent' in task) || (task.dueDate != "")) return true;
+	}
+}
+
+// find tasks on projects folder
+
+const todayTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isSame(moment(),"day")).sort(t=>t.dueDate);
+
+dv.taskList(todayTasks);
+```
+  ##### Daily
+  
+
+
 ```dataviewjs
 // find dates based on format [[YYYY-MM-DD]] or on Due date
 const findDated = (task)=>{
