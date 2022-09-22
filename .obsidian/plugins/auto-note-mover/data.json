@@ -1,0 +1,33 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "PARA/1. Projects",
+      "tag": "#templates/project",
+      "pattern": ""
+    },
+    {
+      "folder": "PARA/2. Areas",
+      "tag": "#templates/area",
+      "pattern": ""
+    },
+    {
+      "folder": "PARA/4. Archives/Daily",
+      "tag": "#templates/daily",
+      "pattern": ""
+    },
+    {
+      "folder": "PARA/4. Archives/Meetings",
+      "tag": "#templates/meeting",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "PARA/4. Archives"
+    }
+  ]
+}
