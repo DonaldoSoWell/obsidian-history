@@ -2,9 +2,5 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "translucency": true,
-  "enabledCssSnippets": [
-    "priority-tags",
-    "extended-read-line-lenght",
-    "dashboard"
-  ]
+  "enabledCssSnippets": []
 }

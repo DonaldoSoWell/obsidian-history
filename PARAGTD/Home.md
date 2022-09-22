@@ -1,9 +1,12 @@
+# Projects
 ![[1. Projects]]  
+# Areas
 ![[2. Areas]]  
 ![[3. Resources]]  
 ![[4. Archives]]
 
-# Due tasks
+# Tasks
+## Due
 ```dataviewjs
 const findDated = (task)=>{
 	if( !task.completed) {
@@ -32,7 +35,7 @@ path includes Daily
 
 ```
 
-# Upcoming tasks
+## Upcoming
 ```dataviewjs
 
 // find dates based on due date
@@ -60,7 +63,7 @@ not done
 path includes Daily
 ```  
 
-# Stuck tasks
+## Stuck
 ```dataviewjs
 
 // find dates based on due date
