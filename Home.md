@@ -30,6 +30,7 @@ color purple
 due before date(tomorrow)
 not done
 short mode
+path includes Daily
 
 ```
 ## 🔜 Upcomming
