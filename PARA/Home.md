@@ -2,8 +2,6 @@
 ![[1. Projects]]  
 # Areas
 ![[2. Areas]]  
-![[3. Resources]]  
-![[4. Archives]]
 
 # Tasks
 ## Due
@@ -102,3 +100,7 @@ project_links.includes(out)
 ).map(x => x.file.link)  
 dv.list(no_proj)
 ```
+# Resources 
+![[3. Resources]]  
+# Archives
+![[4. Archives]]

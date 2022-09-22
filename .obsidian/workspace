@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARA/4. Archives/Contrat ABH.md",
-            "mode": "source",
+            "file": "Inbox/Home.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/4. Archives/Contrat ABH.md",
+                "file": "Inbox/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/4. Archives/Contrat ABH.md",
+                "file": "Inbox/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/4. Archives/Contrat ABH.md"
+                "file": "Inbox/Home.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 194.5
   },
-  "active": "797d42728bddc0c4",
+  "active": "9fb5642dd93cba55",
   "lastOpenFiles": [
-    "PARA/4. Archives/Lancement application mobile SoClean.md",
+    "PARA/Home.md",
+    "PARA/4. Archives/4. Archives.md",
+    "PARA/1. Projects/1. Projects.md",
+    "PARA/2. Areas/2. Areas.md",
+    "PARA/3. Resources/3. Resources.md",
+    "Inbox/Lancement application mobile SoClean.md",
+    "Inbox/Contrat ABH.md",
     "PARA/2. Areas/work/apps/SoClean mobile.md",
     "PARA/2. Areas/work/apps/SoWell mobile.md",
-    "Inbox/Hébergements.md",
-    "PARAGTD/3. Resources/Templates/Meeting.md",
-    "PARAGTD/3. Resources/Templates/Project.md",
-    "PARAGTD/2. Areas/2. Areas.md",
-    "PARAGTD/2. Areas/newOne.md",
-    "2. Areas/newOne.md",
-    "PARAGTD/1. Projects/Achats Castorama.md"
+    "Inbox/Hébergements.md"
   ]
 }
