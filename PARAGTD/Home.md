@@ -44,11 +44,15 @@ const findDated = (task)=>{
 // find tasks on projects folder
 
 const todayTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isSame(moment(),"day")).sort(t=>t.dueDate);
-
-dv.taskList(todayTasks);
+if (todayTasks.length) dv.taskList(todayTasks);
 ```
   ##### Daily
-  
+```tasks
+due after date(today)
+not done  
+short mode
+path includes Daily
+```  
 
 
 ```dataviewjs
