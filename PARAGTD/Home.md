@@ -5,7 +5,7 @@
 - [[4. Archives]]
 
 
-## Overdue
+## Due
 ```dataviewjs
 const findDated = (task)=>{
 	if( !task.completed) {
@@ -19,14 +19,13 @@ const findDated = (task)=>{
 
 const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment(),"day")).sort(t=>t.dueDate);
 
-if (todayTasks.length) dv.taskList(overdueTasks);
+if (overdueTasks.length) dv.taskList(overdueTasks);
 ```
   ##### Daily
 ```tasks
 
 due before date(tomorrow)
 not done
-short mode
 path includes Daily
 
 ```
