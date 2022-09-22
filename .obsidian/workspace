@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC.md",
+            "file": "Inbox/Travaux.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOC.md",
+            "file": "Inbox/Travaux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOC.md",
+            "file": "Inbox/Travaux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOC.md"
+            "file": "Inbox/Travaux.md"
           }
         }
       }
@@ -116,15 +116,15 @@
   },
   "active": "4dc12f9075fbc3b6",
   "lastOpenFiles": [
+    "PARA/2. Areas/2. Areas.md",
+    "Inbox/Travaux.md",
+    "PARA/1. Projects/Check-list fin de chantier ravalement.md",
+    "MOC.md",
     "PARA/3. Resources/Templates/Area.md",
     "PARA/3. Resources/Templates/Project.md",
-    "MOC.md",
     "PARA/2. Areas/Travaux.md",
-    "PARA/1. Projects/Check-list fin de chantier ravalement.md",
-    "PARA/2. Areas/2. Areas.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/3. Resources/3. Resources.md",
-    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "PARA/1. Projects/Connexion SSO Sequens.md"
+    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md"
   ]
 }
