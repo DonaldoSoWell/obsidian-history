@@ -1,6 +1,6 @@
 # Projects
 ![[1. Projects]]  
-# Areas
+# [[2. Areas|Areas]]
 ![[2. Areas]]  
 
 # Tasks
