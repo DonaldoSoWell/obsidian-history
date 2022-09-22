@@ -1,3 +1,7 @@
+---
+tags:
+- templates/area
+---
 ```button
 name Home
 type link
