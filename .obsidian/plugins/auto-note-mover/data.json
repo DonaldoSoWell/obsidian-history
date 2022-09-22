@@ -28,6 +28,9 @@
   "excluded_folder": [
     {
       "folder": "PARA/4. Archives"
+    },
+    {
+      "folder": "PARA/3. Resources"
     }
   ]
 }
