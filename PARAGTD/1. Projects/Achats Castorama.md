@@ -1,6 +1,6 @@
 ## Tasks
-- [ ] Panneau de zinc 
-- [ ] 5 tuiles h14 [[2022-09-23]]
+- [ ] Panneau de zinc [[2022-09-23]]
+- [ ] 5 tuiles h14
 - [x] Peinture blanche pour briques et lambris perron ✅ 2022-09-16
 - [ ] Peinture grise pour sol carrelage extérieur 
 - [x] Peinture noire pour poutres perron ✅ 2022-09-16
