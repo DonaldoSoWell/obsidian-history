@@ -34,11 +34,11 @@ let groups = myTasks.filter(t=> !t.date).groupBy(t => t.link);
 console.log(groups)
 for (let group of groups) { 
 	dv.header(3, group.key); 
-	dv.table( ["task", "link"],
+	dv.table( ["task"],
 	group.rows
-		.sort(k => k.link, 'desc')
+		.sort(k => k.link, 'asc')
 		.map(k => [
-			k.text, k.link
+			k.text
 		])) 
 }
 /*
