@@ -16,7 +16,7 @@ const findDated = (task)=>{
 
 // find tasks on projects folder
 
-const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment().add(1,'days'),"day")).sort(t=>t.dueDate);
+const overdueTasks = dv.pages('"PARA/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment().add(1,'days'),"day")).sort(t=>t.dueDate);
 
 if (overdueTasks.length) {
 	dv.taskList(overdueTasks);
@@ -46,7 +46,7 @@ const findDated = (task)=>{
 }
 
 // find tasks on projects folder
-const upcomingTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isAfter(moment(),"day")).sort(t=>t.dueDate)
+const upcomingTasks = dv.pages('"PARA/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isAfter(moment(),"day")).sort(t=>t.dueDate)
 
 if (upcomingTasks.length) {
 	dv.taskList(upcomingTasks);
@@ -74,7 +74,7 @@ const findDated = (task)=>{
 }
 
 // find tasks on projects folder
-const stuckTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> !t.dueDate)
+const stuckTasks = dv.pages('"PARA/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> !t.dueDate)
 if (stuckTasks.length) {
 	dv.taskList(stuckTasks);
 } else {

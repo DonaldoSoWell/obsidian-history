@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouseChimney",
       "FasBoxArchive",
       "FasFlag",
       "FasCircleInfo",
-      "FasFileCode",
-      "FasUserGear"
+      "FasFileCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,5 +20,6 @@
       "left": 2
     }
   },
-  "Inbox/Home.md": "FasFlag"
+  "Inbox/Home.md": "FasFlag",
+  "Home.md": "FasHouseChimney"
 }

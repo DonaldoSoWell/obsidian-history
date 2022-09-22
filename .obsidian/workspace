@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Home.md",
-            "mode": "preview",
+            "file": "Home.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Home.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Home.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Home.md"
+                "file": "Home.md"
               }
             }
           }
@@ -130,7 +130,8 @@
   },
   "active": "9fb5642dd93cba55",
   "lastOpenFiles": [
-    "PARA/Home.md",
+    "Inbox/Home.md",
+    "Home.md",
     "PARA/4. Archives/4. Archives.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/2. Areas/2. Areas.md",
@@ -138,7 +139,6 @@
     "Inbox/Lancement application mobile SoClean.md",
     "Inbox/Contrat ABH.md",
     "PARA/2. Areas/work/apps/SoClean mobile.md",
-    "PARA/2. Areas/work/apps/SoWell mobile.md",
-    "Inbox/Hébergements.md"
+    "PARA/2. Areas/work/apps/SoWell mobile.md"
   ]
 }
