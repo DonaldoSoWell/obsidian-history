@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf65566db3362a5c",
+        "id": "4dc12f9075fbc3b6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MOC.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "MOC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "MOC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -99,22 +106,24 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "MOC.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "bf65566db3362a5c",
+  "active": "4dc12f9075fbc3b6",
   "lastOpenFiles": [
+    "PARA/3. Resources/Templates/Area.md",
+    "PARA/3. Resources/Templates/Project.md",
+    "MOC.md",
     "PARA/2. Areas/Travaux.md",
     "PARA/1. Projects/Check-list fin de chantier ravalement.md",
-    "PARA/3. Resources/Templates/Area page.md",
     "PARA/2. Areas/2. Areas.md",
-    "PARA/3. Resources/Templates/Project page.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/3. Resources/3. Resources.md",
-    "MOC.md",
     "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "PARA/1. Projects/Connexion SSO Sequens.md"
   ]
