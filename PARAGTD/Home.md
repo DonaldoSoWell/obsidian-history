@@ -19,7 +19,7 @@ const findDated = (task)=>{
 
 const overdueTasks = dv.pages('"PARAGTD/1. Projects"').file.tasks.where(t => findDated(t)).filter(t=> moment(t.dueDate).isBefore(moment(),"day")).sort(t=>t.dueDate);
 
-dv.taskList(overdueTasks);
+if (todayTasks.length) dv.taskList(overdueTasks);
 ```
   ##### Daily
 ```tasks
