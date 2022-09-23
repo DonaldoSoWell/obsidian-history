@@ -9,7 +9,20 @@ tags:
     </ul>
 </nav>
 
+
+## Notes
+- Départ le 26 Septembre à 12:52 de Gare de Lyon (Paris) - Lyon Part-Dieu
+- Retour le 29 Septembre à 16:04 de Lyon Part-Dieu - Gare de Lyon (Paris)
 ## Tasks 
-- [ ] Récuperer les Polos 📅 2022-09-23 
+- [ ] Récuperer les Polos @due 📅 2022-09-24 
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
 	- [tel](tel:0650473536)
+- [ ] Ne pas oublier
+	- [ ] Badge d'Accès papier
+	- [ ] Mac + chargeur
+	- [ ] iPad + chargeur
+	- [ ] iPhone + chargeur
+	- [ ] Les Polos
+	- [ ] Nécessaire de toilette
+	- [ ] Vetements trajets + soir
+	- [ ] Vetement de nuit

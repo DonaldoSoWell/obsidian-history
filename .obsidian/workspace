@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PARA/1. Projects/Prépration salon USH 2022.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -132,6 +132,7 @@
   "active": "1c586f0616e375a5",
   "lastOpenFiles": [
     "MOC.md",
+    "PARA/1. Projects/Prépration salon USH 2022.md",
     "Inbox/Prépration salon USH 2022.md",
     "PARA/1. Projects/Achats Castorama.md",
     "PARA/1. Projects/Check-list fin de chantier ravalement.md",
@@ -139,7 +140,6 @@
     "PARA/1. Projects/Connexion SSO Sequens.md",
     "PARA/2. Areas/2. Areas.md",
     "PARA/2. Areas/Admin.md",
-    "PARA/2. Areas/ABH.md",
-    "PARA/2. Areas/Batigere.md"
+    "PARA/2. Areas/ABH.md"
   ]
 }
