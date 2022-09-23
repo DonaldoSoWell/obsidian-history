@@ -14,7 +14,8 @@ tags:
 - [ ] Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin et y indiquer notre URL de retour 📅 2022-09-23 [[2022-09-21 Call technique SSO Sequens#Action Items]]
 	- [ ] Préciser qu'on est sur une Single Page APP
 	- [ ] Lui communiquer notre URL de retour
-	- [ ] Lui 
+	- [ ] Lui demander de nous fournir toute info utile :
+		- [ ] URL
 - [ ] Voir s'il existe des librairies SAML microsoft pour VueJS 
 	- [ ] https://devblogs.microsoft.com/azure-sdk/vue-js-user-authentication/
 
