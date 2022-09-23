@@ -110,3 +110,9 @@ project_links.includes(out)
 dv.list(no_proj)
 ```
 
+```button
+name New area
+type note(/new-area, split) template
+action Area
+```
+^button-nau1
