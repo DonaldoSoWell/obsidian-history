@@ -20,99 +20,114 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "250a9b838d4e09eb",
-    "type": "mobile-drawer",
+    "id": "46052212269415d3",
+    "type": "split",
     "children": [
       {
-        "id": "917cfa8caeb92bc5",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f960e254498a58ca",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "588041260283317f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd5cae94c6cc278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "006de361cfdc845d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a51adc3f7d65df48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "d6a4cf942944452d",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "06e965526446468c",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "133b2ea17b3ce08f",
-    "type": "mobile-drawer",
+    "id": "6f680f6b2392072f",
+    "type": "split",
     "children": [
       {
-        "id": "712ca9ae0635fdc9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "PARA/1. Projects/Prépration salon USH 2022.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "550a7001ec7ecf34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5adca37670ba5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PARA/1. Projects/Prépration salon USH 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78bb9e859bd76171",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PARA/1. Projects/Prépration salon USH 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f32551f387ffe1bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6dc3ba836bdd08d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARA/1. Projects/Prépration salon USH 2022.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "7b1c83ec2b6f8434",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "PARA/1. Projects/Prépration salon USH 2022.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "ec72a7ff9d4a5024",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "PARA/1. Projects/Prépration salon USH 2022.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "1c586f0616e375a5",
   "lastOpenFiles": [
