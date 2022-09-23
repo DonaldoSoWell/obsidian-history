@@ -1,0 +1,17 @@
+.custom-breadcrumb {
+  padding: 0 0.5rem;
+}
+
+.custom-breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-breadcrumb li:not(:last-child)::after {
+  display: inline-block;
+  margin: 0 0.25rem;
+  content: "→";
+}
