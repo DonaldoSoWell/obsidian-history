@@ -1,4 +1,4 @@
-.
+
 ```button
 name Daily
 type command
@@ -6,6 +6,9 @@ action Daily notes: Open today's daily note
 color blue
 ```
 ^button-daily
+
+## [[1. Projects|🔗 Projects]]
+![[1. Projects]]  
 ## Tasks
 ### Due
 ```dataviewjs
@@ -36,6 +39,7 @@ path includes Daily
 
 ```
 
+
 ### Upcoming
 ```dataviewjs
 
@@ -64,7 +68,8 @@ not done
 path includes Daily
 ```  
 
-### Stuck
+
+### Pending
 ```dataviewjs
 
 // find dates based on due date
@@ -93,9 +98,6 @@ exclude sub-items
 description regex matches /(?!^$)([^\s])/
 ```  
 
-
-## [[1. Projects|🔗 Projects]]
-![[1. Projects]]  
 ## [[2. Areas|🔗 Areas]]
 ![[2. Areas]]  
 

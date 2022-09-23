@@ -1,4 +1,15 @@
-## Tasks
+---
+tags:
+- templates/project
+---
+<nav aria-label="Breadcrumb" class="custom-breadcrumb">
+    <ul>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/1. Projects/1. Projects"> Projects</a></li>
+    </ul>
+</nav>
+
+## Tasks 
 - [ ] Panneau de zinc
 - [ ] 5 tuiles h14
 - [x] Peinture blanche pour briques et lambris perron ✅ 2022-09-16

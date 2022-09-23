@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC.md",
+            "file": "PARA/2. Areas/2. Areas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "PARA/2. Areas/2. Areas.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1c586f0616e375a5",
   "lastOpenFiles": [
-    "PARA/2. Areas/ABH.md",
-    "PARA/1. Projects/un projet test pour ABH.md",
-    "PARA/2. Areas/2. Areas.md",
-    "PARA/1. Projects/1. Projects.md",
     "MOC.md",
-    "Inbox/Home.md",
-    "PARA/4. Archives/4. Archives.md",
-    "PARA/3. Resources/Templates/Daily.md",
-    "PARA/3. Resources/Templates/Meeting.md",
-    "PARA/3. Resources/Templates/Area.md"
+    "PARA/1. Projects/1. Projects.md",
+    "PARA/1. Projects/Connexion SSO Sequens.md",
+    "PARA/2. Areas/Admin.md",
+    "PARA/1. Projects/Achats Castorama.md",
+    "PARA/2. Areas/ABH.md",
+    "PARA/2. Areas/Batigere.md",
+    "PARA/2. Areas/INLI.md",
+    "PARA/2. Areas/Sequens.md",
+    "PARA/2. Areas/Travaux.md"
   ]
 }
