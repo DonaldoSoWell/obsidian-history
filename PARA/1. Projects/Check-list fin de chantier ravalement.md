@@ -17,7 +17,7 @@ tags:
 - [x] Faire retouche peinture sous toiture ✅ 2022-09-16
 - [x] Fixer Alarme ✅ 2022-09-16
 - [x] Peindre brique de fenêtre etage ✅ 2022-09-21
-- [ ] Enlever plastique protection fenêtres étage
+- [x] Enlever plastique protection fenêtres étage
 - [ ] Finaliser contour fenêtre terrasse
 - [x] Faire enduit sous escalier ✅ 2022-09-21
 - [x] Lisser le crépi sur côté toit perron ✅ 2022-09-21
