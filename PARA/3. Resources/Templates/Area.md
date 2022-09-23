@@ -2,15 +2,11 @@
 tags:
 - templates/area
 ---
-[[MOC]] > [[2. Areas]]
 
 <nav aria-label="Breadcrumb" class="breadcrumb">
     <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Category</a></li>
-        <li><a href="#">Sub Category</a></li>
-        <li><a href="#">Type</a></li>
-        <li><span aria-current="page">Product</span></li>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC">MOC</a></li>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=/PARA/2. Areas/2. Areas">Areas</a></li>
     </ul>
 </nav>
 
