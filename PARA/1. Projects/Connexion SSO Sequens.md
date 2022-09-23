@@ -21,4 +21,5 @@ tags:
 - [ ] Voir s'il existe des librairies SAML microsoft pour VueJS 
 	- [ ] https://devblogs.microsoft.com/azure-sdk/vue-js-user-authentication/
 	- [ ] https://stackoverflow.com/questions/44437634/how-do-you-authenticate-a-vuejs-app-with-azure-ad
+	- [ ] https://medium.com/adidoescode/azure-ad-for-user-authentication-with-vue-and-nestjs-4dab3e96d240
 
