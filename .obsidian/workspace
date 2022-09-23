@@ -7,8 +7,13 @@
         "id": "1c586f0616e375a5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MOC.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MOC.md"
+              }
             }
           }
         ]
@@ -120,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dd5cae94c6cc278",
+  "active": "1c586f0616e375a5",
   "lastOpenFiles": [
     "PARA/1. Projects/1. Projects.md",
     "PARA/2. Areas/2. Areas.md",
     "MOC.md",
+    "PARA/1. Projects/Connexion SSO Sequens.md",
+    "PARA/1. Projects/Préparation salon USH 2022.md",
     "PARA/1. Projects/Prépration salon USH 2022.md",
     "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "PARA/1. Projects/Préparation salon USH 2022.md",
     "PARA/3. Resources/3. Resources.md",
     "Inbox/Reporter V2.md",
-    "Inbox/Obsidian plugins to test.md",
-    "Inbox/Hébergements.md"
+    "Inbox/Obsidian plugins to test.md"
   ]
 }
