@@ -11,8 +11,6 @@ color blue
 ![[1. Projects]]  
 ## Tasks
 ### Due
-
-##### Daily
 ```tasks
 
 due before date(tomorrow)
@@ -42,8 +40,6 @@ if (overdueTasks.length) {
 
 
 ### Upcoming
-
-  ##### Daily
 ```tasks
 due after date(today)
 not done
@@ -73,8 +69,6 @@ if (upcomingTasks.length) {
 
 
 ### Pending
-
- ##### Daily
 ```tasks
 no due date
 not done 
