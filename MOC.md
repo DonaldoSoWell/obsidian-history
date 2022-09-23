@@ -16,6 +16,7 @@ color blue
 due before date(tomorrow)
 not done
 path includes Daily
+hide task count
 
 ```
 ```dataviewjs
@@ -44,6 +45,7 @@ if (overdueTasks.length) {
 due after date(today)
 not done
 path includes Daily
+hide task count
 ```  
 ```dataviewjs
 
@@ -75,6 +77,7 @@ not done
 path includes Daily
 exclude sub-items
 description regex matches /(?!^$)([^\s])/
+hide task count
 ```  
 ```dataviewjs
 
