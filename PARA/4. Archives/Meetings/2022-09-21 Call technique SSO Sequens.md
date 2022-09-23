@@ -40,4 +40,4 @@ Echanger avec Nathan sur comment mettre en place le SSO sur une interface web
 	- On lui donne un JWT
 
 ## Action Items
-- Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin et y indiquer notre URL de retour
+- ~~Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin et y indiquer notre URL de retour~~

@@ -17,7 +17,7 @@ tags:
 - [ ] Récuperer les Polos @due 📅 2022-09-24 
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
 	- [tel](tel:0650473536)
-- [ ] Ne pas oublier
+- [ ] Ne pas oublier @due 📅 2022-09-26
 	- [ ] Badge d'Accès papier
 	- [ ] Mac + chargeur
 	- [ ] iPad + chargeur
