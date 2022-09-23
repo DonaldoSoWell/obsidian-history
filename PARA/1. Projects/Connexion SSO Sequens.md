@@ -15,8 +15,9 @@ tags:
 	- [ ] Préciser qu'on est sur une Single Page APP
 	- [ ] Lui communiquer notre URL de retour
 	- [ ] Lui demander de nous fournir toute info utile :
-		- [ ] tenant
+		- [ ] tenant ID
 		- [ ] client ID
+		- [ ] URL complete du serveur si pas la version cloud
 - [ ] Voir s'il existe des librairies SAML microsoft pour VueJS 
 	- [ ] https://devblogs.microsoft.com/azure-sdk/vue-js-user-authentication/
 	- [ ] https://stackoverflow.com/questions/44437634/how-do-you-authenticate-a-vuejs-app-with-azure-ad
