@@ -24,4 +24,5 @@ tags:
 	- [ ] https://medium.com/adidoescode/azure-ad-for-user-authentication-with-vue-and-nestjs-4dab3e96d240
 	- [ ] https://bestofvue.com/repo/mvertopoulos-vue-msal-vuejs-authentication-authorization
 	- [ ] https://github.com/survirtual/vue-adal
+	- [ ] https://www.web-dev-qa-db-fra.com/fr/node.js/comment-authentifier-une-application-vuejs-avec-azure-ad/832164266/
 
