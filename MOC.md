@@ -109,10 +109,3 @@ project_links.includes(out)
 ).map(x => x.file.link)  
 dv.list(no_proj)
 ```
-
-```button
-name New area
-type note(/new-area, split) template
-action Area
-```
-^button-nau1
