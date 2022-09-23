@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARA/1. Projects/1. Projects.md",
-            "mode": "preview",
+            "file": "MOC.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/1. Projects/1. Projects.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/1. Projects/1. Projects.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/1. Projects/1. Projects.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -144,8 +144,8 @@
   "active": "797d42728bddc0c4",
   "lastOpenFiles": [
     "PARA/2. Areas/2. Areas.md",
-    "PARA/1. Projects/1. Projects.md",
     "MOC.md",
+    "PARA/2. Areas/1. Projects.md",
     "PARA/2. Areas/Travaux.md",
     "PARA/2. Areas/ABH.md",
     "PARA/2. Areas/Sequens.md",
