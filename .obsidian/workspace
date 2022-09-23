@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6fdd4a53010b8c12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Lancement application mobile SoClean.md",
+            "file": "Inbox/Home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "Inbox/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "Inbox/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "Inbox/Home.md"
               }
             }
           }
@@ -143,15 +130,15 @@
   },
   "active": "797d42728bddc0c4",
   "lastOpenFiles": [
-    "PARA/2. Areas/2. Areas.md",
+    "PARA/4. Archives/4. Archives.md",
     "MOC.md",
+    "PARA/3. Resources/Templates/Daily.md",
+    "PARA/3. Resources/Templates/Meeting.md",
+    "PARA/3. Resources/Templates/Area.md",
+    "PARA/3. Resources/Templates/Project.md",
+    "Inbox/Lancement application mobile SoClean.md",
+    "PARA/2. Areas/2. Areas.md",
     "PARA/2. Areas/1. Projects.md",
-    "PARA/2. Areas/Travaux.md",
-    "PARA/2. Areas/ABH.md",
-    "PARA/2. Areas/Sequens.md",
-    "PARA/2. Areas/Batigere.md",
-    "PARA/2. Areas/INLI.md",
-    "PARA/2. Areas/Admin.md",
-    "PARA/2. Areas/newOne.md"
+    "PARA/2. Areas/Travaux.md"
   ]
 }

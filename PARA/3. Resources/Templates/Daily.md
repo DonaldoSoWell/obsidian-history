@@ -1,10 +1,13 @@
+---
+tags:
+- templates/daily
+---
 
-```button
-name Home
-type link
-action obsidian://advanced-uri?vault=Donaldo&filename=Home
-color blue
-```
-^button-home
+<nav aria-label="Breadcrumb" class="custom-breadcrumb">
+    <ul>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
+    </ul>
+</nav>
+
 ## 📆  TODO
 - [ ] 

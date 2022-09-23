@@ -1,17 +1,17 @@
-<%-* 
-let title = await tp.system.prompt("Title");
--%>
-# <%* tR += title %>
+---
+tags:
+- templates/meeting
+---
 
-```button
-name Home
-type link
-action obsidian://advanced-uri?vault=Donaldo&filename=Home
-color blue
-```
-^button-home
+<nav aria-label="Breadcrumb" class="custom-breadcrumb">
+    <ul>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
+    </ul>
+</nav>
 
 - **Date:**  <% tp.date.now() %>
+- Project:
+- Area:
 - **Attendees:** 
 	- 
 
@@ -26,9 +26,3 @@ color blue
 
 ## Action Items
 - 
-
----
-**Tags :**
-- <% (await tp.system.prompt('Tags:','#clients/',false)) %>
-
-<% tp.file.move('Files/Meetings/' + tp.date.now() + ' | ' + title) %>
