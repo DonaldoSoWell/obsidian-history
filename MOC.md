@@ -11,6 +11,15 @@ color blue
 ![[1. Projects]]  
 ## Tasks
 ### Due
+
+##### Daily
+```tasks
+
+due before date(tomorrow)
+not done
+path includes Daily
+
+```
 ```dataviewjs
 const findDated = (task)=>{
 	if( !task.completed) {
@@ -30,17 +39,16 @@ if (overdueTasks.length) {
 	dv.el('br', '')
 }
 ```
-  ##### Daily
-```tasks
-
-due before date(tomorrow)
-not done
-path includes Daily
-
-```
 
 
 ### Upcoming
+
+  ##### Daily
+```tasks
+due after date(today)
+not done
+path includes Daily
+```  
 ```dataviewjs
 
 // find dates based on due date
@@ -61,15 +69,19 @@ if (upcomingTasks.length) {
 	dv.el('br', '')
 }
 ```
-  ##### Daily
-```tasks
-due after date(today)
-not done
-path includes Daily
-```  
+
 
 
 ### Pending
+
+ ##### Daily
+```tasks
+no due date
+not done 
+path includes Daily
+exclude sub-items
+description regex matches /(?!^$)([^\s])/
+```  
 ```dataviewjs
 
 // find dates based on due date
@@ -89,14 +101,7 @@ if (stuckTasks.length) {
 	dv.el('br', '')
 }
 ```
-  ##### Daily
-```tasks
-no due date
-not done 
-path includes Daily
-exclude sub-items
-description regex matches /(?!^$)([^\s])/
-```  
+ 
 
 ## [[2. Areas|🔗 Areas]]
 ![[2. Areas]]  

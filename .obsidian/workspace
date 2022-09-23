@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PARA/2. Areas/2. Areas.md",
-            "mode": "source",
+            "file": "MOC.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2. Areas/2. Areas.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1c586f0616e375a5",
   "lastOpenFiles": [
+    "PARA/1. Projects/Achats Castorama.md",
     "MOC.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
+    "PARA/2. Areas/2. Areas.md",
     "PARA/2. Areas/Admin.md",
-    "PARA/1. Projects/Achats Castorama.md",
     "PARA/2. Areas/ABH.md",
     "PARA/2. Areas/Batigere.md",
     "PARA/2. Areas/INLI.md",
-    "PARA/2. Areas/Sequens.md",
-    "PARA/2. Areas/Travaux.md"
+    "PARA/2. Areas/Sequens.md"
   ]
 }
