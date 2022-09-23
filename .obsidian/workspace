@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Home.md",
+            "file": "PARA/2. Areas/2. Areas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Home.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Home.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Home.md"
+                "file": "PARA/2. Areas/2. Areas.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "797d42728bddc0c4",
   "lastOpenFiles": [
-    "PARA/4. Archives/4. Archives.md",
     "MOC.md",
+    "PARA/2. Areas/2. Areas.md",
+    "Inbox/Home.md",
+    "PARA/4. Archives/4. Archives.md",
     "PARA/3. Resources/Templates/Daily.md",
     "PARA/3. Resources/Templates/Meeting.md",
     "PARA/3. Resources/Templates/Area.md",
     "PARA/3. Resources/Templates/Project.md",
     "Inbox/Lancement application mobile SoClean.md",
-    "PARA/2. Areas/2. Areas.md",
-    "PARA/2. Areas/1. Projects.md",
-    "PARA/2. Areas/Travaux.md"
+    "PARA/2. Areas/1. Projects.md"
   ]
 }
