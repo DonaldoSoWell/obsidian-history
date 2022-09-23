@@ -7,8 +7,7 @@ color blue
 ```
 ^button-daily
 
-## [[1. Projects|🔗 Projects]]
-![[1. Projects]]  
+
 ## Tasks
 ### Due
 ```tasks
@@ -38,10 +37,6 @@ if (overdueTasks.length) {
 	dv.el('br', '')
 }
 ```
-
-
-
-
 ### Upcoming
 ```tasks
 due after date(today)
@@ -69,9 +64,6 @@ if (upcomingTasks.length) {
 	dv.el('br', '')
 }
 ```
-
-
-
 ### Pending
 ```tasks
 no due date
@@ -100,8 +92,9 @@ if (stuckTasks.length) {
 	dv.el('br', '')
 }
 ```
- 
 
+## [[1. Projects|🔗 Projects]]
+![[1. Projects]]  
 ## [[2. Areas|🔗 Areas]]
 ![[2. Areas]]  
 
