@@ -13,6 +13,7 @@ tags:
 ## Notes
 - Départ le 26 Septembre à 12:52 de Gare de Lyon (Paris) - Lyon Part-Dieu
 - Retour le 29 Septembre à 16:04 de Lyon Part-Dieu - Gare de Lyon (Paris)
+- [Documents utiles](https://sowellapp.sharepoint.com/:f:/s/SoWellteam/EpklgD6f1XxGoOC1PPMCHLIBBT8eDBbFk8yNNLZl2apkVA?e=F6XRs6)
 ## Tasks 
 - [ ] Récuperer les Polos @due 📅 2022-09-24 
 	- Facturation 
