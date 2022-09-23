@@ -12,4 +12,5 @@ tags:
 ## Tasks 
 - [ ] Récuperer les Polos 📅 2022-09-23 
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
-	- tel 
+	- [tel](tel:0650473536)
+- [ ] 
