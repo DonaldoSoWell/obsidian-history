@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC.md",
+            "file": "PARA/3. Resources/Templates/Project.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6fdd4a53010b8c12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Lancement application mobile SoClean.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,111 +33,125 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c07f014dd71b7998",
-    "type": "mobile-drawer",
+    "id": "23d463d5ccda89cc",
+    "type": "split",
     "children": [
       {
-        "id": "36ee8063d02ba11a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "36895c9f7bf00728",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d9668f599289017b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb5642dd93cba55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b903db93bcf85803",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "48c427e3075a025c",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "43817f030392bbd9",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 248
   },
   "right": {
-    "id": "eed57a9a1671f97c",
-    "type": "mobile-drawer",
+    "id": "ec3dc306899e60a9",
+    "type": "split",
     "children": [
       {
-        "id": "27cf19876ebbcad3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "MOC.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "106406f122bb9ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d7e4bc9067e324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38604d699ebe377f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3f31fcd33691263",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PARA/3. Resources/Templates/Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d120b32163660c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PARA/3. Resources/Templates/Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "104b22f4286b86e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARA/3. Resources/Templates/Project.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6e5fd955bf4b8cf9",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "MOC.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "87289bc2d1d725b2",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "MOC.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 194.5
   },
   "active": "797d42728bddc0c4",
   "lastOpenFiles": [
     "PARA/3. Resources/Templates/Area.md",
-    "PARA/3. Resources/3. Resources.md",
-    "PARA/2. Areas/2. Areas.md",
     "MOC.md",
+    "PARA/2. Areas/2. Areas.md",
     "Inbox/Lancement application mobile SoClean.md",
     "Inbox/Reporter V2.md",
     "PARA/3. Resources/Templates/Project.md",
     "PARA/3. Resources/Templates/Meeting.md",
     "PARA/3. Resources/Templates/Daily.md",
-    "PARA/4. Archives/4. Archives.md"
+    "PARA/4. Archives/4. Archives.md",
+    "Inbox/Home.md"
   ]
 }
