@@ -10,4 +10,6 @@ tags:
 </nav>
 
 ## Tasks 
-- [ ]
+```dataview
+task from [[Lancement application mobile SoClean]]
+```
