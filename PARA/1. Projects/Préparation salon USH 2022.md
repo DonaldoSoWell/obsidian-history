@@ -15,6 +15,10 @@ tags:
 - Retour le 29 Septembre à 16:04 de Lyon Part-Dieu - Gare de Lyon (Paris)
 ## Tasks 
 - [ ] Récuperer les Polos @due 📅 2022-09-24 
+	- Facturation 
+		- Montant commande 210 euros
+		- Montant payé à la commande 109,20 euros
+		- Reste a payer 100,80 euros
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
 	- [tel](tel:0650473536)
 - [ ] Ne pas oublier @due 📅 2022-09-26
