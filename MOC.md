@@ -1,3 +1,4 @@
+.
 ```button
 name Daily
 type command

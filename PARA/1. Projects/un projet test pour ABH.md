@@ -1,13 +1,13 @@
 ---
 tags:
-- templates/area
+- templates/project
 ---
+
 <nav aria-label="Breadcrumb" class="custom-breadcrumb">
     <ul>
         <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/2. Areas/2. Areas"> Areas</a></li>
+        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/1. Projects/1. Projects"> Projects</a></li>
     </ul>
 </nav>
-
-## Projects 
-- [[un projet test pour ABH]]
+## Tasks 
+- [ ]
