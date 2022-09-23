@@ -19,4 +19,5 @@ tags:
 		- [ ] client ID
 - [ ] Voir s'il existe des librairies SAML microsoft pour VueJS 
 	- [ ] https://devblogs.microsoft.com/azure-sdk/vue-js-user-authentication/
+	- [ ] https://stackoverflow.com/questions/44437634/how-do-you-authenticate-a-vuejs-app-with-azure-ad
 
