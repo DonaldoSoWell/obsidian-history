@@ -25,4 +25,5 @@ tags:
 	- [ ] https://bestofvue.com/repo/mvertopoulos-vue-msal-vuejs-authentication-authorization
 	- [ ] https://github.com/survirtual/vue-adal
 	- [ ] https://www.web-dev-qa-db-fra.com/fr/node.js/comment-authentifier-une-application-vuejs-avec-azure-ad/832164266/
+	- [ ] https://thewebdev.info/2022/03/12/how-to-authenticate-a-vue-js-app-with-azure-ad/
 
