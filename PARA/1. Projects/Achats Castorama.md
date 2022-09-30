@@ -10,7 +10,7 @@ tags:
 </nav>
 
 ## Tasks 
-- [ ] Panneau de zinc
+- [ ] Panneau de zinc @due 📅 2022-10-02 
 - [ ] 5 tuiles h14
 - [x] Peinture blanche pour briques et lambris perron ✅ 2022-09-16
 - [ ] Peinture grise pour sol carrelage extérieur
