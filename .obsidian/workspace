@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/NDF.md",
-            "mode": "source",
+            "file": "PARA/2. Areas/2. Areas.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/NDF.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/NDF.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/NDF.md"
+                "file": "PARA/2. Areas/2. Areas.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "e8de2b4cbb02f2b0",
   "lastOpenFiles": [
+    "MOC.md",
+    "PARA/2. Areas/2. Areas.md",
+    "PARA/3. Resources/Notes de frais.md",
+    "PARA/2. Areas/Admin.md",
+    "PARA/4. Archives/4. Archives.md",
     "PARA/3. Resources/3. Resources.md",
     "PARA/4. Archives/Daily/2022-09-26.md",
-    "MOC.md",
     "PARA/1. Projects/Préparation salon USH 2022.md",
-    "PARA/2. Areas/2. Areas.md",
     "PARA/1. Projects/1. Projects.md",
-    "PARA/1. Projects/Connexion SSO Sequens.md",
-    "PARA/1. Projects/Prépration salon USH 2022.md",
-    "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "Inbox/Reporter V2.md"
+    "PARA/1. Projects/Connexion SSO Sequens.md"
   ]
 }
