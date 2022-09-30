@@ -3,3 +3,4 @@
 		- Donaldo => 3069
 		- Romain => 3059 + 657
 	- mi-Juillet à Septembre
+		- Soirée équipe le 24 Aout  Maison => B&B Hotel Paris Saint-Denis Pleyel => L'isle Adam => B&B Hotel => Maison
