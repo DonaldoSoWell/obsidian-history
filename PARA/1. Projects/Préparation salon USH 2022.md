@@ -22,12 +22,12 @@ tags:
 		- Reste a payer 100,80 euros
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
 	- [tel](tel:0650473536)
-- [ ] Ne pas oublier @due 📅 2022-09-26
-	- [ ] Badge d'Accès papier
-	- [ ] Mac + chargeur
-	- [ ] iPad + chargeur
-	- [ ] iPhone + chargeur
-	- [ ] Les Polos
-	- [ ] Nécessaire de toilette
-	- [ ] Vetements trajets + soir
-	- [ ] Vetement de nuit
+- [x] Ne pas oublier @due 📅 2022-09-26 ✅ 2022-09-26
+	- [x] Badge d'Accès papier
+	- [x] Mac + chargeur
+	- [x] iPad + chargeur
+	- [x] iPhone + chargeur
+	- [x] Les Polos
+	- [x] Nécessaire de toilette
+	- [x] Vetements trajets + soir
+	- [x] Vetement de nuit
