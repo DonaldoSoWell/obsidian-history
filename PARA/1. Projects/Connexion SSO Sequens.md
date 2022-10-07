@@ -27,4 +27,5 @@ tags:
 	- [x] https://github.com/survirtual/vue-adal
 	- [x] https://www.web-dev-qa-db-fra.com/fr/node.js/comment-authentifier-une-application-vuejs-avec-azure-ad/832164266/
 	- [x] https://thewebdev.info/2022/03/12/how-to-authenticate-a-vue-js-app-with-azure-ad/
+- [ ] Planifier la réalisation du SSO dans Obsidian conformément au dates annoncées [ici](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) @due 📅 2022-10-08 
 

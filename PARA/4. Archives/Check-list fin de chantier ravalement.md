@@ -18,8 +18,8 @@ tags:
 - [x] Fixer Alarme ✅ 2022-09-16
 - [x] Peindre brique de fenêtre etage ✅ 2022-09-21
 - [x] Enlever plastique protection fenêtres étage
-- [ ] Finaliser contour fenêtre terrasse
+- [x] Finaliser contour fenêtre terrasse
 - [x] Faire enduit sous escalier ✅ 2022-09-21
 - [x] Lisser le crépi sur côté toit perron ✅ 2022-09-21
-- [ ] Remoter le fil d'arrivée électrique dans le toit
-- [ ] Poser les carreaux de verre
+- [x] Remoter le fil d'arrivée électrique dans le toit
+- [x] Poser les carreaux de verre
