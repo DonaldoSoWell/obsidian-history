@@ -16,7 +16,7 @@ tags:
 	- [ ] Préciser qu'on est sur une Single Page APP
 	- [ ] Lui communiquer notre URL de retour
 	- [ ] Lui demander de nous fournir toute info utile :
-		- [ ] tenant ID
+		- [x] tenant ID [completion:: 2022-10-07]
 		- [ ] client ID
 		- [ ] URL complete du serveur si pas la version cloud
 - [ ] Voir s'il existe des librairies SAML microsoft pour VueJS 
