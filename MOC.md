@@ -101,8 +101,6 @@ if (stuckTasks.length) {
 ## [[3. Resources|🔗 Resources]] 
 ![[3. Resources]]  
 ## [[4. Archives|🔗 Archives]]
-![[4. Archives]]
-
 
 ## Areas with no projects
 ```dataviewjs
