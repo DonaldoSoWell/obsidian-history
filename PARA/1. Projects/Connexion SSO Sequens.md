@@ -29,23 +29,23 @@ tags:
 	- [x] https://thewebdev.info/2022/03/12/how-to-authenticate-a-vue-js-app-with-azure-ad/
 - [x] Planifier la réalisation du SSO dans Obsidian conformément au dates annoncées [ici](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) @due 📅 2022-10-08 ✅ 2022-10-11
 - [ ] Planification annocée  [cf mail](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>)
-	- I) Pour l’application Web [manager.sowellapp.com](http://manager.sowellapp.com/) :
-		- 1) Etude de faisabilité :
+	- Pour l’application Web [manager.sowellapp.com](http://manager.sowellapp.com/) :
+		- Etude de faisabilité :
 			- [x] Création de "l'intégration SoWell" dans la marketplace Microsoft
 			- [x] Ajout de "l’intégration SoWell" dans une organisation Microsoft Azur existante pour validation
 			- [x] Réalisation d’une application Web en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur  
-		- 2) Implémentation du workflow de connexion via SSO :
+		- Implémentation du workflow de connexion via SSO :
 			- [ ] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies JS correspondantes dans l’application. => Todo SoWell semaine 41 
 			- [ ] Gestion du workflow de connexion SSO dans notre API => Todo SoWell semaine 41 
-		- 3) Ajout de "l’intégration SoWell" dans l'organisation Microsoft Azur Seqens 
+		- Ajout de "l’intégration SoWell" dans l'organisation Microsoft Azur Seqens 
 			- [ ] Todo Seqens semaine 42 (je vous donnerai la démarche à suivre le moment venu)
-		- 4) Test de connexion via SSO 
+		- Test de connexion via SSO 
 			- [ ] Todo SoWell/Seqens semaine 42
-	- II) Pour l'application Mobile SoWell :
-		- 1) Etude de faisabilité :
+	- Pour l'application Mobile SoWell :
+		- Etude de faisabilité :
 			- [ ] Réalisation d’une application mobile en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur => Todo SoWell semaine 43
-		- 2) Implémentation du workflow de connexion via SSO :
+		- Implémentation du workflow de connexion via SSO :
 			- [ ] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies natives correspondantes dans l’application. => Todo SoWell semaine 44
 			- [ ] Gestion du workflow de connexion SSO dans notre API => Todo SoWell semaine 44
-		- 3) Test de connexion via SSO
+		- Test de connexion via SSO
 			- [ ] Todo SoWell/Seqens semaine 45
