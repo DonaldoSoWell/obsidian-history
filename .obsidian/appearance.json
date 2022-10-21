@@ -2,8 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "translucency": true,
-  "enabledCssSnippets": [
-    "custom-breadcrumbs"
-  ],
+  "enabledCssSnippets": [],
   "accentColor": ""
 }
