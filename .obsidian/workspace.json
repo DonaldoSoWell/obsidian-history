@@ -24,9 +24,12 @@
             "id": "0ea96916f759daf3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "PARA/1. Projects/Connexion SSO Sequens.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
