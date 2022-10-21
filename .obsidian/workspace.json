@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "PARA/2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "PARA/2. Areas/2. Areas.md"
               }
             }
           }
@@ -143,12 +143,12 @@
   },
   "active": "9d2ceac321f348a1",
   "lastOpenFiles": [
+    "PARA/1. Projects/1. Projects.md",
+    "MOC.md",
     "PARA/2. Areas/Admin.md",
     "PARA/2. Areas/2. Areas.md",
     "PARA/1. Projects/Connexion SSO Sequens.md",
-    "PARA/1. Projects/1. Projects.md",
     "PARA/1. Projects/Nettoyage Github.md",
-    "MOC.md",
     "Inbox/Untitled 1.md",
     "Buttons 1.0 is Coming.md",
     "Inbox/Untitled.md",
