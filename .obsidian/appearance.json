@@ -4,5 +4,6 @@
   "translucency": true,
   "enabledCssSnippets": [
     "custom-breadcrumbs"
-  ]
+  ],
+  "accentColor": ""
 }

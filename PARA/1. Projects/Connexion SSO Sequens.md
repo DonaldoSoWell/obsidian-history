@@ -35,8 +35,9 @@ tags:
 			- [x] Ajout de "l’intégration SoWell" dans une organisation Microsoft Azur existante pour validation
 			- [x] Réalisation d’une application Web en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur  
 		2. Implémentation du workflow de connexion via SSO :
-			- [ ] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies JS correspondantes dans l’application. @due 📅 2022-10-16 
-			- [ ] Gestion du workflow de connexion SSO dans notre API @due 📅 2022-10-16 
+			- [x] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies JS correspondantes dans l’application. @due 📅 2022-10-16 [completion:: 2022-10-15]
+			- [x] Gestion du workflow de connexion SSO dans notre API @due 📅 2022-10-16 [completion:: 2022-10-15]
+			- [ ] Livrer en productIon et prévenir le client @due 📅 2022-10-16 
 		3. Ajout de "l’intégration SoWell" dans l'organisation Microsoft Azur Seqens 
 			- [ ] Todo Seqens semaine 42 (je vous donnerai la démarche à suivre le moment venu)
 		4. Test de connexion via SSO 
