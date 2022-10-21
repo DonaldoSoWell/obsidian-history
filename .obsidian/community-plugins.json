@@ -3,19 +3,14 @@
   "folder-note-plugin",
   "waypoint",
   "obsidian-icon-folder",
-  "obsidian-minimal-settings",
-  "obsidian-hider",
-  "obsidian-style-settings",
   "dataview",
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-banners",
   "buttons",
   "obsidian-advanced-uri",
-  "obsidian-view-mode-by-frontmatter",
   "tag-wrangler",
   "obsidian-task-progress-bar",
-  "obsidian-embedded-note-titles",
   "obsidian-tasks-plugin",
-  "auto-note-mover"
+  "auto-note-mover",
+  "obsidian-style-settings"
 ]

@@ -42,6 +42,9 @@ tags:
 			- [x] Todo Seqens semaine 42 (je vous donnerai la démarche à suivre le moment venu)
 		4. Test de connexion via SSO 
 			- [x] Todo SoWell/Seqens semaine 42
+		5. Rendre le bouton visible par tous
+			- [ ] Communiquer auprès des clients pour les informer de cette modif
+			- [ ] Activer le bouton pour tous
 	- [ ] Pour l'application Mobile SoWell :
 		1. Etude de faisabilité :
 			- [ ] Réalisation d’une application mobile en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur => Todo SoWell semaine 43
