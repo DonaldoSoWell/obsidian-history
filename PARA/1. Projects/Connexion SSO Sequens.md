@@ -42,14 +42,21 @@ tags:
 			- [x] Todo Seqens semaine 42 (je vous donnerai la démarche à suivre le moment venu)
 		4. Test de connexion via SSO 
 			- [x] Todo SoWell/Seqens semaine 42
-		5. Rendre le bouton visible par tous
+		5. Livraison
 			- [ ] Communiquer auprès des clients pour les informer de cette modif
 			- [ ] Activer le bouton pour tous
 	- [ ] Pour l'application Mobile SoWell :
 		1. Etude de faisabilité :
-			- [ ] Réalisation d’une application mobile en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur => Todo SoWell semaine 43
+			- [x] Réalisation d’une application mobile en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur => Todo SoWell semaine 43
 		2. Implémentation du workflow de connexion via SSO :
-			- [ ] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies natives correspondantes dans l’application. => Todo SoWell semaine 44
-			- [ ] Gestion du workflow de connexion SSO dans notre API => Todo SoWell semaine 44
-		3. Test de connexion via SSO
-			- [ ] Todo SoWell/Seqens semaine 45
+			- [x] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies natives correspondantes dans l’application. => Todo SoWell semaine 44
+			- [x] Gestion du workflow de connexion SSO dans notre API => Todo SoWell semaine 44
+		3. Livraison préprod
+			- [ ] Masquer le bouton via SSO=true sur l'UI reporter web
+			- [ ] Livrer sur Testflight et Android Beta
+		4. Test de connexion via SSO
+			- [ ] Todo SoWell/Seqens semaine 45 @due 📅 2022-11-07 
+		5. Livraison prod
+			- [ ] Communiquer auprès des clients pour les informer de cette modif
+			- [ ] Activer le bouton pour tous sur Testflight
+			- [ ] Livrer sur les stores 
