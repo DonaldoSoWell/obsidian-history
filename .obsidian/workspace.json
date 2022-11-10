@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0087772ec9f01664",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -138,10 +149,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9d2ceac321f348a1",
+  "active": "0087772ec9f01664",
   "lastOpenFiles": [
     "MOC.md",
     "PARA/2. Areas/2. Areas.md",
