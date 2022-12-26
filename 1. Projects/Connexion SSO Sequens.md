@@ -2,13 +2,7 @@
 tags:
 - templates/project
 ---
-<nav aria-label="Breadcrumb" class="custom-breadcrumb">
-    <ul>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/1. Projects/1. Projects"> Projects</a></li>
-    </ul>
-</nav>
-
+[[Sequens]]
 ## Tasks 
 - [x] Reprendre note de réunion et les mettre au propre 
 - [x] Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin @due 📅 2022-09-23 [completion:: 2022-10-07]
