@@ -1,0 +1,2 @@
+# 2. Areas
+%% Waypoint %%

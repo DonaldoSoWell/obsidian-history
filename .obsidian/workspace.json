@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e32c8f8d8dd495a6",
+        "id": "ec9aefa8ae0baf32",
         "type": "tabs",
         "children": [
           {
-            "id": "b2be14d88661971d",
+            "id": "2383778819c394f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/2. Areas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Areas/2. Areas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +141,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b2be14d88661971d",
+  "active": "2383778819c394f1",
   "lastOpenFiles": [
-    "2. Areas/coucou.md",
-    "2. Areas/2. Areas.md",
-    "2. Areas/test.md",
+    "1. Projects/_about_.md",
+    "2. Areas/_about_.md",
     "MOC.md",
-    "4. Archives/4. Archives.md",
-    "3. Resources/3. Resources.md",
+    "2. Areas/2. Areas.md",
+    "2. Areas/Customers/Customers.md",
     "1. Projects/1. Projects.md",
-    "Inbox/Travaux.md",
-    "2. Areas/SoClean mobile.md",
-    "1. Projects/Connexion SSO Sequens.md"
+    "2. Areas/coucou.md",
+    "2. Areas/test.md",
+    "4. Archives/4. Archives.md",
+    "3. Resources/3. Resources.md"
   ]
 }

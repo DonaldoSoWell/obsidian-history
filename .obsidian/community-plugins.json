@@ -1,6 +1,5 @@
 [
   "note-refactor-obsidian",
-  "folder-note-plugin",
   "waypoint",
   "obsidian-icon-folder",
   "dataview",
@@ -13,5 +12,7 @@
   "obsidian-tasks-plugin",
   "auto-note-mover",
   "obsidian-style-settings",
-  "homepage"
+  "homepage",
+  "alx-folder-note",
+  "folder-note-core"
 ]
