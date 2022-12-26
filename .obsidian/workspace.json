@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/2. Areas.md",
-                "mode": "preview",
+                "file": "MOC.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/2. Areas.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "b2be14d88661971d",
   "lastOpenFiles": [
-    "Inbox/Travaux.md",
     "2. Areas/2. Areas.md",
+    "3. Resources/3. Resources.md",
     "MOC.md",
-    "2. Areas/SoClean mobile.md",
+    "4. Archives/4. Archives.md",
     "1. Projects/1. Projects.md",
+    "Inbox/Travaux.md",
+    "2. Areas/SoClean mobile.md",
     "1. Projects/Connexion SSO Sequens.md",
     "2. Areas/Customers/Sequens.md",
-    "1. Projects/Lancement application mobile SoClean.md",
-    "3. Resources/3. Resources.md",
-    "Inbox/Obsidian plugins to test.md"
+    "1. Projects/Lancement application mobile SoClean.md"
   ]
 }
