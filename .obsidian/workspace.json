@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Hébergements.md",
+                "file": "3. Resources/3. Resources.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Hébergements.md",
+                "file": "3. Resources/3. Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Hébergements.md",
+                "file": "3. Resources/3. Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Hébergements.md"
+                "file": "3. Resources/3. Resources.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "3d0c6b97c5ad1b4b",
   "lastOpenFiles": [
-    "Inbox/Amethyst.md",
-    "Inbox/Hébergements.md",
-    "Inbox/Obsidian plugins to test.md",
-    "Inbox/Reporter V2.md",
-    "Inbox/un projet test pour ABH.md",
-    "Inbox/Une demande INLI.md",
-    "Inbox/Untitled.md",
-    "Inbox/Untitled 1.md",
-    "2. Areas/2. Areas.md",
-    "1. Projects/1. Projects.md"
+    "1. Projects/Achats Castorama.md",
+    "1. Projects/Connexion SSO Sequens.md",
+    "1. Projects/Lancement application mobile SoClean.md",
+    "1. Projects/Nettoyage Github.md",
+    "1. Projects/Rediriger les mails de Laura et Mathieu.md",
+    "1. Projects/un projet test.md",
+    "1. Projects/1. Projects.md",
+    "2. Areas/Admin.md",
+    "2. Areas/SoClean mobile.md",
+    "2. Areas/Travaux.md"
   ]
 }
