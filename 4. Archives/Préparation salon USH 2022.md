@@ -2,14 +2,8 @@
 tags:
 - templates/project
 ---
-<nav aria-label="Breadcrumb" class="custom-breadcrumb">
-    <ul>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/1. Projects/1. Projects"> Projects</a></li>
-    </ul>
-</nav>
-
-
+## Areas
+- [[Admin]]
 ## Notes
 - Départ le 26 Septembre à 12:52 de Gare de Lyon (Paris) - Lyon Part-Dieu
 - Retour le 29 Septembre à 16:04 de Lyon Part-Dieu - Gare de Lyon (Paris)

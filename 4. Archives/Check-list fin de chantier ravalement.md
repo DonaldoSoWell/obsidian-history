@@ -2,13 +2,6 @@
 tags:
 - templates/project
 ---
-<nav aria-label="Breadcrumb" class="custom-breadcrumb">
-    <ul>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/1. Projects/1. Projects"> Projects</a></li>
-    </ul>
-</nav>
-
 ## Tasks 
 - [x] Contrôler rebords de fenêtre à l'étage ✅ 2022-09-16
 - [x] Contrôler les côtés du chien assis qui doivent être lissés avant peinture ✅ 2022-09-21
