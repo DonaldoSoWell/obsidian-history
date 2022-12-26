@@ -1,0 +1,6 @@
+---
+tags:
+- templates/project
+---
+## Tasks 
+- [ ]
