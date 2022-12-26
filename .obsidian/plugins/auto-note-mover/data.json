@@ -9,6 +9,11 @@
       "pattern": ""
     },
     {
+      "folder": "2. Areas/Customers",
+      "tag": "#templates/area/customers",
+      "pattern": ""
+    },
+    {
       "folder": "2. Areas",
       "tag": "#templates/area",
       "pattern": ""
@@ -21,11 +26,6 @@
     {
       "folder": "4. Archives/Meetings",
       "tag": "#templates/meeting",
-      "pattern": ""
-    },
-    {
-      "folder": "2. Areas/Customers",
-      "tag": "",
       "pattern": ""
     }
   ],

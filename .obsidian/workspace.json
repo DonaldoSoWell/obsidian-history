@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/2. Areas.md",
-                "mode": "preview",
+                "file": "2. Areas/Customers/Customers.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "2. Areas/Customers/Customers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "2. Areas/Customers/Customers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/2. Areas.md"
+                "file": "2. Areas/Customers/Customers.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "2383778819c394f1",
   "lastOpenFiles": [
+    "2. Areas/2. Areas.md",
     "2. Areas/Customers/Customers.md",
     "3. Resources/3. Resources.md",
-    "2. Areas/2. Areas.md",
+    "3. Resources/Templates/Area.md",
     "4. Archives/4. Archives.md",
     "1. Projects/1. Projects.md",
     "1. Projects/_about_.md",
     "2. Areas/_about_.md",
     "MOC.md",
-    "2. Areas/coucou.md",
-    "2. Areas/test.md"
+    "2. Areas/coucou.md"
   ]
 }
