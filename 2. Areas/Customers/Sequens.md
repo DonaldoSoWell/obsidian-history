@@ -11,13 +11,14 @@ tags:
 - [[Connexion SSO Sequens]]
 
 ```dataview
-LIST FROM "1. Projects" WHERE endswith(file.outlinks.file.folder, "Sequens") OR endswith(file.inlinks.file.folder, "Sequens") SORT file.name ASC
+LIST FROM "1. Projects" 
+WHERE contains("Sequens", this.file.link) 
+SORT file.name ASC
 ```
 
 
 ```dataview
-TABLE WITHOUT ID file.inlinks AS "Projects" 
-FROM "1. Projects" 
-WHERE contains()
+Table file.outlinks, file.outlinks.file.folder, file.inlinks, file.inlinks.file.folder 
+FROM "1. Projects"
 SORT file.name
 ```
