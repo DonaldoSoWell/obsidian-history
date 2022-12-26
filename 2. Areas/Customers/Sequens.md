@@ -20,6 +20,11 @@ SORT file.name ASC
 ```dataview
 Table file.outlinks, file.outlinks.file.folder, file.inlinks, file.inlinks.file.folder 
 FROM "1. Projects"
-where contains(file.inlinks, "Sequens")
 SORT file.name
+```
+
+```dataview
+LIST FROM "1. Projects"
+WHERE contains("Sequens", this.file.inlinks)
+SORT file.name ASC
 ```
