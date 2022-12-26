@@ -26,6 +26,6 @@ SORT file.name
 
 ```dataview
 LIST FROM "1. Projects"
-WHERE contains("Customers/Sequens", this.file.inlinks)
+WHERE this.file.inlinks = "2.Areas/Customers/Sequens.md"
 SORT file.name ASC
 ```
