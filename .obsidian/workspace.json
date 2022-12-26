@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1188d692dcc5a8a9",
+            "id": "b2be14d88661971d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/2. Areas.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Areas/2. Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Areas/2. Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Areas/2. Areas.md"
+              }
             }
           }
         ]
@@ -137,20 +146,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "1188d692dcc5a8a9",
+  "active": "b2be14d88661971d",
   "lastOpenFiles": [
-    "MOC.md",
-    "3. Resources/3. Resources.md",
+    "Inbox/Travaux.md",
     "2. Areas/2. Areas.md",
+    "MOC.md",
+    "2. Areas/SoClean mobile.md",
     "1. Projects/1. Projects.md",
-    "Inbox/Obsidian plugins to test.md",
-    "Inbox/Reporter V2.md",
-    "2. Areas/Admin.md",
     "1. Projects/Connexion SSO Sequens.md",
-    "1. Projects/Nettoyage Github.md",
-    "1. Projects/Lancement application mobile SoClean.md"
+    "2. Areas/Customers/Sequens.md",
+    "1. Projects/Lancement application mobile SoClean.md",
+    "3. Resources/3. Resources.md",
+    "Inbox/Obsidian plugins to test.md"
   ]
 }
