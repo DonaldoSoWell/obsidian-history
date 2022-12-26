@@ -5,8 +5,9 @@
   "obsidian-task-progress-bar",
   "obsidian-tasks-plugin",
   "auto-note-mover",
-  "obsidian-style-settings",
   "homepage",
   "alx-folder-note",
-  "folder-note-core"
+  "folder-note-core",
+  "dataview",
+  "obsidian-style-settings"
 ]
