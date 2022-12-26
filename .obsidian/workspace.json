@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "Inbox/test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "Inbox/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "Inbox/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "Inbox/test.md"
               }
             }
           }
@@ -152,11 +152,11 @@
   },
   "active": "b2be14d88661971d",
   "lastOpenFiles": [
+    "2. Areas/2. Areas.md",
+    "MOC.md",
     "4. Archives/4. Archives.md",
     "3. Resources/3. Resources.md",
     "1. Projects/1. Projects.md",
-    "2. Areas/2. Areas.md",
-    "MOC.md",
     "Inbox/Travaux.md",
     "2. Areas/SoClean mobile.md",
     "1. Projects/Connexion SSO Sequens.md",

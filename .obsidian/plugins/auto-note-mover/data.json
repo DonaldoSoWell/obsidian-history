@@ -17,6 +17,11 @@
       "folder": "4. Archives/Meetings",
       "tag": "#templates/meeting",
       "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
