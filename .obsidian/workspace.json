@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c12f247a1352ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/1. Projects.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e6d72a9b392cfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/2. Areas.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -165,15 +151,15 @@
   },
   "active": "0e6d72a9b392cfda",
   "lastOpenFiles": [
-    "MOC.md",
-    "1. Projects/1. Projects.md",
     "2. Areas/2. Areas.md",
-    "2. Areas/Customers/Neolia.md",
+    "MOC.md",
+    "1. Projects/Connexion SSO Sequens.md",
+    "1. Projects/1. Projects.md",
     "2. Areas/Customers/Sequens.md",
+    "4. Archives/4. Archives.md",
+    "4. Archives/Meetings/2022-09-21 Call technique SSO Sequens.md",
+    "2. Areas/Customers/Neolia.md",
     "2. Areas/SoClean mobile.md",
-    "2. Areas/Admin.md",
-    "2. Areas/Customers/ABH.md",
-    "2. Areas/Customers/Batigere.md",
-    "2. Areas/Customers/INLI.md"
+    "2. Areas/Admin.md"
   ]
 }
