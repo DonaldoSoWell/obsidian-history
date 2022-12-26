@@ -93,25 +93,8 @@ if (stuckTasks.length) {
 }
 ```
 
-## [[1. Projects|🔗 Projects]]
+ 
 ![[1. Projects]]  
-
-## [[2. Areas|🔗 Areas]]
 ![[2. Areas]]  
-
-## [[3. Resources|🔗 Resources]] 
-
-## [[4. Archives|🔗 Archives]]
-
-## Areas with no projects
-```dataviewjs
-let areas = dv.pages('outgoing([[2. Areas]])')  
-let projects = dv.pages('outgoing([[1. Projects]])')  
-let project_links = projects.map(p => p.file.link)  
-let no_proj = areas.filter(area =>  
-area.file.outlinks.filter(out =>  
-project_links.includes(out)  
-).length == 0  
-).map(x => x.file.link)  
-dv.list(no_proj)
-```
+> [[3. Resources]]
+> [[4. Archives]] 

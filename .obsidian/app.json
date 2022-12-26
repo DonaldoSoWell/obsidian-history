@@ -12,5 +12,6 @@
   "livePreview": true,
   "showFrontmatter": false,
   "newLinkFormat": "shortest",
-  "fileSortOrder": "alphabeticalReverse"
+  "fileSortOrder": "alphabeticalReverse",
+  "showInlineTitle": false
 }
