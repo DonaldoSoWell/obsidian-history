@@ -16,5 +16,5 @@ SORT file.name ASC
 
 ```dataview
 table 
-file.outgoing
+file.link, file.inlinks, file.outlinks
 ```
