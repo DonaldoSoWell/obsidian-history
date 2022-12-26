@@ -18,8 +18,9 @@ SORT file.name ASC
 
 
 ```dataview
-Table file.outlinks, file.outlinks.file.folder, file.inlinks, file.inlinks.file.folder 
+Table file.inlinks, file.inlinks.file.folder 
 FROM "1. Projects"
+WHERE contains("Customers/Sequens", this.file.inlinks)
 SORT file.name
 ```
 
