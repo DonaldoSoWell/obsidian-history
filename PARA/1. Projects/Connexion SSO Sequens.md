@@ -55,7 +55,7 @@ tags:
 			- [ ] Masquer le bouton via SSO=true sur l'UI reporter web
 			- [ ] Livrer sur Testflight et Android Beta
 		4. Test de connexion via SSO
-			- [ ] Todo SoWell/Seqens semaine 45 @due 📅 2022-11-07 
+			- [x] Todo SoWell/Seqens semaine 45 @due 📅 2022-11-07 [completion:: 2022-12-22]
 		5. Livraison prod
 			- [ ] Communiquer auprès des clients pour les informer de cette modif
 			- [ ] Activer le bouton pour tous sur Testflight

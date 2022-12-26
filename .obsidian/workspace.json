@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/1. Projects/Lancement application mobile SoClean.md",
+                "file": "PARA/1. Projects/Connexion SSO Sequens.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/1. Projects/Lancement application mobile SoClean.md",
+                "file": "PARA/1. Projects/Connexion SSO Sequens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/1. Projects/Lancement application mobile SoClean.md",
+                "file": "PARA/1. Projects/Connexion SSO Sequens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/1. Projects/Lancement application mobile SoClean.md"
+                "file": "PARA/1. Projects/Connexion SSO Sequens.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "3d0c6b97c5ad1b4b",
   "lastOpenFiles": [
+    "PARA/1. Projects/Lancement application mobile SoClean.md",
     "PARA/1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "PARA/1. Projects/1. Projects.md",
     "PARA/2. Areas/Sequens.md",
@@ -159,7 +160,6 @@
     "PARA/2. Areas/Batigere.md",
     "PARA/2. Areas/2. Areas.md",
     "PARA/3. Resources/3. Resources.md",
-    "PARA/3. Resources/Notes de frais.md",
-    "PARA/3. Resources/Templates/Area.md"
+    "PARA/3. Resources/Notes de frais.md"
   ]
 }
