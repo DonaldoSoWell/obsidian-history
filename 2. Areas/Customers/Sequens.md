@@ -26,6 +26,6 @@ SORT file.name
 
 ```dataview
 LIST FROM "1. Projects"
-WHERE this.file.inlinks = "2.Areas/Customers/Sequens.md"
+WHERE this.file.inlinks = [[Sequens]]
 SORT file.name ASC
 ```
