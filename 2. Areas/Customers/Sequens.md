@@ -25,7 +25,7 @@ SORT file.name
 ```
 
 ```dataview
-LIST FROM "1. Projects"
-WHERE this.file.inlinks = [[Sequens]]
+table 
+FROM "1. Projects"
 SORT file.name ASC
 ```
