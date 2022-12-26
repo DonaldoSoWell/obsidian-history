@@ -1,9 +1,6 @@
 - Homepage 
 	- Open a specified note upon launching [Obsidian](https://obsidian.md/), instead of the most recent one.
 	- https://github.com/mirnovov/obsidian-homepage
-- Pluck 
-	- quickly insert the contents of a web page into a note
-	- https://github.com/kevboh/obsidian-pluck
 - Apple reminder
 	- bring Apple Reminders into
 	- https://github.com/urishiraval/obsidian-apple-reminders-plugin
