@@ -2,17 +2,11 @@
 tags:
 - templates/area
 ---
-<nav aria-label="Breadcrumb" class="custom-breadcrumb">
-    <ul>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=PARA/2. Areas/2. Areas"> Areas</a></li>
-    </ul>
-</nav>
-
 ## Projects 
-- [[Rediriger les mails de Laura et Mathieu]]
-- [[Préparation salon USH 2022]]
-- [[Nettoyage Github]]
-
+```dataview
+LIST
+FROM "1. Projects" and [[#]]
+SORT file.name ASC
+```
 ## Ressources
 - [[Notes de frais]]

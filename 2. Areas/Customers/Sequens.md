@@ -1,8 +1,4 @@
 ---
-created_at:
-customer_since:
-features:
-- ..
 tags:
 - templates/area/customers
 ---
@@ -10,11 +6,6 @@ tags:
 ## Projects 
 ```dataview
 LIST
-FROM "1. Projects" and outgoing([[Sequens]])
+FROM "1. Projects" and [[#]]
 SORT file.name ASC
-```
-
-```dataview
-table 
-file.link, file.inlinks, file.outlinks
 ```

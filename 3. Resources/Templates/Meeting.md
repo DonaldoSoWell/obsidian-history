@@ -4,10 +4,8 @@ tags:
 ---
 
 - **Date:**  <% tp.date.now() %>
-- Project:
-- Area:
-- **Attendees:** 
-	- 
+
+## Project
 
 ## Meeting Objective
 

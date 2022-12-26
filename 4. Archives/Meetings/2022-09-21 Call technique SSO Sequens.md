@@ -2,19 +2,8 @@
 tags:
 - templates/meeting
 ---
-<nav aria-label="Breadcrumb" class="custom-breadcrumb">
-    <ul>
-        <li><a href="obsidian://advanced-uri?vault=Donaldo&filepath=MOC"> MOC</a></li>
-    </ul>
-</nav>
-
-- **Date:**  [[2022-09-21]]
-- Project: [[Connexion SSO Sequens]]
-- Area: [[Sequens]]
-- **Attendees:** 
-	- PHILIPPE Benoit
-	- HUSSON Natham
-
+## Project
+[[Connexion SSO Sequens]]
 ## Meeting Objective
 Echanger avec Nathan sur comment mettre en place le SSO sur une interface web
 

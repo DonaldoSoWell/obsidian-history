@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Customers/Sequens.md",
+                "file": "4. Archives/Préparation salon USH 2022.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Customers/Sequens.md",
+                "file": "4. Archives/Préparation salon USH 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Customers/Sequens.md",
+                "file": "4. Archives/Préparation salon USH 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Customers/Sequens.md"
+                "file": "4. Archives/Préparation salon USH 2022.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "4c12f247a1352ebb",
   "lastOpenFiles": [
+    "3. Resources/Templates/Project.md",
+    "4. Archives/Check-list fin de chantier ravalement.md",
+    "4. Archives/Préparation salon USH 2022.md",
+    "3. Resources/Templates/Area.md",
+    "3. Resources/Templates/Daily.md",
+    "3. Resources/Templates/Meeting.md",
     "1. Projects/Connexion SSO Sequens.md",
-    "2. Areas/Customers/Sequens.md",
-    "1. Projects/Lancement application mobile SoClean.md",
-    "1. Projects/1. Projects.md",
-    "2. Areas/2. Areas.md",
-    "MOC.md",
-    "Inbox/Amethyst.md",
-    "2. Areas/coucou.md",
-    "2. Areas/SoClean mobile.md",
-    "2. Areas/test.md"
+    "4. Archives/Meetings/2022-09-21 Call technique SSO Sequens.md",
+    "2. Areas/Customers/INLI.md",
+    "1. Projects/Rediriger les mails de Laura et Mathieu.md"
   ]
 }

@@ -1,11 +1,11 @@
 ---
-created_at:
-customer_since:
-features:
-- ..
 tags:
 - templates/area/customers
 ---
 
 ## Projects 
-- [[Une demande INLI]]
+```dataview
+LIST
+FROM "1. Projects" and [[#]]
+SORT file.name ASC
+```

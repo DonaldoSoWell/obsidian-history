@@ -2,7 +2,15 @@
 tags:
 - templates/project
 ---
-[[Sequens]]
+## Areas
+- [[Sequens]]
+
+## Meetings
+```dataview
+LIST
+FROM "4. Archives/Meetings" and [[#]]
+SORT file.name ASC
+```
 ## Tasks 
 - [x] Reprendre note de réunion et les mettre au propre 
 - [x] Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin @due 📅 2022-09-23 [completion:: 2022-10-07]
