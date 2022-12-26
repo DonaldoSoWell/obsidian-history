@@ -99,3 +99,10 @@ if (stuckTasks.length) {
 > [[3. Resources]]
 > [[4. Archives]] 
 
+```dataview 
+list from "1. Projects"
+```
+
+```dataview 
+list from "2. Areas"
+```
