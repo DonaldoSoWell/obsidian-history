@@ -1,7 +1,10 @@
 ---
+created_at:
+customer_since:
+features:
+- ..
 tags:
-- templates/area
+- templates/area/customers
 ---
-
 ## Projects 
 - 

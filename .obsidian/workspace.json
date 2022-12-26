@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "60524b7deafaa8b9",
   "lastOpenFiles": [
+    "3. Resources/3. Resources.md",
+    "1. Projects/1. Projects.md",
     "2. Areas/2. Areas.md",
     "MOC.md",
-    "3. Resources/3. Resources.md",
-    "3. Resources/Templates/Customers.md",
-    "3. Resources/Templates/Area.md",
-    "4. Archives/4. Archives.md",
-    "1. Projects/1. Projects.md",
-    "1. Projects/_about_.md",
-    "2. Areas/_about_.md",
-    "2. Areas/coucou.md"
+    "Inbox/un projet test pour ABH.md",
+    "2. Areas/Customers/ABH.md",
+    "2. Areas/Customers/Neolia.md",
+    "2. Areas/Customers/Sequens.md",
+    "2. Areas/Customers/INLI.md",
+    "2. Areas/Customers/Batigere.md"
   ]
 }
