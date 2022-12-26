@@ -1,6 +1,6 @@
 {
   "waypointFlag": "%% Waypoint %%",
-  "stopScanAtFolderNotes": false,
+  "stopScanAtFolderNotes": true,
   "showFolderNotes": false,
   "debugLogging": false,
   "useWikiLinks": true,
