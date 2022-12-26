@@ -9,3 +9,7 @@ tags:
 
 ## Projects 
 - [[Connexion SSO Sequens]]
+
+```dataview
+LIST FROM "1. Projects" WHERE endswith(file.outlinks.file.folder, "Sequens") OR endswith(file.inlinks.file.folder, "Sequens") SORT file.name ASC
+```

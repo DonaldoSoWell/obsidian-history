@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee5e77076f79389f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4c12f247a1352ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "preview",
+                "file": "1. Projects/Connexion SSO Sequens.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "1. Projects/Connexion SSO Sequens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "1. Projects/Connexion SSO Sequens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "1. Projects/Connexion SSO Sequens.md"
               }
             }
           }
@@ -160,15 +151,15 @@
   },
   "active": "4c12f247a1352ebb",
   "lastOpenFiles": [
-    "Inbox/Amethyst.md",
+    "2. Areas/Customers/Sequens.md",
+    "1. Projects/Connexion SSO Sequens.md",
+    "1. Projects/1. Projects.md",
+    "2. Areas/2. Areas.md",
     "MOC.md",
+    "Inbox/Amethyst.md",
     "2. Areas/coucou.md",
     "2. Areas/SoClean mobile.md",
     "2. Areas/test.md",
-    "2. Areas/2. Areas.md",
-    "2. Areas/Admin.md",
-    "3. Resources/3. Resources.md",
-    "1. Projects/1. Projects.md",
-    "Inbox/un projet test pour ABH.md"
+    "2. Areas/Admin.md"
   ]
 }
