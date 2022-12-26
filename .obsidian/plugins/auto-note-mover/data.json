@@ -9,6 +9,11 @@
       "pattern": ""
     },
     {
+      "folder": "2. Areas",
+      "tag": "#templates/area",
+      "pattern": ""
+    },
+    {
       "folder": "4. Archives/Daily",
       "tag": "#templates/daily",
       "pattern": ""
@@ -16,11 +21,6 @@
     {
       "folder": "4. Archives/Meetings",
       "tag": "#templates/meeting",
-      "pattern": ""
-    },
-    {
-      "folder": "",
-      "tag": "",
       "pattern": ""
     }
   ],
