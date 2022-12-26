@@ -11,13 +11,8 @@
             "id": "60524b7deafaa8b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -67,7 +62,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,15 +143,15 @@
   },
   "active": "60524b7deafaa8b9",
   "lastOpenFiles": [
+    "2. Areas/coucou.md",
+    "2. Areas/SoClean mobile.md",
+    "2. Areas/test.md",
+    "2. Areas/2. Areas.md",
+    "2. Areas/Admin.md",
+    "MOC.md",
     "3. Resources/3. Resources.md",
     "1. Projects/1. Projects.md",
-    "2. Areas/2. Areas.md",
-    "MOC.md",
     "Inbox/un projet test pour ABH.md",
-    "2. Areas/Customers/ABH.md",
-    "2. Areas/Customers/Neolia.md",
-    "2. Areas/Customers/Sequens.md",
-    "2. Areas/Customers/INLI.md",
-    "2. Areas/Customers/Batigere.md"
+    "2. Areas/Customers/ABH.md"
   ]
 }

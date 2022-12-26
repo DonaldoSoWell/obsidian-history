@@ -1,7 +1,0 @@
----
-tags:
-- templates/area
----
-## Projects
-
-- 
