@@ -16,13 +16,18 @@ tags:
 	- Customers::Inli::GardiensIdf::CreateRemoteIssueJob
 	- Customers::Inli::GardiensIdf::CreateRemoteTalkJob
 - Sowell (1/4 jour) => Communiquer à INLI les informations nécessaires :
-	- Créer le compte utilisateur easiware :
+	- Créer le compte utilisateur easiware et transmettre les informations de connexion :
 		- mail : bot@easyware.test
 		- first name : SRC
 		- last name : Easiware
 		- can close issues : true
 		- mdp : TBD (un truc complexe sur 12 char)
-- INLI (?) => 
+		- role : manager sur le scope "INLI FULL" avec tout le patrimoine
+- INLI (?) => Créer les connecteurs pour la syncro :
+	- Renvoi de la référence easiware à la création de signalement depuis Sowell vers Easiware
+	- Création de signalement depuis Easiware vers Sowell
+	- Création de messages chats depuis Easiware vers Sowell
+	- Renvoi 
 Inli et SoWell : màj connecteur + rapatriement des signalements (1 semaine si implication ok pour Inli)  
   
 Inli : test sur un échantillon utilisateur avec des adresses email en .test (1 semaine si implication ok pour Inli)  
