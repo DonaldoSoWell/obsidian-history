@@ -10,5 +10,6 @@
   "folder-note-core",
   "dataview",
   "obsidian-style-settings",
-  "obsidian-apple-reminders-plugin"
+  "obsidian-apple-reminders-plugin",
+  "linkify"
 ]

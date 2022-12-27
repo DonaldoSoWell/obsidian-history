@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MOC.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -151,10 +151,10 @@
   },
   "active": "0e6d72a9b392cfda",
   "lastOpenFiles": [
-    "2. Areas/2. Areas.md",
-    "MOC.md",
-    "1. Projects/Connexion SSO Sequens.md",
     "1. Projects/1. Projects.md",
+    "MOC.md",
+    "2. Areas/2. Areas.md",
+    "1. Projects/Connexion SSO Sequens.md",
     "2. Areas/Customers/Sequens.md",
     "4. Archives/4. Archives.md",
     "4. Archives/Meetings/2022-09-21 Call technique SSO Sequens.md",
