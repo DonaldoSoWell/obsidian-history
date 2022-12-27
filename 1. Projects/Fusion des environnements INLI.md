@@ -11,7 +11,11 @@ tags:
 - Sowell (1 jour) => Dupliquer tous les signalements depuis INLI RS IDF et INLI Gardiens IDF vers le nouveau INLI IDF
 	- Questions pour Billal:
 		- Pourra-t-on conserver les issues existantes, avec les issues.code (ref easiware) actuels ? 
-- 
+- Dupliquer les jobs et déclencheurs pour INLI IDF :
+	- Customers::Inli::GardiensIdf::CloseRemoteIssueJob
+	- Customers::Inli::GardiensIdf::CreateRemoteIssueJob
+	- Customers::Inli::GardiensIdf::CreateRemoteTalkJob
+	- 
 Inli et SoWell : màj connecteur + rapatriement des signalements (1 semaine si implication ok pour Inli)  
   
 Inli : test sur un échantillon utilisateur avec des adresses email en .test (1 semaine si implication ok pour Inli)  
