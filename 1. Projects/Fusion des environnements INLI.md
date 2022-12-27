@@ -37,14 +37,14 @@ tags:
 	- INLI + Sowell (?) => Recette des connecteurs de syncro 
 	- INLI => Lancement sur un panel réduit d'utilisateurs (5 reporter RS IDF + 5 reporter Gardien IDF + 2 manager RS IDF + 2 manager Gardien IDF)
 - Lancement en production
-	- Faire une communication auprés des utilisateurs avec  une des deux options suivantes (TBD) pour se connecter au nouvel environement :
+	- INLI => Faire une communication auprés des utilisateurs avec  une des deux options suivantes (TBD) pour se connecter au nouvel environement :
 		- soit réinitialisation des MDP pour 123456  
 		- soit passage en connexion SSO en amont
-	- Mettre tous les emails en .old sur les environnements INLI RS IDF et INLI Gardiens IDF
-	- Supprimer tous les signalements depuis INLI IDF
-	- Déplacer tous les signalements depuis INLI RS IDF et INLI Gardiens IDF vers INLI IDF
-	- Mettre tous les emails en .fr sur l'environement INLI IDF
-	- Informer et suivre les utilisateurs pendants quelques jours
+	- Sowell (1/4 jour) => Mettre tous les emails en .old sur les environnements INLI RS IDF et INLI Gardiens IDF
+	- Sowell (1/4 jour) => Supprimer tous les signalements depuis INLI IDF
+	- Sowell (1 jour) => Déplacer tous les signalements depuis INLI RS IDF et INLI Gardiens IDF vers INLI IDF
+	- Sowell (1/4 jour) => Mettre tous les emails en .fr sur l'environement INLI IDF
+	- INLI => Informer et suivre les utilisateurs pendants quelques jours
   
 ## Meetings
 ```dataview
