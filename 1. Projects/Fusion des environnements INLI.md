@@ -24,7 +24,7 @@ tags:
 		- mdp : TBD (un truc complexe sur 12 char)
 		- role : manager sur le scope "INLI FULL" avec tout le patrimoine
 - INLI (?) => Créer les connecteurs pour la syncro :
-	- Renvoi de la référence easiware à la création de signalement depuis Sowell vers Easiware
+	- Renvoi de la référence easiware (data.recordId) à la création de signalement depuis Sowell vers Easiware
 	- Création de signalement depuis Easiware vers Sowell
 	- Création de messages chats depuis Easiware vers Sowell
 	- Renvoi 
