@@ -63,7 +63,3 @@ SORT file.name ASC
 			- [ ] Activer le bouton pour tous sur Testflight
 			- [ ] Livrer sur les stores 
 
-
-[Todoist](https://todoist.com/showProject?id=2304695898)
-
-- [ ] tache test ([Todoist](https://todoist.com/showTask?id=6469294486))
