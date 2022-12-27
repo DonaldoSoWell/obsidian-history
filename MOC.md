@@ -100,8 +100,5 @@ if (stuckTasks.length) {
 
 
 ```tasks
-no due date
-not done 
-exclude sub-items
 hide task count
 ```  
