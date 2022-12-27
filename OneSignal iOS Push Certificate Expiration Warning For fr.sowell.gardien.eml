@@ -1,0 +1,377 @@
+Received: from MR1P264MB2385.FRAP264.PROD.OUTLOOK.COM (2603:10a6:501:32::7) by
+ MRZP264MB2249.FRAP264.PROD.OUTLOOK.COM with HTTPS; Mon, 26 Dec 2022 13:35:46
+ +0000
+Received: from PR0P264CA0278.FRAP264.PROD.OUTLOOK.COM (2603:10a6:100:1::26) by
+ MR1P264MB2385.FRAP264.PROD.OUTLOOK.COM (2603:10a6:501:32::7) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5944.16; Mon, 26 Dec 2022 13:35:44 +0000
+Received: from PR2FRA01FT016.eop-fra01.prod.protection.outlook.com
+ (2603:10a6:100:1:cafe::f5) by PR0P264CA0278.outlook.office365.com
+ (2603:10a6:100:1::26) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5944.16 via Frontend
+ Transport; Mon, 26 Dec 2022 13:35:44 +0000
+Authentication-Results: spf=pass (sender IP is 159.135.231.98)
+ smtp.mailfrom=account.onesignal.com; dkim=pass (signature was verified)
+ header.d=account.onesignal.com;dmarc=pass action=none
+ header.from=onesignal.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of account.onesignal.com
+ designates 159.135.231.98 as permitted sender)
+ receiver=protection.outlook.com; client-ip=159.135.231.98;
+ helo=m231-98.mailgun.net; pr=C
+Received: from m231-98.mailgun.net (159.135.231.98) by
+ PR2FRA01FT016.mail.protection.outlook.com (10.152.48.109) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5944.16 via Frontend Transport; Mon, 26 Dec 2022 13:35:43 +0000
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=account.onesignal.com;
+ q=dns/txt; s=mx; t=1672061742; x=1672068942;
+ h=Content-Transfer-Encoding: Content-Type: Mime-Version: Subject:
+ Subject: Message-ID: To: To: From: From: Date: Sender: Sender;
+ bh=5DXoPp4yHTjkGg2aTo4q2RGfiao8tgaik+FzKCBVeQ4=; b=FQ24dPSgDCcDICAAsBW03ag+Zf3Rpg7lt0oemd/+cN2f4Fa2YUroO8iLmk93H0RMnAO8exN6
+ x33DQ2Q5elgesVnqNHKAM6tD2+TFEV8ZawauO9i1aaj8RiK02TVpthj1UPCEOpBG+X2AQp6n
+ EmiM3IR7DG82yMVmtktaDNyc7cc=
+X-Mailgun-Sending-Ip: 159.135.231.98
+X-Mailgun-Sid: WyI4NDc1MiIsImRvbmFsZG9Ac293ZWxsYXBwLmNvbSIsImM1ODNjNiJd
+Received: from account.onesignal.com (13.104.91.34.bc.googleusercontent.com
+ [34.91.104.13]) by e5c3afab76c3 with SMTP id 63a9a32d799651e5f48102c5
+ (version=TLS1.3, cipher=TLS_AES_128_GCM_SHA256); Mon, 26 Dec 2022 13:35:41
+ GMT
+Sender: contact=onesignal.com@account.onesignal.com
+Date: Mon, 26 Dec 2022 13:35:39 +0000
+From: OneSignal <contact@onesignal.com>
+To: donaldo@sowellapp.com, 
+ jeni@sowellapp.com, 
+ zo@sowellapp.com
+Message-ID: <63a9a32b729b5_76a4240192929@sidekiq-cron-7595847997-z6vmk.mail>
+Subject: OneSignal iOS Push Certificate Expiration Warning For
+ fr.sowell.gardien
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_63a9a32b7232f_76a424019287d";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Return-Path: bounce+380e26.c583c6-donaldo=sowellapp.com@account.onesignal.com
+X-MS-Exchange-Organization-ExpirationStartTime: 26 Dec 2022 13:35:43.8833
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 36a423a1-4462-4956-69b3-08dae7461693
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: a731b396-fa19-43d8-8fad-416876244186:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: PR2FRA01FT016:EE_|MR1P264MB2385:EE_
+X-MS-Exchange-Organization-AuthSource:
+ PR2FRA01FT016.eop-fra01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 36a423a1-4462-4956-69b3-08dae7461693
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:159.135.231.98;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:m231-98.mailgun.net;PTR:m231-98.mailgun.net;CAT:NONE;SFS:(13230022)(4636009)(1690799008)(451199015)(966005)(7846003)(4001150100001)(36756003)(33964004)(7596003)(166002)(7636003)(83170400001)(356005)(83380400001)(9686003)(956004)(26005)(336012)(426003)(5660300002)(19627405001)(8676002)(1096003)(43580500001);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Dec 2022 13:35:43.4614
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 36a423a1-4462-4956-69b3-08dae7461693
+X-MS-Exchange-CrossTenant-Id: a731b396-fa19-43d8-8fad-416876244186
+X-MS-Exchange-CrossTenant-AuthSource:
+ PR2FRA01FT016.eop-fra01.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MR1P264MB2385
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.8565470
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.5944.016
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?T1VFamw3UWIrWUhlVzNHdk0xVGxhNzFOM2FTSHYySW1TZmI3bkRYUzVIUFBh?=
+ =?utf-8?B?UW5jczE2Z1dhcHRld2dNQTlGRzFUKzJnM0w3Z255bVYvaTZsU0NyMkl2T3JS?=
+ =?utf-8?B?M0MwVktsV2FhdElmeEtzT3FCQ0dwY2pJeWozcmd5MmgxUmtwSmVNNFBRcmQ3?=
+ =?utf-8?B?RTYxaE1uU1RHWFhuY2UwWHZFcHcrZ3FLMXk0em5sS3dPbmMvbVdoQjNhV2hq?=
+ =?utf-8?B?TmJVVWpBbUpmTTgyMzdaSVF5MlNtZXgxTyt5Z1l1cTcvNUQwNWpjQ0JqbTdh?=
+ =?utf-8?B?bUFUdmtQdkY3QTJuMzhqanZRZXY4d1MzcnNzMFlSMW9ZVlVWaXdRNXFwNUUy?=
+ =?utf-8?B?b09qRjlLMVE4UnpqVjh3SnFqclZ5Rk9zMlQyR1dCSXIzUDlqK3I0cUNaaG55?=
+ =?utf-8?B?Zk5QakFQZUp4emFoTmdKaVkrUllKYzN6V3Y1SlNKNjBiekFMc0NEZ3lkc3JX?=
+ =?utf-8?B?azBxV2tBQUNOMHM2ZkhQSThsYkZQSEV4aENVczNsMnJwUXdBb0xNeG9ycHIv?=
+ =?utf-8?B?bE1MKzFaM1JSa1lNcHJ0WlFGY3lFQWtTU2RIQ2pYMVp4bmdKaENTK2dIbDZv?=
+ =?utf-8?B?bFordXU4ZExYemQ1U2pwRjRWTTF5L1hJb0xrTVpTbWNkRWZJc3NNNnBPK3pS?=
+ =?utf-8?B?bFBmcEQ5SDBnajlrN09kcGRSaTJQS2FETEVnYW5kbCtSdklDZmNxWWZTaURR?=
+ =?utf-8?B?a3I0Qlo0QlpWM1A1KzJ2QWVPOFY1TDBoam5wOWR2dDhmdzFKOTRPOGl0TXJZ?=
+ =?utf-8?B?QU5lY3RaSWIyamlha2lvQk1oQ1dHVWVlTC8xSjYxT0ZKUFJCbUZBc3drOWNG?=
+ =?utf-8?B?VldjK1FqTDlWU2tYRXZPaytjZTlJLzZFU3JxNndwM1phendVZXdGWG1zM0g2?=
+ =?utf-8?B?WlNIMDAzNkF5NGErakxwSGsrcEk5Mmd5M2ZHL2h2L1ZaVDNlcXJ5RlVRbDhR?=
+ =?utf-8?B?amNnUkk2cUJHTW13aWNWem1zdUFqd1NJZUxobkw3WlQwa3BtMmFGcHNIbCtP?=
+ =?utf-8?B?K2l0YkFXSnFYQUwvVzBpZFJxaUpLcjZtejQzMnNlSlRtRDhlS0hHWWs1MFV3?=
+ =?utf-8?B?T2tVajM3bWpodnVwMkhkVEVSM3MvdDhPK2VFYWNKS2t5eitSTU5EdHoxSk10?=
+ =?utf-8?B?L1lWajJ4QjREc0w0dHd0RkZYTGxPYjNlUWlkLzhmcmRGTUNvdVhhSW1iU04y?=
+ =?utf-8?B?UzYzOE0xTW1ZdSsxV0o2U2hYMXBaRnQwTWh2cXZIeW1TMGhIYkJueEo2aU1Q?=
+ =?utf-8?B?RU1nZ1c5Y1Z5ekx0ODVQQ1FFUnl0WWR5RGZnRGN1VnhBSGNsalg4ekRLT09t?=
+ =?utf-8?B?RGFNemZadXQrM2tEaWxkUllESTJXZUV0SXErMnBjNFExNnVSNkxPZWRVSTZJ?=
+ =?utf-8?B?YTlyRkVzdGFlL242K0ZVVUxHMnhHNGVyK2dWSE04QURTRWhIeFZPNndzNmtp?=
+ =?utf-8?B?ekJRSDBlOWYrYWFwUzZvWkRKeUFHYndNU0RjV2NQMWo3L3ZhbVVBNjBhdWh5?=
+ =?utf-8?B?Tjl6Nm50YXpCV296Y2ZhMVJTNFd4eFpBUmNURnlwV2lwM3FMZGZvWkY1Q1g2?=
+ =?utf-8?B?YW9qVDRaWVI5RWhLbkZkYVpHQkR1aTg2NnFyMHowSGZIZ1FqSWhNL2g3UFlO?=
+ =?utf-8?B?K2dFdkgxQTFGZzJkb2pXbjhoRHcvWkpFdXh3REdjNDVCRnhITWhxdVpzQ2FG?=
+ =?utf-8?B?bTlWQWY1TzhYU2hreWdwS0ZVYWV1Uk1NUzYvWlo2SkwrK0xkZ0V2OVlyczNB?=
+ =?utf-8?B?SUZWVytmMXh6dXhYKzlrU1Mya3h6SFdKY2NXeUxZSm15MDk4azVzai9NY3lB?=
+ =?utf-8?B?dE9HamlSNjAweXd4QjhSZXRKWnFEYUdaVG1HeDZvK25ndDRzSU1JQ0tSclE4?=
+ =?utf-8?B?MkNEN3hRQ1NycEloWG1wbXI0UVREdmUxV0c4d2k1eis0Q1ZNOThDZzY4R2Nk?=
+ =?utf-8?B?NFdsVDJ4NkUvVnVtZjhhS3ZCajRxRW0ycnB0aEc3ZE42Y3RENjBWaTRGb0lL?=
+ =?utf-8?B?Y1hsT3o0R3Bka3g4R28vbjdmNWRNdTJodElwa2FMYjJJdWFjMHFIRkd4YWN5?=
+ =?utf-8?B?QnlNL3Y1UmxQK1g0RktWVDJ0WHdoeTdhRTM1L0diOEZjdDRac1RaSUZtTWV5?=
+ =?utf-8?B?aXFjT3B2MlE1bFB2S2Z2ZENOeWRPR2EvcXV6dW1WTDlncE1xWE91bGM4b2s4?=
+ =?utf-8?B?UUtnZGxraklyTFl5QlV2RHNLVW9KL3RMZDJ2SzV3NVM1VzhGWjFjZ21LWEJK?=
+ =?utf-8?B?QlN3SkxoVjZOd1J0UXU0N0p2alRIcWtQbnRxNXZibkJaRml3cW9WR1pCb1RX?=
+ =?utf-8?B?c1lJVjJjeE95UnRqTnRpUi9sM2VVL01LcmNiMlo0ZmU5ZGt2M1VKcTVtZTJK?=
+ =?utf-8?B?L01GaDhmOHE4TEpQZUpRM1ZrTGluMlFQWnl5RzNQZlNNWmJNbkt1eE5pY0Y1?=
+ =?utf-8?B?SDdweGdsa3lFUU5nd1EzOFB5cjhNcGk1dktmdG50Y0paLzBKTFhwekRBOGJ4?=
+ =?utf-8?B?VVJzREtKM0FXYXQ5ZlhsSjRRc3BsTk0xcjNSL3FCU3VwYUtRL3JUTytPbTZv?=
+ =?utf-8?Q?fdFvy5jG7Hjyydaqfc5eGR37RhuORQ?=
+MIME-Version: 1.0
+
+----==_mimepart_63a9a32b7232f_76a424019287d
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+The iOS Production Push Certificate for fr.sowell.gardien (3f6a1f2d-be99-48ff-b70f-17bfc70e4cc3) expired on 2022-12-26 08:44:47 UTC. Any iOS push notifications scheduled within the last 1 day(s) were not sent.
+
+
+An authentication token (.p8 key), which never expires, can now be used in place of a certificate.
+
+(Please note that this feature is in beta mode, and we recommend keeping a valid certificate handy.)
+
+Our documentation (https://documentation.onesignal.com/docs/establishing-an-apns-authentication-key)
+
+provides step-by-step instructions to set up your token.
+
+If you'd like to continue using a certificate, please create a new one and
+
+upload it to your dashboard.
+
+
+View fr.sowell.gardien in the OneSignal Dashboard: https://onesignal.com/apps/3f6a1f2d-be99-48ff-b70f-17bfc70e4cc3
+
+- The OneSignal Team
+
+OneSignal, 2850 S Delaware St Suite 201, San Mateo, CA 94403
+
+----==_mimepart_63a9a32b7232f_76a424019287d
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta name=3D"viewport" content=3D"width=3Ddevice-width">=0D
+    =0D
+    <style media=3D"all" type=3D"text/css">=0D
+      @media all {=0D
+      .btn-primary table td:hover {=0D
+      background-color: #3A3DB3 !important;=0D
+      }=0D
+      .btn-primary a:hover {=0D
+      background-color: #3A3DB3 !important;=0D
+      border-color: #3A3DB3 !important;=0D
+      }=0D
+      }=0D
+      @media only screen and (max-width: 640px) {=0D
+      table[class=3Dbody] h1,=0D
+      table[class=3Dbody] h2,=0D
+      table[class=3Dbody] h3,=0D
+      table[class=3Dbody] h4 {=0D
+      font-weight: 600 !important;=0D
+      }=0D
+      table[class=3Dbody] h1 {=0D
+      font-size: 22px !important;=0D
+      }=0D
+      table[class=3Dbody] h2 {=0D
+      font-size: 18px !important;=0D
+      }=0D
+      table[class=3Dbody] h3 {=0D
+      font-size: 16px !important;=0D
+      }=0D
+      table[class=3Dbody] .content,=0D
+      table[class=3Dbody] .wrapper {=0D
+      padding: 0 !important;=0D
+      }=0D
+      table[class=3Dbody] .container {=0D
+      padding: 0 !important;=0D
+      width: 100% !important;=0D
+      }=0D
+      table[class=3Dbody] .btn table,=0D
+      table[class=3Dbody] .btn a {=0D
+      min-width: 100% !important;=0D
+      width: 100% !important;=0D
+      }=0D
+      table[class=3Dbody] .card-content {=0D
+      padding: 16px !important;=0D
+      }=0D
+      table[class=3Dbody] .metric-label {=0D
+      font-size: 14px !important;=0D
+      }=0D
+      }=0D
+    </style>=0D
+    <!--[if gte mso 9]>=0D
+    <xml>=0D
+      <o:OfficeDocumentSettings>=0D
+        <o:AllowPNG/>=0D
+        <o:PixelsPerInch>96</o:PixelsPerInch>=0D
+      </o:OfficeDocumentSettings>=0D
+    </xml>=0D
+    <![endif]-->=0D
+  </head>=0D
+  <body style=3D"margin: 0; font-family: 'Nunito Sans', 'Helvetica Neue', '=
+Helvetica', Helvetica, Arial, sans-serif; font-size: 16px; height: 100% !im=
+portant; line-height: 1.6; -webkit-font-smoothing: antialiased; padding: 0;=
+ -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 100% !i=
+mportant; background-color: #F6F7F8;">=0D
+    <table class=3D"body" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"box-sizing: border-box; border-collapse: separate !important; min-=
+width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; bac=
+kground-color: #F6F7F8;" width=3D"100%" bgcolor=3D"#F6F7F8">=0D
+      <tr>=0D
+        <td style=3D"box-sizing: border-box; font-family: 'Nunito Sans', 'H=
+elvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 16px;=
+ vertical-align: top;" valign=3D"top"></td>=0D
+        <td class=3D"container" style=3D"box-sizing: border-box; font-famil=
+y: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-ser=
+if; font-size: 16px; vertical-align: top; display: block; margin: 0 auto !i=
+mportant; max-width: 600px; padding: 0; width: 600px;" width=3D"600" valign=
+=3D"top">=0D
+          <div class=3D"header" style=3D"box-sizing: border-box; margin-bot=
+tom: 24px; margin-top: 24px; width: 100%;">=0D
+            <span class=3D"preheader" style=3D"color: transparent; display:=
+ none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden=
+; mso-hide: all; visibility: hidden; width: 0;"></span>=0D
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"box-sizing: border-box; border-collapse: separate !important; min-width=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width=
+=3D"100%">=0D
+              <tr>=0D
+                <td class=3D"align-center" style=3D"box-sizing: border-box;=
+ font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helvetica, Aria=
+l, sans-serif; font-size: 16px; vertical-align: top; text-align: center;" v=
+align=3D"top" align=3D"center">=0D
+                  <a href=3D"https://www.onesignal.com" class=3D"logo" styl=
+e=3D"box-sizing: border-box; color: #4346CE; text-decoration: none; line-he=
+ight: 0;"><img src=3D"https://media.onesignal.com/email/onesignal-email-log=
+o.png" height=3D"40" alt=3D"OneSignal" style=3D"-ms-interpolation-mode: bic=
+ubic; max-width: 100%; vertical-align: middle;"></a>=0D
+                </td>=0D
+              </tr>=0D
+            </table>=0D
+          </div>=0D
+          <div class=3D"content" style=3D"box-sizing: border-box; display: =
+block; margin: 0 auto; max-width: 600px;">=0D
+            <table class=3D"card" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"box-sizing: border-box; border-collapse: separate !importa=
+nt; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 1=
+00%; padding-bottom: 24px;" width=3D"100%">=0D
+              <tr>=0D
+                <td class=3D"card-wrapper" style=3D"box-sizing: border-box;=
+ font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helvetica, Aria=
+l, sans-serif; font-size: 16px; vertical-align: top; background: #ffffff; b=
+order-radius: 0; width: 100%;" width=3D"100%" valign=3D"top">=0D
+                  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"box-sizing: border-box; border-collapse: separate !important; min-w=
+idth: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" wid=
+th=3D"100%">=0D
+                    <tr>=0D
+                      <td class=3D"card-content" style=3D"box-sizing: borde=
+r-box; font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helvetica=
+, Arial, sans-serif; font-size: 16px; vertical-align: top; padding: 24px;" =
+valign=3D"top">=0D
+=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">Hi there,</p>=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">The iOS Production Push Certificate for <=
+strong><a href=3D"https://onesignal.com/apps/3f6a1f2d-be99-48ff-b70f-17bfc7=
+0e4cc3" style=3D"box-sizing: border-box; color: #4346ce; text-decoration: n=
+one;">fr.sowell.gardien</a> (3f6a1f2d-be99-48ff-b70f-17bfc70e4cc3)</strong>=
+ expired on 2022-12-26 08:44:47 UTC. Any iOS push notifications scheduled w=
+ithin the last 1 day(s) were not sent.</p>=0D
+=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">An authentication token (.p8 key), which =
+never expires, can now be used in place of a certificate. (Please note that=
+ this feature is in beta mode, and we recommend keeping a valid certificate=
+ handy.) </p>=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">Our <a href=3D"https://documentation.ones=
+ignal.com/docs/establishing-an-apns-authentication-key">documentation</a> p=
+rovides step-by-step instructions to set up your token.</p>=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">If you'd like to continue using a certifi=
+cate, please create a new one and=0D
+=0D
+upload it to your dashboard.</p>=0D
+=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">View fr.sowell.gardien in the OneSignal D=
+ashboard: <a href=3D"https://onesignal.com/apps/3f6a1f2d-be99-48ff-b70f-17b=
+fc70e4cc3">https://onesignal.com/apps/3f6a1f2d-be99-48ff-b70f-17bfc70e4cc3<=
+/a></p>=0D
+=0D
+<p style=3D"font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; font-size: 16px; font-weight: normal; margin: 0; =
+margin-bottom: 16px; padding: 0;">- The OneSignal Team =F0=9F=96=96</p>=0D
+=0D
+                      </td>=0D
+                    </tr>=0D
+                  </table>=0D
+                </td>=0D
+              </tr>=0D
+            </table>=0D
+            <!-- START FOOTER -->=0D
+            <div class=3D"footer" style=3D"box-sizing: border-box; clear: b=
+oth; width: 100%;">=0D
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"box-sizing: border-box; border-collapse: separate !important; min-width=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; color: #=
+74808B; font-size: 12px;" width=3D"100%">=0D
+                <tr style=3D"color: #74808B; font-size: 12px;">=0D
+                  <td class=3D"content-block align-center" style=3D"box-siz=
+ing: border-box; font-family: 'Nunito Sans', 'Helvetica Neue', 'Helvetica',=
+ Helvetica, Arial, sans-serif; vertical-align: top; font-size: 12px; paddin=
+g: 0 0 24px; color: #74808B; text-align: center; padding-bottom: 24px;" val=
+ign=3D"top" align=3D"center">=0D
+                    <span class=3D"apple-link" style=3D"color: #74808B; fon=
+t-size: 12px;">OneSignal, 2850 S Delaware St Suite 201, San Mateo, CA 94403=
+</span>=0D
+                    <br style=3D"color: #74808B; font-size: 12px;">=0D
+                    p.s. <a href=3D"https://onesignal.com/careers" style=3D=
+"box-sizing: border-box; text-decoration: none; color: #74808B; font-size: =
+12px;">we're hiring</a>=0D
+                  </td>=0D
+                </tr>=0D
+              </table>=0D
+            </div>=0D
+            <!-- END FOOTER -->=0D
+          </div>=0D
+        </td>=0D
+        <td style=3D"box-sizing: border-box; font-family: 'Nunito Sans', 'H=
+elvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 16px;=
+ vertical-align: top;" valign=3D"top"></td>=0D
+      </tr>=0D
+    </table>=0D
+  </body>=0D
+</html>=0D
+=0D
+
+----==_mimepart_63a9a32b7232f_76a424019287d--
