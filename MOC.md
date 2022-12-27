@@ -95,10 +95,3 @@ if (stuckTasks.length) {
 	dv.el('br', '')
 }
 ```
-
-
-
-
-```tasks
-hide task count
-```  
