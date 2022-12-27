@@ -30,8 +30,8 @@ SORT file.name ASC
 	- [x] https://www.web-dev-qa-db-fra.com/fr/node.js/comment-authentifier-une-application-vuejs-avec-azure-ad/832164266/
 	- [x] https://thewebdev.info/2022/03/12/how-to-authenticate-a-vue-js-app-with-azure-ad/
 - [x] Planifier la réalisation du SSO dans Obsidian conformément au dates annoncées [ici](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) @due 📅 2022-10-08 ✅ 2022-10-11
-- [ ] Respecter la planification annocée  [cf mail](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>)
-	- [ ] Pour l’application Web [manager.sowellapp.com](http://manager.sowellapp.com/) :
+- [x] Respecter la planification annocée  [cf mail](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) ✅ 2022-12-27
+	- [x] Pour l’application Web [manager.sowellapp.com](http://manager.sowellapp.com/) : ✅ 2022-12-27
 		1. Etude de faisabilité :
 			- [x] Création de "l'intégration SoWell" dans la marketplace Microsoft
 			- [x] Ajout de "l’intégration SoWell" dans une organisation Microsoft Azur existante pour validation
@@ -45,21 +45,21 @@ SORT file.name ASC
 		4. Test de connexion via SSO 
 			- [x] Todo SoWell/Seqens semaine 42
 		5. Livraison
-			- [ ] Communiquer auprès des clients pour les informer de cette modif
-			- [ ] Activer le bouton pour tous
-	- [ ] Pour l'application Mobile SoWell :
+			- [x] Communiquer auprès des clients pour les informer de cette modif ✅ 2022-12-27
+			- [x] Activer le bouton pour tous ✅ 2022-12-27
+	- [x] Pour l'application Mobile SoWell : ✅ 2022-12-27
 		1. Etude de faisabilité :
 			- [x] Réalisation d’une application mobile en mode "Proof Of Concept” pour se connecter via SSO avec un compte utilisateur d'une organisation Microsoft Azur => Todo SoWell semaine 43
 		2. Implémentation du workflow de connexion via SSO :
 			- [x] Ajout du bouton “Se connecter avec Microsoft” et implémentation des librairies natives correspondantes dans l’application. => Todo SoWell semaine 44
 			- [x] Gestion du workflow de connexion SSO dans notre API => Todo SoWell semaine 44
 		3. Livraison préprod
-			- [ ] Masquer le bouton via SSO=true sur l'UI reporter web
-			- [ ] Livrer sur Testflight et Android Beta
+			- [x] Masquer le bouton via SSO=true sur l'UI reporter web ✅ 2022-12-27
+			- [x] Livrer sur Testflight et Android Beta ✅ 2022-12-27
 		4. Test de connexion via SSO
 			- [x] Todo SoWell/Seqens semaine 45 @due 📅 2022-11-07 [completion:: 2022-12-22]
 		5. Livraison prod
-			- [ ] Communiquer auprès des clients pour les informer de cette modif
-			- [ ] Activer le bouton pour tous sur Testflight
-			- [ ] Livrer sur les stores 
-
+			- [x] Communiquer auprès des clients pour les informer de cette modif ✅ 2022-12-27
+			- [x] Activer le bouton pour tous sur Testflight ✅ 2022-12-27
+			- [x] Livrer sur les stores ✅ 2022-12-27
+- [ ] Demander à Benoit s'il rencontre toujours des difficultés de connexion [RE: SEQENS / SOWELL - mise en place du SSO](message:%3CPR0P264MB255200EE954CCB61CA6139D3FB049@PR0P264MB2552.FRAP264.PROD.OUTLOOK.COM%3E)
