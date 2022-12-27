@@ -10,7 +10,10 @@ tags:
 	- NB : Mettre tous les emails en .test sur cet environnement
 - Sowell (1/2 jour) => Dupliquer tous les signalements depuis INLI RS IDF et INLI Gardiens IDF vers le nouveau INLI IDF
 	- Questions pour Billal:
-		- Pourra-t-on conserver les issues existantes, avec les issues.code (ref easiware) actuels ? 
+		- Pourra-t-on conserver les issues existantes, avec les issues.code (data.recordId dans Easiware ) actuels ? 
+- INLI (?) => Communiquer les informations nécessaires :
+	- Valeur attendue pour easyware_channel
+	- Valeur attendue pour easyware_escalation
 - Sowell (1/4 jour) => Dupliquer les jobs et déclencheurs pour INLI IDF :
 	- Customers::Inli::GardiensIdf::CloseRemoteIssueJob
 	- Customers::Inli::GardiensIdf::CreateRemoteIssueJob
@@ -24,10 +27,10 @@ tags:
 		- mdp : TBD (un truc complexe sur 12 char)
 		- role : manager sur le scope "INLI FULL" avec tout le patrimoine
 - INLI (?) => Créer les connecteurs pour la syncro :
-	- Renvoi de la référence easiware (data.recordId) à la création de signalement depuis Sowell vers Easiware
+	- Renvoi d'un statut 200 + la référence easiware (data.recordId) à la création de signalement depuis Sowell vers Easiware
 	- Création de signalement depuis Easiware vers Sowell
 	- Création de messages chats depuis Easiware vers Sowell
-	- Renvoi 
+	- Renvoi d'un statut 
 Inli et SoWell : màj connecteur + rapatriement des signalements (1 semaine si implication ok pour Inli)  
   
 Inli : test sur un échantillon utilisateur avec des adresses email en .test (1 semaine si implication ok pour Inli)  
