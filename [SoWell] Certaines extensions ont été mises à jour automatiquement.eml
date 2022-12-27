@@ -1,0 +1,134 @@
+Received: from PAZP264MB3416.FRAP264.PROD.OUTLOOK.COM (2603:10a6:102:128::8)
+ by MRZP264MB2249.FRAP264.PROD.OUTLOOK.COM with HTTPS; Mon, 26 Dec 2022
+ 14:52:22 +0000
+Received: from PR3PR09CA0013.eurprd09.prod.outlook.com (2603:10a6:102:b7::18)
+ by PAZP264MB3416.FRAP264.PROD.OUTLOOK.COM (2603:10a6:102:128::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5944.16; Mon, 26 Dec
+ 2022 14:51:04 +0000
+Received: from PR2FRA01FT006.eop-fra01.prod.protection.outlook.com
+ (2603:10a6:102:b7:cafe::44) by PR3PR09CA0013.outlook.office365.com
+ (2603:10a6:102:b7::18) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5944.16 via Frontend
+ Transport; Mon, 26 Dec 2022 14:51:04 +0000
+Authentication-Results: spf=pass (sender IP is 63.250.43.125)
+ smtp.mailfrom=sowell.app; dkim=none (message not signed)
+ header.d=none;dmarc=bestguesspass action=none
+ header.from=sowell.app;compauth=pass reason=109
+Received-SPF: Pass (protection.outlook.com: domain of sowell.app designates
+ 63.250.43.125 as permitted sender) receiver=protection.outlook.com;
+ client-ip=63.250.43.125; helo=mailout-easywp.jellyfish.systems; pr=C
+Received: from mailout-easywp.jellyfish.systems (63.250.43.125) by
+ PR2FRA01FT006.mail.protection.outlook.com (10.152.48.99) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.5944.16 via Frontend Transport; Mon, 26 Dec 2022 14:51:03 +0000
+Received: from output-router-58994b6955-tvtjg (unknown [10.35.5.64])
+	by mailout-easywp.jellyfish.systems (Postfix) with ESMTPA id 4NgghQ28GDzGtPW
+	for <donaldo@sowellapp.com>; Mon, 26 Dec 2022 14:51:02 +0000 (UTC)
+Received: from deployment-b7ae4-d5474dd86-n2kls (10-233-45-132.svc-b7ae4.default.svc.cluster.local [10.233.45.132])
+	by easywp.com (Postfix) with ESMTPS id 41501774DC5
+	for <donaldo@sowellapp.com>; Mon, 26 Dec 2022 14:51:01 +0000 (UTC)
+Received: by deployment-b7ae4-d5474dd86-n2kls (sSMTP sendmail emulation); Mon, 26 Dec 2022 14:51:01 +0000
+To: donaldo@sowellapp.com
+Subject: =?UTF-8?Q?[SoWell]_Certaines_extensions_ont_=C3=A9t=C3=A9_mi?=  =?UTF-8?Q?ses_=C3=A0_jour_automatiquement?=
+Date: Mon, 26 Dec 2022 14:51:01 +0000
+From: EasyWP <wordpress@sowell.app>
+Message-ID: <3jRHAWQkzEnRpWZHORJudJYcNlQdOQUmQI4Okh7BbS4@easywp.com>
+X-Mailer: PHPMailer 6.6.0 (https://github.com/PHPMailer/PHPMailer)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Return-Path: wordpress@sowell.app
+X-MS-Exchange-Organization-ExpirationStartTime: 26 Dec 2022 14:51:04.3585
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ acc5d8e0-7482-4b70-3354-08dae7509cfd
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: a731b396-fa19-43d8-8fad-416876244186:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: PR2FRA01FT006:EE_|PAZP264MB3416:EE_
+X-MS-Exchange-Organization-AuthSource:
+ PR2FRA01FT006.eop-fra01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: acc5d8e0-7482-4b70-3354-08dae7509cfd
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-ACSExecutionContext: 12/26/2022 14:51:06;12/26/2022
+ 14:52:21;{"SubmissionInfo":{"SubmissionToken":"PFRva2VuIEVuZHBvaW50PSJodHRwczovL01SMkZSQTAxVFAwNTUuZW9wLWZyYTAxLnByb2QucHJvdGVjdGlvbi5vdXRsb29rLmNvbS9zb25hcmFwaS8iIElkPSIyNjMwZmNiNC0yYzg1LWVkMTEtYmZjMi05Y2RjNzE0NjJhMjIiIFJvbGU9IlN1Ym1pdHRlciIgVG9rZW5UeXBlPSJTdWJtaXNzaW9uVG9rZW4iIFNpZ25hdHVyZT0iWndXV3lPM1pibmFENk9sMmZzcHpuVS9pU1lkQ2svYTMyeGRrR2hGSjljWEdCSkl5c2JNTTQwTlJhZTlDV1UrK05oMnBTMjJLVzR4NS9IREQ5eGtDckE9PSIgU2lnbmF0dXJlVmVyc2lvbj0iVmVyc2lvbjIxIiAvPg","Identity":"https://fra01-sonar.atp.protection.outlook.com/sonarapi?connectionkeepalive=false"}};SC;S;0;12/26/2022
+ 14:51:07;0|0|0|1|0|0|;
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:63.250.43.125;CTRY:US;LANG:fr;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mailout-easywp.jellyfish.systems;PTR:mailout-easywp.jellyfish.systems;CAT:NONE;SFS:(13230022)(6029001)(4636009)(451199015)(6916009)(4744005)(224303003)(42186006)(36756003)(26005)(9686003)(966005)(7596003)(356005)(426003)(86362001)(336012)(1096003)(5660300002)(39280500004);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Dec 2022 14:51:03.9992
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: acc5d8e0-7482-4b70-3354-08dae7509cfd
+X-MS-Exchange-CrossTenant-Id: a731b396-fa19-43d8-8fad-416876244186
+X-MS-Exchange-CrossTenant-AuthSource:
+ PR2FRA01FT006.eop-fra01.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PAZP264MB3416
+X-MS-Exchange-Transport-EndToEndLatency: 00:01:18.1101748
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.5944.016
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?MDJHREFjRXM1K1NTWEMrUmlaRHNpd1M3MGt3U3UvUjQxa1cvNk5Sc01wRWVw?=
+ =?utf-8?B?dHhhODFTcnJ5OEQ3QmZwblRybW04THFuUmU2MU81S0U5dFdMREVEWDA2bUZD?=
+ =?utf-8?B?citjcThRT082Z21JUVVNZnVRZUJQa1JyRnpiMFBnclRqNHBvT2t0c2hteElP?=
+ =?utf-8?B?b1RIenBsTmN1RE9uN2JQV0tFUFdudjdlUVE0NDl6YVhWbWdKYzNLUzFZSGJn?=
+ =?utf-8?B?S1hGTE1ud3pnempFNHhneEtCWEx1VWh4ZnZOSzJ3dkVUZEk3a2lEZE4veEdR?=
+ =?utf-8?B?QzJnMzYvY21DY1dGZUdEU05ZTGxweGdISk5wbDV0RC9TK1pOSTF2OEMzaE94?=
+ =?utf-8?B?V3RvY0JXckJMamFXbVR2eVAxMGdmU2NqdTNURHh1UFQzZGZyTVhreVJuTnhp?=
+ =?utf-8?B?bTN2aWo0bHMvWkc2Rnk0MzV1UXovWCtCRkltWGFycnZJWCtVUUZEbGJpN0Fq?=
+ =?utf-8?B?TEkwbnlxZS9ubjNpM2FWaTYwaU44czNVeUJJUFY4d1J2dTcvZjc4emZUb0dr?=
+ =?utf-8?B?Rldqakk4RmRNUmxSRVhCQjRqVHBOckpzdHU1bitFOSs4eCt0ZjRVTE5wNkNy?=
+ =?utf-8?B?c2xVV05iZkhDVmdoamZ2Wk9sbXZFUGM5R291alNXTFRFQ01aUDUyQXpwV29t?=
+ =?utf-8?B?cFowOU14aklXTk96U012THUwVGJBQzYvc1dmTU9JSU9GYXE3RW1CajlxNkFS?=
+ =?utf-8?B?WDRRODhXMnUrZ1Y0TER0M003WU1kNm5aTnQ3eUVFbkh1K20rZmlDL1pwSk9S?=
+ =?utf-8?B?L3I1YU9FRDdhM3B2K0RKcHNpYkZRaDJjSWd4VlZ1Z3hCOXBuNEVOTlpleXQw?=
+ =?utf-8?B?cVpWbHhRbUgzMGc4QUZyMlJoSERRMTlicmQ0S1V6NUVtRmVrc3U4amdvU2s1?=
+ =?utf-8?B?M2JVekc2c1h3K1haQTFOeDVFOU80eXdlcG5TUFpRZXRDd1lZMEwrdjRyTkV6?=
+ =?utf-8?B?N0lOaFlGRURKRTI1Y2gzRG9HRXh6cDRPZU0zTTdySGxsQXpibDVaM1h5QVIy?=
+ =?utf-8?B?SnM3NmZLaW04YkJlZzdLdUU2WWFYYTlVRG1EamlrUVNjVFp1VFhNMzdMZlM5?=
+ =?utf-8?B?RWJMNEtDRUswSE9TUjIvOU9zVzlyREQ3enNkQWorUTFUakxWVGd4THRQZm1i?=
+ =?utf-8?B?VlQ5UkRwM2xlOE9OSGVXVEZGV3ZtVUdoZW1Sb04rd3JpcEpFcEx3QzE2UTJV?=
+ =?utf-8?B?eS9hTEIwSW9JZGFmVkw4OVVJK2RTa0xMeWJRait6MmZMVWRWWUwrajc2dWVQ?=
+ =?utf-8?B?RU1EcXdHZ0RkSWs5M0tQSFJUOEVZcWZDdEoyYjlxNHNvLzdMVGNFSURIT3lF?=
+ =?utf-8?B?SmtXNStwTjVBWHZWMm5MSWRmbWlMaTZiWmpPWG8zUVNIb2Q4WHRVK2NtT0tW?=
+ =?utf-8?B?bkVXZ0hhb0lUb0JXaWg4S1NWMXVSZmJSczFzSGRhK0p6WXppTFlXRmZMNXlH?=
+ =?utf-8?B?QVRjZkg3SWRNa05oa0pMRDBjeFRRQ3NjVS9KOFpJVXV5UjA3VHpNNS9lN0Yv?=
+ =?utf-8?B?d0FqTEs5Nkw0KzFuU2dTbkJHdFhwWGlESzNicjZvMEFySHVCRXQ0TllPc04z?=
+ =?utf-8?B?NEJFK3pVQ2gwOEh3NHhBNGp6YlhnT2pzVUlrL1A1QzBmUURNbzRFSURzcHBa?=
+ =?utf-8?B?SDFKM0EzNU9Xd2h1OFNTbVN4dUo3L3p4Y28zeGZiMTRyV0NMdEZ3eHBNV1ZL?=
+ =?utf-8?B?QVlRMFh1eGRqdkt6SStZamdESUN5SmRoUHROTyswTDVQdy8yVDlKWXFGaXdN?=
+ =?utf-8?B?SWZpOUFYM0Uxa3lUTDhPL0kwZ0F3cmlNU1JwN1hZelkyMllqLzB5NDZmNXFE?=
+ =?utf-8?B?MXlWdEh2M3NNWHQ3WHZYN2ZjWDlyUzlNNkdOb1NtUjdJQzVPTVlDYlkwMC9r?=
+ =?utf-8?B?SWZ5TnI5RnpCcFdEVm01a29EVm55Uyt6QmNPdGF0bnQ5WERHdHVmNFdIbk9p?=
+ =?utf-8?B?OXhSdU1GcHpXMkdFSzF1ZDJNa1QxZ1FkRVNRcDcycTlYRzQwQXhyY29JQ200?=
+ =?utf-8?B?WW9xbGtyM3hlMEtnblZ5L2dOVzZtMXpaUHRrUGhJMDArb0QxZ3E1UXNmU3ZI?=
+ =?utf-8?B?bnp3dXNkMThMVXhicWpjK25MQ1IyRkNVWWEzVGtacHR4L2diY1BpVUp1RGQ4?=
+ =?utf-8?B?VmhyQzZrZmVJMHdFait2VnVDRE9Wcnkyc0gyUnlVN2pxQkhzdWxGNnJpOEtq?=
+ =?utf-8?B?eFF6QnlQN3A5cDUzdUVsQ0pDb1ozaDNCYUpqRFRTd3hwR1V1SU5xRDl6QnBa?=
+ =?utf-8?B?dnc4cHNMZ3RCWm9jY2VtVXhtVk90VC9kSEtjTUJ3MGxDcStaT3AxWGY4ZGxM?=
+ =?utf-8?B?U1FkZWNkcU54TENybnZneHV1amtVazhtRnQ1RXU2eXJJT3dsMjVKdTNOdkQ1?=
+ =?utf-8?B?VnhiNUYvcXIvZFlUUGhiNU5lWVdPcXpXbk84UHVJOTFTUW82SUh0U0MyWlFC?=
+ =?utf-8?B?M3RLeFJyR2svRk0zeWRLTmJKV1YvRnhIblByNWRaUituSElxb05xcFBkNkg5?=
+ =?utf-8?B?MlNzcHRSZEJZUHp2WUhhSUxlSVNvaXBtbTJEOTVZRW13PT0=?=
+MIME-Version: 1.0
+
+Bonjour ! Des extensions ont été mises à jour automatiquement vers leurs dernières versions sur votre site à l’adresse https://sowell.app. Vous n’avez rien de plus à faire.
+
+
+Ces extensions sont maintenant à jour :
+- Happy Elementor Addons (de la version 3.7.2 à 3.8.0)
+
+
+Si vous rencontrez des problèmes ou avez besoin d’assistance, les volontaires du forum d’entraide de WPFR (https://wpfr.net/support) devraient pouvoir vous aider.
+https://wpfr.net/support
+
+L’équipe WordPress
+
