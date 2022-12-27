@@ -5,7 +5,7 @@ tags:
 ## Areas
 - [[INLI]]
 
-## Notes
+## Process
 - Lancement en beta test
 	- Sowell (1 jour) => Créer environnement INLI IDF avec l'intégralité du patrimoine,  des affectations et des utilisateurs de INLI RS IDF et INLI Gardiens IDF 
 		- NB : Mettre tous les emails en .test sur cet environnement
@@ -53,4 +53,4 @@ FROM "4. Archives/Meetings" and [[#]]
 SORT file.name ASC
 ```
 ## Tasks 
-- [ ]
+- [x] Répondre à Thomas sur le process ✅ 2022-12-27
