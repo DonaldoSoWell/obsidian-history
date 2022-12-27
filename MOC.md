@@ -11,8 +11,6 @@ color blue
 ```
 ^button-daily
 
-un mail
-[Réponse automatique : Sylvie MENARD a émis un nouveau signalement](message:%3Cbc892136144747d4b35483ec17bc97be@MR1P264MB4321.FRAP264.PROD.OUTLOOK.COM%3E)
 ## Tasks
 ### Due
 ```tasks
@@ -97,3 +95,13 @@ if (stuckTasks.length) {
 	dv.el('br', '')
 }
 ```
+
+
+
+
+```tasks
+no due date
+not done 
+exclude sub-items
+hide task count
+```  
