@@ -9,7 +9,7 @@
       "link": "http://github.com/$1"
     },
     {
-      "regexp": "readdle-spark://bl=(*)",
+      "regexp": "readdle-spark://bl=(.*)",
       "link": "readdle-spark://bl=$1"
     }
   ]
