@@ -13,12 +13,13 @@ tags:
 			- Bien (optionnel) => code du spot SoWell
 			- Autheur => Nom + prénom de l'autheur SoWell
 			- Email autheur => Email de l'autheur SoWell
-			- Date de création => Date de création du signalement
+			- Date de création => Date au format ISO8601 (2012-04-23T18:25:43.511Z)
 			- Niveau de priorité => 
-				- -1 = fiable
-				- 0 = normal
-				- 1 = haute
-			- Description => 
+				- low = fiable
+				- normal = normal
+				- high = haute
+			- Description => Champ texte
+			- Photos => Tableau JSON de photos au format base64
 
 ## Meetings
 ```dataview
