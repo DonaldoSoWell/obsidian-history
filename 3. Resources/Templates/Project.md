@@ -2,7 +2,8 @@
 tags:
 - templates/project
 ---
-## Areas
+## Notes
+- Areas :
 - 
 
 ## Meetings

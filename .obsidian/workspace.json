@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bba8d66b7ae1208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "1. Projects/Connecteur Erilia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "1. Projects/Connecteur Erilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "1. Projects/Connecteur Erilia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "1. Projects/Connecteur Erilia.md"
               }
             }
           }
@@ -163,17 +149,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6bba8d66b7ae1208",
+  "active": "d3cc583e7a9e4619",
   "lastOpenFiles": [
+    "1. Projects/1. Projects.md",
     "MOC.md",
+    "3. Resources/Templates/Project.md",
+    "4. Archives/4. Archives.md",
+    "1. Projects/Connecteur Erilia.md",
     "2. Areas/Customers/Erilia.md",
     "2. Areas/2. Areas.md",
     "4. Archives/Daily/2022-12-27.md",
     "1. Projects/Fusion des environnements INLI.md",
-    "2. Areas/Customers/INLI.md",
-    "1. Projects/1. Projects.md",
-    "1. Projects/Connexion SSO Sequens.md",
-    "Buttons 1.0 is Coming.md",
-    "2. Areas/Customers/Sequens.md"
+    "2. Areas/Customers/INLI.md"
   ]
 }
