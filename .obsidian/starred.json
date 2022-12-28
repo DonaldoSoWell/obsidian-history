@@ -4,6 +4,11 @@
       "type": "file",
       "title": "Home",
       "path": "Inbox/Home.md"
+    },
+    {
+      "type": "file",
+      "title": "MOC",
+      "path": "MOC.md"
     }
   ]
 }
