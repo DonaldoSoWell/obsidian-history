@@ -62,4 +62,4 @@ SORT file.name ASC
 			- [x] Communiquer auprès des clients pour les informer de cette modif ✅ 2022-12-27
 			- [x] Activer le bouton pour tous sur Testflight ✅ 2022-12-27
 			- [x] Livrer sur les stores ✅ 2022-12-27
-- [ ] Demander à Benoit s'il rencontre toujours des difficultés de connexion [RE: SEQENS / SOWELL - mise en place du SSO](message:%3CPR0P264MB255200EE954CCB61CA6139D3FB049@PR0P264MB2552.FRAP264.PROD.OUTLOOK.COM%3E)
+- [x] Demander à Benoit s'il rencontre toujours des difficultés de connexion [RE: SEQENS / SOWELL - mise en place du SSO](message:%3CPR0P264MB255200EE954CCB61CA6139D3FB049@PR0P264MB2552.FRAP264.PROD.OUTLOOK.COM%3E) ✅ 2022-12-28
