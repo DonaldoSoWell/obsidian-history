@@ -25,6 +25,12 @@ tags:
 		- La difficultée estimée par les dev + lead dev
 		- La valeur ajoutée estimée par le market et Rantsa
 		- Todo : Définir une règle de calcul
+	- Si le travail fournit n'est pas correct :
+		- PBL de code non visible sur les UI (conventions non respectée par exemple)
+			- Le lead dev en enleve des points au dev, ces points seront comptés en bonus pour le lead dev
+		- PBL visible sur les UI (bug ou non respect des specs fonctionnelles)
+			- Si détecté par Rantsa => on enleve des points à l'équipe (Front ou Back) et on distribue ces points à l'autre équipe. NB : Les points ne sont pas enlevés au dev responsable mais bien à l'équipe
+			- Sinon => on enleve des points à Rantsa uniquement
 	- En cas de collaboration sur un ticket, les dev se mettent d'accord sur la répartition des points, si pas d'accord, c'est le lead dev qui tranche
 	- Quand c'est un Lead dev qui fait le dev, il ne gagne pas de poInts :
 		- Pour une tache associée à une feature, les points sont répartit 
