@@ -10,10 +10,15 @@ tags:
 		- Données fournies par SoWell :
 			- Qualification => code de la catégorie SoWell
 			- Résidence => code de la place SoWell
-			- Bien (logement) => code du spot SoWell
+			- Bien (optionnel) => code du spot SoWell
 			- Autheur => Nom + prénom de l'autheur SoWell
 			- Email autheur => Email de l'autheur SoWell
-			- Date de création => Date de création du signalement au format ISO 8601
+			- Date de création => Date de création du signalement
+			- Niveau de priorité => 
+				- -1 = fiable
+				- 0 = normal
+				- 1 = haute
+			- Description => 
 
 ## Meetings
 ```dataview
