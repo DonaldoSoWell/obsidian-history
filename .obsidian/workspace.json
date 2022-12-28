@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
+                "file": "1. Projects/Modification comptage points Mada.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
+                "file": "1. Projects/Modification comptage points Mada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
+                "file": "1. Projects/Modification comptage points Mada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md"
+                "file": "1. Projects/Modification comptage points Mada.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "3d661e7f595a4f18",
   "lastOpenFiles": [
+    "1. Projects/Fusion des environnements INLI.md",
+    "1. Projects/Connexion SSO Sequens.md",
     "2. Areas/Customers/Sequens.md",
     "2. Areas/2. Areas.md",
     "1. Projects/Modification comptage points Mada.md",
@@ -159,8 +161,6 @@
     "MOC.md",
     "1. Projects/Connecteur vivest.md",
     "1. Projects/1. Projects.md",
-    "2. Areas/Customers/Vivest.md",
-    "3. Resources/3. Resources.md",
-    "1. Projects/Connecteur Erilia.md"
+    "2. Areas/Customers/Vivest.md"
   ]
 }

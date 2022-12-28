@@ -20,7 +20,7 @@ tags:
 		- Soit on ne sait pas qui en est l'auteur et on tire au sort ou on fait à tour de role pour savoir à qui le confier
 		- NB : 
 			- La personne en charge de la résolution ne peut plus traiter d'autre ticket tant que le bug n'est pas reglé
-			- Si la correctIon du bug nécessite un refactoring du code (validé par le Lead dev), on passe en mode normal (estimatIon + comptage des points)
+			- Si la correctIon du bug nécessite un refactoring du code (validé par le Lead dev), on passe en mode normal (estimation + comptage des points)
 	- L'estimation des tickets "features" integre :
 		- La difficultée estimée par les dev + lead dev
 		- La valeur ajoutée estimée par le market et Rantsa
