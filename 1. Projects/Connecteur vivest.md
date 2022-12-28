@@ -28,11 +28,28 @@ tags:
 			- Intégration du champ "Autheur" fourni dans un champ texte en lecture seule
 			- Intégration des champs "Date de création", "Niveau de priorité" et "Description" fourni dans le champ "Contexte de la demande"
 			- Intégration des photos dans l'onglet "Fichiers"
+		- Réponse attendue par SoWell :
+			- HTTP Status Code => Pour indiquer le résultat de la requête 
+				- 2xx => Ok
+				- 4xx => Ko client
+				- 5xx => Ko server
+			- CRM UID => Identifiant unique du signalement créé dans le CRM et servant de référence commune pour le suivi de ce signalement
 		- Remarques :
 			- Il n'y a pas de demandeur pour les signalements SoWell. Uniquement une résidence et éventuellement un bien.
 			- Vivest paramètre le Workflow à utiliser sur chaque qualification
 			- Si des accusés de réception doIvent être envoyés, Vivest sait les paramétrer avec le moteur de règles.
-			- 
+		- Questions :
+			- SoWell doit envoyer (au choix) :
+				- tous les signalements 
+				- uniquement les signalement de certaine catégories
+				- les signalements pour lesquels l'auteur à précisé qu'ils devaient être envoyés
+				- les signalements pour lesquels un manager à précisé via l'UI manager qu'ils devaient être envoyés
+	- 2) Changement de statut d'un signalement SoWell depuis Vivest
+		- Lorsque le statut d'un signalement évolue dans le CRM, si le canal est SoWell, le CRM met à jour le signalement dans SoWell en créant une requête à l'api SoWell
+		- Correspondance des statut :
+			CRM | SoWell
+			----- | ------ 
+			tsnei | tsrtrs
 
 ## Meetings
 ```dataview
