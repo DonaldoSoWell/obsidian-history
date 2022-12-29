@@ -8,6 +8,6 @@
 - [[Sequens]]
 - [[Vivest]]
 - [[Plaine Commune habitat]]
-- [[hab]]
+- [[habi]]
 
 %% End Waypoint %%
