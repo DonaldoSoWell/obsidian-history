@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd40e3243864969",
+        "id": "7b0525c2bfef0c19",
         "type": "tabs",
         "children": [
           {
-            "id": "3f4793817df427cd",
+            "id": "618567d0f60a582a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Areas/Customers/Customers.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -175,12 +175,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "3f4793817df427cd",
+  "active": "618567d0f60a582a",
   "lastOpenFiles": [
-    "2. Areas/2. Areas.md",
     "2. Areas/Customers/Customers.md",
-    "Inbox/Chartre Metropole habitat.md",
-    "Inbox/Plaine Commune habitat.md",
+    "2. Areas/2. Areas.md",
+    "2. Areas/Customers/Chartre Metropole habitat.md",
+    "2. Areas/Customers/Plaine Commune habitat.md",
     "2. Areas/Customers/Ozanam.md",
     "1. Projects/1. Projects.md",
     "Areas/customers/Chartre Metropole habitat.md",
