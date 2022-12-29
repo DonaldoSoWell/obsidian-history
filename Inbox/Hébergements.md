@@ -1,10 +1,4 @@
----
-tags: 
-- tools/heroku
-- tools/netlify
-- tools/namecheap
-- work/apps/soclean-mobile
----
+
 ## www.sowell.app
 
 ```
