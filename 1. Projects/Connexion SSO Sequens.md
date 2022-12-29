@@ -57,7 +57,7 @@ SORT file.name ASC
 			- [x] Masquer le bouton via SSO=true sur l'UI reporter web ✅ 2022-12-27
 			- [x] Livrer sur Testflight et Android Beta ✅ 2022-12-27
 		4. Test de connexion via SSO
-			- [x] Todo SoWell/Seqens semaine 45 @due 📅 2022-11-07 [completion:: 2022-12-22]
+			- [x] Todo SoWell/Seqens semaine 45  📅 2022-11-07 [completion:: 2022-12-22]
 		5. Livraison prod
 			- [x] Communiquer auprès des clients pour les informer de cette modif ✅ 2022-12-27
 			- [x] Activer le bouton pour tous sur Testflight ✅ 2022-12-27
