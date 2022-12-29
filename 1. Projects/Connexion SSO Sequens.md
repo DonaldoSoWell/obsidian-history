@@ -13,7 +13,7 @@ SORT file.name ASC
 ```
 ## Tasks 
 - [x] Reprendre note de réunion et les mettre au propre 
-- [x] Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin @due 📅 2022-09-23 [completion:: 2022-10-07]
+- [x] Envoyer mail à SavIo, CC Nathan et Benoit avec les infos dont j'ai besoin 📅 2022-09-23 [completion:: 2022-10-07]
 	- cf [[2022-09-21 Call technique SSO Sequens#Action Items]]
 	- [x] Préciser qu'on est sur une Single Page APP [completion:: 2022-10-07]
 	- [x] Lui communiquer notre URL de retour [completion:: 2022-10-07]
