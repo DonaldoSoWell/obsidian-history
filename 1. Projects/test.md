@@ -1,7 +1,4 @@
----
-tags:
-- templates/project
----
+
 ## Notes
 - Areas : [[Erilia]]
 - [[2022-12-28]] Reçu [documentation technico-fonctionnelle](https://docs.google.com/document/d/1jE5FXtLCPHIsrN51DB08lZGc606kgLH-CmOxoIwgbZw/edit) du connecteur 
