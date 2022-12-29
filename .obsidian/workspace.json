@@ -32,9 +32,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6bd0de185e63834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Modification comptage points Mada.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "495f8d2905ff0c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/Daily/2022-09-01.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0bb99cef0476a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/Daily/2022-09-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -102,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
+                "file": "4. Archives/Daily/2022-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
+                "file": "4. Archives/Daily/2022-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md"
+                "file": "4. Archives/Daily/2022-09-23.md"
               }
             }
           },
@@ -188,17 +227,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "cac42df6a981f16a",
+  "active": "a0bb99cef0476a3c",
   "lastOpenFiles": [
+    "4. Archives/Daily/2022-09-01.md",
     "1. Projects/Modification comptage points Mada.md",
+    "1. Projects/Connexion SSO Sequens.md",
     "1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "Home.md",
     "Inbox/Amethyst.md",
     "Inbox/Hébergements.md",
     "Inbox/Obsidian plugins to test.md",
     "Inbox/Reporter V2.md",
-    "Inbox/Travaux.md",
-    "Inbox/2.md",
-    "2. Areas/2. Areas.md"
+    "Inbox/Travaux.md"
   ]
 }
