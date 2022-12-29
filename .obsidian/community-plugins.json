@@ -9,8 +9,8 @@
   "folder-note-core",
   "dataview",
   "obsidian-style-settings",
-  "nldates-obsidian",
   "table-editor-obsidian",
   "calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-simple-mention"
 ]

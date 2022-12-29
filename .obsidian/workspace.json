@@ -147,6 +147,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7dff5e54942cb6a7",
+            "type": "leaf",
+            "state": {
+              "type": "ch.der-tobi.obsidian-simple-mention",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
