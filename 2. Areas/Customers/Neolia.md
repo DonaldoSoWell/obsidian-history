@@ -1,6 +1,6 @@
 ---
 tags:
-- templates/area/customers
+- templates/area
 ---
 ## Projects
 
