@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sorting/urgent",
+                "query": "tag:#sorting/important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5e2fe42c73872cf0",
+  "active": "c071dea157d37005",
   "lastOpenFiles": [
     "2. Areas/Customers/Sequens.md",
     "2. Areas/Customers/Neolia.md",
