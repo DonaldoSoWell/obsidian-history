@@ -3,13 +3,7 @@
 > [[2. Areas]]  
 > [[3. Resources]]
 > [[4. Archives]] 
-```button
-name Daily
-type command
-action Daily notes: Open today's daily note
-color blue
-```
-
+ 
 ## Tasks
 ### Due
 ```tasks
