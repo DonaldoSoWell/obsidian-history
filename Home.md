@@ -35,7 +35,7 @@ if (overdueTasks.length) {
 }
 ```
 
-### Upcoming
+### *Upcoming 
 ```tasks
 due after date(today)
 not done
