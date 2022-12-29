@@ -1,7 +1,6 @@
 ---
 tags:
 - templates/area
-
 ---
 ## Projects 
 ```dataview
