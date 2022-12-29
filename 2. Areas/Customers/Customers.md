@@ -8,6 +8,5 @@
 - [[Sequens]]
 - [[Vivest]]
 - [[Plaine Commune habitat]]
-- [[Areas/customers/Chartre Metropole habitat]]
 
 %% End Waypoint %%

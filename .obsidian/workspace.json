@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "43b3800fe9e6442e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/customers/Chartre Metropole habitat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1bb63b4fd5582814",
             "type": "leaf",
             "state": {
@@ -217,15 +230,15 @@
   },
   "active": "0b3d6849eeef51ba",
   "lastOpenFiles": [
-    "areas/customers/Plaine Commune habitat.md",
+    "Areas/customers/Chartre Metropole habitat.md",
     "2. Areas/Customers/Customers.md",
+    "areas/customers/Plaine Commune habitat.md",
     "2. Areas/2. Areas.md",
     "1. Projects/1. Projects.md",
     "1. Projects/Connecteur Erilia.md",
     "Area/custmers/Ozanam.md",
     "Home.md",
     "4. Archives/Daily/2022-09-06.md",
-    "4. Archives/Daily/2022-09-20.md",
-    "Inbox/Reporter V2.md"
+    "4. Archives/Daily/2022-09-20.md"
   ]
 }
