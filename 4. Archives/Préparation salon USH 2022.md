@@ -16,7 +16,7 @@ tags:
 		- Reste a payer 100,80 euros
 	- [mail](message://<PR0P264MB0268B670B57EB940D85D085796519@PR0P264MB0268.FRAP264.PROD.OUTLOOK.COM>)
 	- [tel](tel:0650473536)
-- [x] Ne pas oublier @due 📅 2022-09-26 ✅ 2022-09-26
+- [x] Ne pas oublier  📅 2022-09-26 ✅ 2022-09-26
 	- [x] Badge d'Accès papier
 	- [x] Mac + chargeur
 	- [x] iPad + chargeur
