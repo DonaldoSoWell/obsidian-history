@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Connecteur Erilia.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Connecteur Erilia.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Connecteur Erilia.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Connecteur Erilia.md"
+                "file": "MOC.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "3d661e7f595a4f18",
   "lastOpenFiles": [
+    "1. Projects/Connecteur Erilia.md",
     "1. Projects/1. Projects.md",
     "MOC.md",
     "1. Projects/1. Projects 2.md",
@@ -160,7 +161,6 @@
     "1. Projects/Connexion SSO Sequens.md",
     "2. Areas/Customers/Sequens.md",
     "2. Areas/2. Areas.md",
-    "2. Areas/Admin.md",
-    "1. Projects/Connecteur vivest.md"
+    "2. Areas/Admin.md"
   ]
 }
