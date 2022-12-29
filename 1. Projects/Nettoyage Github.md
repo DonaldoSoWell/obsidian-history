@@ -5,4 +5,4 @@ tags:
 ## Areas
 - [[Admin]]
 ## Tasks 
-- [ ] Basculer tous les projets depuis SoWell.ai vers SoWellApp
+- [ ] Basculer tous les projets depuis SoWell.ai vers SoWellApp 
