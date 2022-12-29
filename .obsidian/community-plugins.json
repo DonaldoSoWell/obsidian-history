@@ -1,7 +1,6 @@
 [
   "waypoint",
   "obsidian-git",
-  "buttons",
   "obsidian-task-progress-bar",
   "obsidian-tasks-plugin",
   "auto-note-mover",
@@ -11,5 +10,6 @@
   "dataview",
   "obsidian-style-settings",
   "nldates-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "calendar"
 ]
