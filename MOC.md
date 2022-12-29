@@ -9,7 +9,6 @@ type command
 action Daily notes: Open today's daily note
 color blue
 ```
-^button-daily
 
 ## Tasks
 ### Due

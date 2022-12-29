@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d661e7f595a4f18",
+            "id": "c371a1f344bc4d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/Daily/2022-12-29.md",
+                "file": "MOC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/Daily/2022-12-29.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/Daily/2022-12-29.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,30 +128,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/Daily/2022-12-29.md"
+                "file": "MOC.md"
               }
             }
+          },
+          {
+            "id": "bad2a0a034e3bf93",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d661e7f595a4f18",
+  "active": "c371a1f344bc4d6c",
   "lastOpenFiles": [
+    "4. Archives/Daily/2022-12-29.md",
     "MOC.md",
     "1. Projects/Connecteur Erilia.md",
     "1. Projects/Connecteur vivest.md",
@@ -160,7 +169,6 @@
     "1. Projects/Lancement application mobile SoClean.md",
     "1. Projects/Modification comptage points Mada.md",
     "1. Projects/Nettoyage Github.md",
-    "1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "4. Archives/Daily/2022-12-29.md"
+    "1. Projects/Rediriger les mails de Laura et Mathieu.md"
   ]
 }
