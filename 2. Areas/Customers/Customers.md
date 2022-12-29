@@ -1,5 +1,5 @@
 # Customers
-%% Begin Waypoint %%
+
 - [[ABH]]
 - [[Batigere]]
 - [[Erilia]]

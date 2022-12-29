@@ -11,8 +11,13 @@
             "id": "3f4793817df427cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Customers/Customers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Areas/Customers/Customers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Areas/Customers/Customers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Areas/Customers/Customers.md"
+              }
             }
           },
           {
@@ -166,16 +175,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7e0e677ad9527138",
+  "active": "3f4793817df427cd",
   "lastOpenFiles": [
+    "2. Areas/2. Areas.md",
     "2. Areas/Customers/Customers.md",
     "Inbox/Chartre Metropole habitat.md",
-    "2. Areas/Customers/Plaine Commune habitat.md",
+    "Inbox/Plaine Commune habitat.md",
     "2. Areas/Customers/Ozanam.md",
     "1. Projects/1. Projects.md",
     "Areas/customers/Chartre Metropole habitat.md",
     "2. Areas/Customers/Vivest.md",
-    "2. Areas/2. Areas.md",
     "1. Projects/Connecteur Erilia.md",
     "Home.md"
   ]
