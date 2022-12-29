@@ -63,7 +63,7 @@ if (upcomingTasks.length) {
 }
 ```
 
-### Pending
+### *Pending*
 ```tasks
 no due date
 not done 
