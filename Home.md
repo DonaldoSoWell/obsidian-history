@@ -6,7 +6,7 @@
 
 ## Tasks
 
-### Due
+### *Due*
 ```tasks
 
 due before date(tomorrow)
