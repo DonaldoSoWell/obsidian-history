@@ -34,6 +34,7 @@ if (overdueTasks.length) {
 	dv.el('br', '')
 }
 ```
+
 ### Upcoming
 ```tasks
 due after date(today)
