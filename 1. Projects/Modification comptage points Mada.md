@@ -3,7 +3,7 @@
 tags:
 - templates/project
 ---
-## Notes
+## Notes 
 - Areas : [[Admin]]
 - #people/jeni voici donc les problèmes qu'on a relevé concernant les comptages de points:
 	- Focus sur l'objectif perso (Vrai pbl pour les lead dev)
