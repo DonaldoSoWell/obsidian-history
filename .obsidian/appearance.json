@@ -1,7 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Everblush",
   "translucency": true,
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": true
 }

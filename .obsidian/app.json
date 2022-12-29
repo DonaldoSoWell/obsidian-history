@@ -1,17 +1,17 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "defaultViewMode": "preview",
-  "spellcheck": false,
+  "spellcheck": true,
   "newFileFolderPath": "Inbox",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "3. Resources/Attachments",
   "communityPluginSortOrder": "download",
   "vimMode": false,
   "livePreview": true,
   "showFrontmatter": false,
   "newLinkFormat": "shortest",
   "fileSortOrder": "alphabeticalReverse",
-  "showInlineTitle": false
+  "showInlineTitle": true
 }

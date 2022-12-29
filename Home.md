@@ -3,6 +3,7 @@
 > [[2. Areas]]  
 > [[3. Resources]]
 > [[4. Archives]] 
+
 ## Tasks
 ### Due
 ```tasks
