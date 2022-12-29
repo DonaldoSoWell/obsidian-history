@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0525c2bfef0c19",
+        "id": "909f1f709f09e433",
         "type": "tabs",
         "children": [
           {
-            "id": "618567d0f60a582a",
+            "id": "c9a7ed8ad2291d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/2. Areas.md",
-                "mode": "source",
+                "file": "2. Areas/Customers/Customers.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "2. Areas/Customers/Customers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/2. Areas.md",
+                "file": "2. Areas/Customers/Customers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/2. Areas.md"
+                "file": "2. Areas/Customers/Customers.md"
               }
             }
           },
@@ -175,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "618567d0f60a582a",
+  "active": "c9a7ed8ad2291d19",
   "lastOpenFiles": [
-    "2. Areas/Customers/Customers.md",
     "2. Areas/2. Areas.md",
+    "2. Areas/Customers/Customers.md",
+    "2. Areas/Customers/Un test.md",
+    "Home.md",
     "2. Areas/Customers/Chartre Metropole habitat.md",
     "2. Areas/Customers/Plaine Commune habitat.md",
     "2. Areas/Customers/Ozanam.md",
     "1. Projects/1. Projects.md",
     "Areas/customers/Chartre Metropole habitat.md",
-    "2. Areas/Customers/Vivest.md",
-    "1. Projects/Connecteur Erilia.md",
-    "Home.md"
+    "2. Areas/Customers/Vivest.md"
   ]
 }
