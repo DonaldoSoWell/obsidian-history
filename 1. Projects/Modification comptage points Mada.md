@@ -5,7 +5,7 @@ tags:
 ---
 ## Notes 
 - Areas : [[Admin]]
-- @ voici donc les problèmes qu'on a relevé concernant les comptages de points:
+- @jeni  voici donc les problèmes qu'on a relevé concernant les comptages de points:
 	- Focus sur l'objectif perso (Vrai pbl pour les lead dev)
 	- Course au ticket les mieux estimer sans souci de sa valeur metier
 	- les gens préfère travailler seul pour ne pas partager les points 
