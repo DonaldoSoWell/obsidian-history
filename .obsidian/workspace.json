@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5e2fe42c73872cf0",
+  "active": "7e0e677ad9527138",
   "lastOpenFiles": [
     "1. Projects/Modification comptage points Mada.md",
     "1. Projects/Connexion SSO Sequens.md",
