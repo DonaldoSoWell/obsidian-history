@@ -4,133 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "718cdc0a229d5c90",
+        "id": "0adfbf297729a388",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8de88d03f18613",
+            "id": "5e2fe42c73872cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Modification comptage points Mada.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac42df6a981f16a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Connexion SSO Sequens.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6bd0de185e63834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Modification comptage points Mada.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495f8d2905ff0c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-09-01.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0bb99cef0476a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-09-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1cb8aeb9c0f3859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-09-26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "130b5aff4a582630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-09-30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a766891479d58661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-12-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a886cd42266ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Préparation salon USH 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bfdbe980fbe3d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archives/Daily/2022-10-21.md",
+                "file": "2. Areas/Customers/ABH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 9,
         "stacked": true
       }
     ],
@@ -158,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#templates/area/customers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/Daily/2022-10-21.md",
+                "file": "2. Areas/Customers/ABH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/Daily/2022-10-21.md",
+                "file": "2. Areas/Customers/ABH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/Daily/2022-10-21.md"
+                "file": "2. Areas/Customers/ABH.md"
               }
             }
           },
@@ -267,7 +148,7 @@
             }
           },
           {
-            "id": "afa4c962d5ad083b",
+            "id": "af2a1c89ccf3ecf0",
             "type": "leaf",
             "state": {
               "type": "ch.der-tobi.obsidian-simple-mention",
@@ -275,11 +156,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 738.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0bfdbe980fbe3d59",
+  "active": "5e2fe42c73872cf0",
   "lastOpenFiles": [
-    "4. Archives/Préparation salon USH 2022.md",
-    "4. Archives/Daily/2022-12-27.md",
-    "4. Archives/Daily/2022-09-30.md",
-    "4. Archives/Daily/2022-09-26.md",
-    "4. Archives/Daily/2022-09-23.md",
-    "4. Archives/Daily/2022-09-01.md",
     "1. Projects/Modification comptage points Mada.md",
     "1. Projects/Connexion SSO Sequens.md",
-    "1. Projects/Rediriger les mails de Laura et Mathieu.md",
-    "Home.md"
+    "4. Archives/Daily/2022-09-01.md",
+    "4. Archives/Daily/2022-09-23.md",
+    "4. Archives/Daily/2022-09-26.md",
+    "4. Archives/Daily/2022-09-30.md",
+    "4. Archives/Daily/2022-12-27.md",
+    "4. Archives/Préparation salon USH 2022.md",
+    "4. Archives/Daily/2022-10-21.md",
+    "1. Projects/Rediriger les mails de Laura et Mathieu.md"
   ]
 }
