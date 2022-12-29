@@ -11,8 +11,13 @@
             "id": "2e3f303cdce18e68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Customers/Customers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Areas/Customers/Customers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Areas/Customers/Customers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Areas/Customers/Customers.md"
+              }
             }
           },
           {
@@ -166,10 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7e0e677ad9527138",
+  "active": "2e3f303cdce18e68",
   "lastOpenFiles": [
     "2. Areas/Customers/Customers.md",
-    "Area/custmers/Ozanam.md",
+    "2. Areas/Customers/Ozanam.md",
     "1. Projects/1. Projects.md",
     "Areas/customers/Chartre Metropole habitat.md",
     "2. Areas/Customers/Vivest.md",
