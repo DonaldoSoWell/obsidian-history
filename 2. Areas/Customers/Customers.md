@@ -7,7 +7,7 @@
 - [[Neolia]]
 - [[Sequens]]
 - [[Vivest]]
-- [[Plaine Commune habitat]]
+- [[2. Areas/Customers/Plaine Commune habitat]]
 - [[areas/customers/Chartre Metropole habitat]]
 
 %% End Waypoint %%
