@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archives/Daily/2022-09-06.md",
+                "file": "4. Archives/Daily/2022-09-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#private/travaux",
+                "query": "tag:#sorting/important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archives/Daily/2022-09-06.md",
+                "file": "4. Archives/Daily/2022-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archives/Daily/2022-09-06.md",
+                "file": "4. Archives/Daily/2022-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archives/Daily/2022-09-06.md"
+                "file": "4. Archives/Daily/2022-09-05.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5e2fe42c73872cf0",
+  "active": "c071dea157d37005",
   "lastOpenFiles": [
+    "4. Archives/Daily/2022-09-06.md",
     "4. Archives/Daily/2022-09-02.md",
     "Inbox/Hébergements.md",
     "2. Areas/Customers/Sequens.md",
@@ -183,7 +184,6 @@
     "2. Areas/Customers/Batigere.md",
     "2. Areas/Customers/ABH.md",
     "1. Projects/Modification comptage points Mada.md",
-    "1. Projects/Connexion SSO Sequens.md",
-    "4. Archives/Daily/2022-09-01.md"
+    "1. Projects/Connexion SSO Sequens.md"
   ]
 }
