@@ -62,6 +62,7 @@ if (upcomingTasks.length) {
 	dv.el('br', '')
 }
 ```
+
 ### Pending
 ```tasks
 no due date
