@@ -9,7 +9,7 @@ tags:
 - Retour le 29 Septembre à 16:04 de Lyon Part-Dieu - Gare de Lyon (Paris)
 - [Documents utiles](https://sowellapp.sharepoint.com/:f:/s/SoWellteam/EpklgD6f1XxGoOC1PPMCHLIBBT8eDBbFk8yNNLZl2apkVA?e=F6XRs6)
 ## Tasks 
-- [x] Récuperer les Polos @due 📅 2022-09-24 [completion:: 2022-09-24]
+- [x] Récuperer les Polos  📅 2022-09-24 [completion:: 2022-09-24]
 	- Facturation 
 		- Montant commande 210 euros
 		- Montant payé à la commande 109,20 euros
