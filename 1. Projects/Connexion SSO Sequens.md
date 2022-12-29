@@ -29,7 +29,7 @@ SORT file.name ASC
 	- [x] https://github.com/survirtual/vue-adal
 	- [x] https://www.web-dev-qa-db-fra.com/fr/node.js/comment-authentifier-une-application-vuejs-avec-azure-ad/832164266/
 	- [x] https://thewebdev.info/2022/03/12/how-to-authenticate-a-vue-js-app-with-azure-ad/
-- [x] Planifier la réalisation du SSO dans Obsidian conformément au dates annoncées [ici](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) @due 📅 2022-10-08 ✅ 2022-10-11
+- [x] Planifier la réalisation du SSO dans Obsidian conformément au dates annoncées [ici](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) 📅 2022-10-08 ✅ 2022-10-11
 - [x] Respecter la planification annocée  [cf mail](message://<E3ADF990-B915-47A7-AE04-E2C3B01DC179@sowellapp.com>) ✅ 2022-12-27
 	- [x] Pour l’application Web [manager.sowellapp.com](http://manager.sowellapp.com/) : ✅ 2022-12-27
 		1. Etude de faisabilité :
