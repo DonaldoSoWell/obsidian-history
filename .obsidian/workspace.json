@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1. Projects/Rediriger les mails de Laura et Mathieu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1. Projects/Rediriger les mails de Laura et Mathieu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1. Projects/Rediriger les mails de Laura et Mathieu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "1. Projects/Rediriger les mails de Laura et Mathieu.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "ae8de88d03f18613",
   "lastOpenFiles": [
+    "Home.md",
     "Inbox/Amethyst.md",
     "Inbox/Hébergements.md",
     "Inbox/Obsidian plugins to test.md",
@@ -177,7 +178,6 @@
     "1. Projects/Rediriger les mails de Laura et Mathieu.md",
     "Inbox/2.md",
     "2. Areas/2. Areas.md",
-    "Home.md",
     "1. Projects/Connecteur Erilia.md"
   ]
 }
