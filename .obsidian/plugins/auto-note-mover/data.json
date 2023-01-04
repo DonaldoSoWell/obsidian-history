@@ -4,28 +4,43 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "1. Projects",
-      "tag": "#templates/project",
+      "folder": "Projects",
+      "tag": "#project",
       "pattern": ""
     },
     {
-      "folder": "4. Archives/Daily",
-      "tag": "#templates/daily",
+      "folder": "Archives/Daily",
+      "tag": "#daily",
       "pattern": ""
     },
     {
-      "folder": "4. Archives/Meetings",
-      "tag": "#templates/meeting",
+      "folder": "Archives/Meetings",
+      "tag": "#meeting",
+      "pattern": ""
+    },
+    {
+      "folder": "Areas/Customers",
+      "tag": "#areas/customers",
+      "pattern": ""
+    },
+    {
+      "folder": "Areas",
+      "tag": "#areas",
+      "pattern": ""
+    },
+    {
+      "folder": "Archives",
+      "tag": "#archives",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "4. Archives"
+      "folder": "Archives"
     },
     {
-      "folder": "3. Resources/Templates"
+      "folder": "Resources/Templates"
     }
   ]
 }

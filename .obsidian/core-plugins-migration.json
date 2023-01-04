@@ -4,7 +4,7 @@
   "switcher": true,
   "graph": true,
   "backlink": true,
-  "outgoing-link": true,
+  "outgoing-link": false,
   "tag-pane": true,
   "page-preview": true,
   "daily-notes": true,
@@ -22,7 +22,7 @@
   "slides": false,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": false,
   "canvas": false

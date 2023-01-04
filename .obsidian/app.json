@@ -6,12 +6,19 @@
   "spellcheck": true,
   "newFileFolderPath": "Inbox",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "3. Resources/Attachments",
+  "attachmentFolderPath": "Resources/Attachments",
   "communityPluginSortOrder": "download",
   "vimMode": false,
-  "livePreview": true,
+  "livePreview": false,
   "showFrontmatter": false,
   "newLinkFormat": "shortest",
   "fileSortOrder": "alphabeticalReverse",
-  "showInlineTitle": true
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

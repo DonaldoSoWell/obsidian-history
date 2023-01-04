@@ -4,7 +4,6 @@
   "switcher",
   "graph",
   "backlink",
-  "outgoing-link",
   "tag-pane",
   "page-preview",
   "daily-notes",
@@ -14,6 +13,5 @@
   "slash-command",
   "editor-status",
   "starred",
-  "outline",
-  "file-recovery"
+  "outline"
 ]

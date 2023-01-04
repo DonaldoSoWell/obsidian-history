@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "01bd2d79e75c9636",
+        "id": "7d9689e10d7fa575",
         "type": "tabs",
         "children": [
           {
-            "id": "57caa72239b0b47c",
+            "id": "d37ea72358f38525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1. Projects/Connecteur vivest.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "1. Projects/Connecteur vivest.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,24 +114,32 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "1. Projects/Connecteur vivest.md"
           }
+        }
+      },
+      {
+        "id": "f3406c10f1d5afb2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "57caa72239b0b47c",
+  "active": "d37ea72358f38525",
   "lastOpenFiles": [
-    "Home.md",
     "1. Projects/1. Projects.md",
-    "MOC.md",
-    "PARA/1. Projects/Achats Castorama.md",
-    "PARA/4. Archives/4. Archives.md",
-    "Buttons 1.0 is Coming.md",
-    "PARA/1. Projects/Lancement application mobile SoClean.md",
-    "PARA/1. Projects/1. Projects.md",
-    "Inbox/un projet test pour ABH.md",
-    "PARA/2. Areas/ABH.md"
+    "1. Projects/Connecteur Erilia.md",
+    "Home.md",
+    "Inbox/Areas.md",
+    "Inbox/Projects.md",
+    "Inbox/Obsidian plugins to test.md",
+    "Inbox/2.md",
+    "2. Areas/Customers/Customers.md",
+    "2. Areas/2. Areas.md",
+    "3. Resources/3. Resources.md"
   ]
 }

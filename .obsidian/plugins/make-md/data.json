@@ -1,0 +1,459 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarTabs": false,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "Home.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "Inbox",
+        "children": [
+          {
+            "node": "Hébergements.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Obsidian plugins to test.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Reporter V2.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Untitled.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Projects",
+        "children": [
+          {
+            "node": "Connecteur Erilia.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Connecteur vivest.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Connexion SSO Sequens.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Fusion des environnements INLI.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Lancement application mobile SoClean.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Modification comptage points Mada.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Nettoyage Github.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Projects.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Areas",
+        "children": [
+          {
+            "node": "Admin.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Areas.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Customers",
+            "children": [
+              {
+                "node": "ABH.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Batigere.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Chartre Metropole habitat.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Customers.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Erilia.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Habitat 77.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "INLI.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Neolia.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Ozanam.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Plaine Commune habitat.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Sequens.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Vivest.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "SoClean mobile.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Resources",
+        "children": [
+          {
+            "node": "Attachments",
+            "children": [
+              {
+                "node": "NDF 2022 Jan-Juil.xlsx",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Notes de frais.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Resources.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Templates",
+            "children": [
+              {
+                "node": "Area.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Daily.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Meeting.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Project.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Archives",
+        "children": [
+          {
+            "node": "Archives.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Check-list fin de chantier ravalement.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Daily",
+            "children": [
+              {
+                "node": "2022-09-01.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-02.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-03.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-04.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-05.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-06.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-07.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-08.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-09.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-10.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-11.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-12.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-13.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-14.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-15.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-16.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-19.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-20.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-21.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-22.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-23.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-26.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-09-30.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-10-21.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-10-25.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-12-27.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "2022-12-29.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Meetings",
+            "children": [
+              {
+                "node": "2022-09-21 Call technique SSO Sequens.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "Préparation salon USH 2022.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Rediriger les mails de Laura et Mathieu.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      }
+    ],
+    "isFolder": true
+  },
+  "openFolders": [
+    "//Resources/Resources/Templates",
+    "//Resources/Resources/Attachments"
+  ],
+  "fileIcons": [
+    [
+      "Archives",
+      "231b"
+    ],
+    [
+      "Home.md",
+      "1f3e0"
+    ],
+    [
+      "Inbox",
+      "1f4e5"
+    ],
+    [
+      "Projects",
+      "1f4cb"
+    ],
+    [
+      "Areas",
+      "1f30d"
+    ],
+    [
+      "Resources",
+      "1f4da"
+    ],
+    [
+      "Areas/Customers",
+      "1f4b0"
+    ],
+    [
+      "Areas/Admin.md",
+      "2699-fe0f"
+    ]
+  ],
+  "spaces": [],
+  "vaultCollapsed": false,
+  "menuTriggerChar": "%",
+  "emojiTriggerChar": ":"
+}

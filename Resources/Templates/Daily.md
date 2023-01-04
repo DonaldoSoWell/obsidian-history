@@ -1,0 +1,7 @@
+---
+template: #daily
+---
+##### [[Home]]
+
+### Todo
+- [ ] 

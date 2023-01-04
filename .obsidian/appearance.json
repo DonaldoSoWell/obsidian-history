@@ -1,8 +1,10 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Everblush",
+  "cssTheme": "Shimmering Focus",
   "translucency": true,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "headers-margin"
+  ],
   "accentColor": "",
   "showViewHeader": false,
   "nativeMenus": true

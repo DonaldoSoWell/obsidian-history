@@ -1,6 +1,0 @@
----
-tags:
-- templates/daily
----
-## 📆  TODO
-- [ ] 
